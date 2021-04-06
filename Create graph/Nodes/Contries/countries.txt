@@ -1,0 +1,508 @@
+node 615: AF
+
+node 616: AX
+
+node 617: AL
+
+node 618: DZ
+
+node 619: AS
+
+node 620: AD
+
+node 621: AO
+
+node 622: AI
+
+node 623: AG
+
+node 624: AR
+
+node 625: AM
+
+node 626: AW
+
+node 627: AC
+
+node 628: AU
+
+node 629: AT
+
+node 630: AZ
+
+node 631: BS
+
+node 632: BH
+
+node 633: BD
+
+node 634: BB
+
+node 635: BY
+
+node 636: BE
+
+node 637: BZ
+
+node 638: BJ
+
+node 639: BM
+
+node 640: BT
+
+node 641: BO
+
+node 642: BA
+
+node 643: BW
+
+node 644: BR
+
+node 645: IO
+
+node 646: VG
+
+node 647: BN
+
+node 648: BG
+
+node 649: BF
+
+node 650: BI
+
+node 651: KH
+
+node 652: CM
+
+node 653: CA
+
+node 654: IC
+
+node 655: CV
+
+node 656: BQ
+
+node 657: KY
+
+node 658: CF
+
+node 659: EA
+
+node 660: TD
+
+node 661: CL
+
+node 662: CN
+
+node 663: CX
+
+node 664: CP
+
+node 665: CC
+
+node 666: CO
+
+node 667: KM
+
+node 668: CG
+
+node 669: CD
+
+node 670: CK
+
+node 671: CR
+
+node 672: CI
+
+node 673: HR
+
+node 674: CU
+
+node 675: CW
+
+node 676: CY
+
+node 677: CZ
+
+node 678: DK
+
+node 679: DG
+
+node 680: DJ
+
+node 681: DM
+
+node 682: DO
+
+node 683: EC
+
+node 684: EG
+
+node 685: SV
+
+node 686: GQ
+
+node 687: ER
+
+node 688: EE
+
+node 689: ET
+
+node 690: FK
+
+node 691: FO
+
+node 692: FJ
+
+node 693: FI
+
+node 694: FR
+
+node 695: GF
+
+node 696: PF
+
+node 697: TF
+
+node 698: GA
+
+node 699: GM
+
+node 700: GE
+
+node 701: DE
+
+node 702: GH
+
+node 703: GI
+
+node 704: GR
+
+node 705: GL
+
+node 706: GD
+
+node 707: GP
+
+node 708: GU
+
+node 709: GT
+
+node 710: GG
+
+node 711: GN
+
+node 712: GW
+
+node 713: GY
+
+node 714: HT
+
+node 715: HM
+
+node 716: HN
+
+node 717: HK
+
+node 718: HU
+
+node 719: IS
+
+node 720: IN
+
+node 721: ID
+
+node 722: IR
+
+node 723: IQ
+
+node 724: IE
+
+node 725: IM
+
+node 726: IL
+
+node 727: IT
+
+node 728: JM
+
+node 729: JP
+
+node 730: JE
+
+node 731: JO
+
+node 732: KZ
+
+node 733: KE
+
+node 734: KI
+
+node 735: XK
+
+node 736: KW
+
+node 737: KG
+
+node 738: LA
+
+node 739: LV
+
+node 740: LB
+
+node 741: LS
+
+node 742: LR
+
+node 743: LY
+
+node 744: LI
+
+node 745: LT
+
+node 746: LU
+
+node 747: MO
+
+node 748: MK
+
+node 749: MG
+
+node 750: MW
+
+node 751: MY
+
+node 752: MV
+
+node 753: ML
+
+node 754: MT
+
+node 755: MH
+
+node 756: MQ
+
+node 757: MR
+
+node 758: MU
+
+node 759: YT
+
+node 760: MX
+
+node 761: FM
+
+node 762: MD
+
+node 763: MC
+
+node 764: MN
+
+node 765: ME
+
+node 766: MS
+
+node 767: MA
+
+node 768: MZ
+
+node 769: MM
+
+node 770: NA
+
+node 771: NR
+
+node 772: NP
+
+node 773: NL
+
+node 774: NC
+
+node 775: NZ
+
+node 776: NI
+
+node 777: NE
+
+node 778: NG
+
+node 779: NU
+
+node 780: NF
+
+node 781: KP
+
+node 782: MP
+
+node 783: NO
+
+node 784: OM
+
+node 785: PK
+
+node 786: PW
+
+node 787: PS
+
+node 788: PA
+
+node 789: PG
+
+node 790: PY
+
+node 791: PE
+
+node 792: PH
+
+node 793: PN
+
+node 794: PL
+
+node 795: PT
+
+node 796: PR
+
+node 797: QA
+
+node 798: RE
+
+node 799: RO
+
+node 800: RU
+
+node 801: RW
+
+node 802: WS
+
+node 803: SM
+
+node 804: ST
+
+node 805: SA
+
+node 806: SN
+
+node 807: RS
+
+node 808: SC
+
+node 809: SL
+
+node 810: SG
+
+node 811: SX
+
+node 812: SK
+
+node 813: SI
+
+node 814: SB
+
+node 815: SO
+
+node 816: ZA
+
+node 817: GS
+
+node 818: KR
+
+node 819: SS
+
+node 820: ES
+
+node 821: LK
+
+node 822: BL
+
+node 823: SH
+
+node 824: KN
+
+node 825: LC
+
+node 826: MF
+
+node 827: PM
+
+node 828: VC
+
+node 829: SD
+
+node 830: SR
+
+node 831: SJ
+
+node 832: SZ
+
+node 833: SE
+
+node 834: CH
+
+node 835: SY
+
+node 836: TW
+
+node 837: TJ
+
+node 838: TZ
+
+node 839: TH
+
+node 840: TL
+
+node 841: TG
+
+node 842: TK
+
+node 843: TO
+
+node 844: TT
+
+node 845: TA
+
+node 846: TN
+
+node 847: TR
+
+node 848: TM
+
+node 849: TC
+
+node 850: TV
+
+node 851: UM
+
+node 852: VI
+
+node 853: UG
+
+node 854: UA
+
+node 855: AE
+
+node 856: GB
+
+node 857: US
+
+node 858: UY
+
+node 859: UZ
+
+node 860: VU
+
+node 861: VA
+
+node 862: VE
+
+node 863: VN
+
+node 864: WF
+
+node 865: EH
+
+node 866: YE
+
+node 867: ZM
+
+node 868: ZW
+
