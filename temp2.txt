@@ -1,0 +1,2939 @@
+country:Abkhazian,  code: ab,  pessoas: Georgia
+country:Turkey,  code: TR,  pessoas: 4,035
+
+
+language:  Abron, code: abr
+country: Ghana GH
+
+language:  Achinese, code: ace
+country: Indonesia ID
+
+language:  Acoli, code: ach
+country: Uganda UG
+
+language:  Adyghe, code: ady
+country: Turkey TR
+country:Russia,  code: RU,  pessoas: 123,975
+
+
+language:  Afar, code: aa
+country: Ethiopia ET
+country:Djibouti,  code: DJ,  pessoas: 332,723
+
+country:Eritrea,  code: ER,  pessoas: 224,412
+
+
+language:  Afrikaans, code: af
+country: South Africa ZA
+country:Namibia,  code: NA,  pessoas: 1,637,138
+
+country:Botswana,  code: BW,  pessoas: 5,958
+
+
+language:  Aghem, code: agq
+country: Cameroon CM
+
+language:  Akan, code: ak
+country: Ghana GH
+
+language:  Akoose, code: bss
+country: Cameroon CM
+
+language:  Albanian, code: sq
+country: Albania AL
+country:Kosovo,  code: XK,  pessoas: 1,699,893
+
+country:Serbia,  code: RS,  pessoas: 1,376,172
+
+country:Macedonia,  code: MK,  pessoas: 521,792
+
+country:Montenegro,  code: ME,  pessoas: 51,624
+
+country:Turkey,  code: TR,  pessoas: 16,946
+
+country:Greece,  code: GR,  pessoas: 10,019
+
+
+language:  Albay Bicolano, code: bhk
+country: Philippines PH
+
+language:  Amharic, code: am
+country: Ethiopia ET
+country:Israel,  code: IL,  pessoas: 45,472
+
+
+language:  Amo, code: amo
+country: Nigeria NG
+
+language:  Arabic, code: ar
+country: Egypt EG
+country:Algeria,  code: DZ,  pessoas: 28,184,972
+
+country:Saudi Arabia,  code: SA,  pessoas: 26,939,600
+
+country:Iraq,  code: IQ,  pessoas: 21,663,780
+
+country:Sudan,  code: SD,  pessoas: 21,257,219
+
+country:Morocco,  code: MA,  pessoas: 20,242,442
+
+country:Yemen,  code: YE,  pessoas: 18,750,490
+
+country:Syria,  code: SY,  pessoas: 17,965,840
+
+country:Tunisia,  code: TN,  pessoas: 9,752,310
+
+country:Jordan,  code: JO,  pessoas: 6,482,080
+
+country:Libya,  code: LY,  pessoas: 4,441,739
+
+country:Palestinian Territories,  code: PS,  pessoas: 4,440,130
+
+country:United Arab Emirates,  code: AE,  pessoas: 4,269,697
+
+country:Lebanon,  code: LB,  pessoas: 3,553,159
+
+country:Somalia,  code: SO,  pessoas: 3,485,544
+
+country:South Sudan,  code: SS,  pessoas: 2,994,327
+
+country:Mauritania,  code: MR,  pessoas: 2,921,968
+
+country:Kuwait,  code: KW,  pessoas: 2,695,320
+
+country:Oman,  code: OM,  pessoas: 2,554,845
+
+country:Chad,  code: TD,  pessoas: 1,902,895
+
+country:Qatar,  code: QA,  pessoas: 1,817,772
+
+country:Iran,  code: IR,  pessoas: 1,597,078
+
+country:Israel,  code: IL,  pessoas: 1,541,408
+
+country:Bahrain,  code: BH,  pessoas: 1,114,757
+
+country:Western Sahara,  code: EH,  pessoas: 538,811
+
+country:Comoros,  code: KM,  pessoas: 496,510
+
+country:Turkey,  code: TR,  pessoas: 451,889
+
+country:Eritrea,  code: ER,  pessoas: 305,450
+
+country:Mali,  code: ML,  pessoas: 142,123
+
+country:Nigeria,  code: NG,  pessoas: 123,901
+
+country:Cameroon,  code: CM,  pessoas: 87,885
+
+country:Djibouti,  code: DJ,  pessoas: 57,830
+
+country:Niger,  code: NE,  pessoas: 35,489
+
+country:Kenya,  code: KE,  pessoas: 20,257
+
+country:Cyprus,  code: CY,  pessoas: 1,305
+
+country:Tajikistan,  code: TJ,  pessoas: 1,028
+
+
+language:  Armenian, code: hy
+country: Armenia AM
+country:Russia,  code: RU,  pessoas: 1,197,000
+
+country:Syria,  code: SY,  pessoas: 404,231
+
+country:Georgia,  code: GE,  pessoas: 345,951
+
+country:Lebanon,  code: LB,  pessoas: 214,842
+
+country:Iran,  code: IR,  pessoas: 191,649
+
+country:Turkey,  code: TR,  pessoas: 45,189
+
+country:Cyprus,  code: CY,  pessoas: 2,730
+
+
+language:  Assamese, code: as
+country: India IN
+
+language:  Asturian, code: ast
+country: Spain ES
+
+language:  Asu, code: asa
+country: Tanzania TZ
+
+language:  Atikamekw, code: atj
+country: Canada CA
+
+language:  Atsam, code: cch
+country: Nigeria NG
+
+language:  Avaric, code: av
+country: Russia RU
+
+language:  Awadhi, code: awa
+country: India IN
+country:Nepal,  code: NP,  pessoas: 669,467
+
+
+language:  Aymara, code: ay
+country: Bolivia BO
+country:Peru,  code: PE,  pessoas: 477,589
+
+
+language:  Azerbaijani (Arabic), code: az_Arab
+country: Iran IR
+
+language:  Azerbaijani (Cyrillic), code: az_Cyrl
+country: Azerbaijan AZ
+country:Russia,  code: RU,  pessoas: 131,100
+
+
+language:  Azerbaijani (Latin), code: az_Latn
+country: Azerbaijan AZ
+country:Turkey,  code: TR,  pessoas: 597,139
+
+country:Armenia,  code: AM,  pessoas: 162,406
+
+
+language:  Language, code: Code
+country: Territory Code
+country:Badaga,  code: bfq,  pessoas: India
+
+language:  Bafia, code: ksf
+country: Cameroon CM
+
+language:  Bafut, code: bfd
+country: Cameroon CM
+
+language:  Bagheli, code: bfy
+country: India IN
+country:Nepal,  code: NP,  pessoas: 164,324
+
+
+language:  Bakhtiari, code: bqi
+country: Iran IR
+
+language:  Balinese, code: ban
+country: Indonesia ID
+
+language:  Balkan Gagauz Turkish, code: bgx
+country: Turkey TR
+
+language:  Balti, code: bft
+country: Pakistan PK
+country:India,  code: IN,  pessoas: 75,690
+
+
+language:  Baluchi, code: bal
+country: Pakistan PK
+country:Iran,  code: IR,  pessoas: 1,597,078
+
+country:Afghanistan,  code: AF,  pessoas: 208,424
+
+country:Oman,  code: OM,  pessoas: 154,552
+
+country:United Arab Emirates,  code: AE,  pessoas: 125,901
+
+
+language:  Bambara, code: bm
+country: Mali ML
+
+language:  Bamun, code: bax
+country: Cameroon CM
+
+language:  Banjar, code: bjn
+country: Indonesia ID
+country:Malaysia,  code: MY,  pessoas: 1,066,622
+
+
+language:  Bantawa, code: bap
+country: Nepal NP
+
+language:  Baoulé, code: bci
+country: Côte d’Ivoire CI
+
+language:  Basaa, code: bas
+country: Cameroon CM
+
+language:  Bashkir, code: ba
+country: Russia RU
+
+language:  Basque, code: eu
+country: Spain ES
+country:France,  code: FR,  pessoas: 85,737
+
+
+language:  Batak, code: bya
+country: Indonesia ID
+
+language:  Batak Toba, code: bbc
+country: Indonesia ID
+
+language:  Bateri, code: btv
+country: Pakistan PK
+country:India,  code: IN,  pessoas: 31,741
+
+
+language:  Belarusian, code: be
+country: Belarus BY
+country:Ukraine,  code: UA,  pessoas: 369,958
+
+country:Poland,  code: PL,  pessoas: 222,626
+
+
+language:  Bemba, code: bem
+country: Zambia ZM
+
+language:  Bena, code: bez
+country: Tanzania TZ
+
+language:  Bengali, code: bn
+country: Bangladesh BD
+country:India,  code: IN,  pessoas: 98,884,800
+
+country:United Kingdom,  code: GB,  pessoas: 424,751
+
+country:Nepal,  code: NP,  pessoas: 28,300
+
+
+language:  Betawi, code: bew
+country: Indonesia ID
+
+language:  Bhilali, code: bhi
+country: India IN
+
+language:  Bhili, code: bhb
+country: India IN
+
+language:  Bhojpuri, code: bho
+country: India IN
+country:Nepal,  code: NP,  pessoas: 2,069,260
+
+country:Mauritius,  code: MU,  pessoas: 357,005
+
+
+language:  Bikol, code: bik
+country: Philippines PH
+
+language:  Bini, code: bin
+country: Nigeria NG
+
+language:  Bislama, code: bi
+country: Vanuatu VU
+
+language:  Blin, code: byn
+country: Eritrea ER
+
+language:  Bodo, code: brx
+country: India IN
+
+language:  Bomu, code: bmq
+country: Mali ML
+
+language:  Bosnian (Cyrillic), code: bs_Cyrl
+country: Bosnia and Herzegovina BA
+
+language:  Bosnian (Latin), code: bs_Latn
+country: Bosnia and Herzegovina BA
+
+language:  Brahui, code: brh
+country: Pakistan PK
+
+language:  Braj, code: bra
+country: India IN
+
+language:  Breton, code: br
+country: France FR
+
+language:  Bube, code: bvb
+country: Equatorial Guinea GQ
+
+language:  Buginese, code: bug
+country: Indonesia ID
+country:Malaysia,  code: MY,  pessoas: 23,703
+
+
+language:  Buhid, code: bku
+country: Philippines PH
+
+language:  Bulgarian, code: bg
+country: Bulgaria BG
+country:Moldova,  code: MD,  pessoas: 340,273
+
+country:Turkey,  code: TR,  pessoas: 338,917
+
+country:Ukraine,  code: UA,  pessoas: 218,409
+
+country:Greece,  code: GR,  pessoas: 29,087
+
+country:Romania,  code: RO,  pessoas: 6,755
+
+
+language:  Bulu, code: bum
+country: Cameroon CM
+
+language:  Buriat, code: bua
+country: Russia RU
+
+language:  Burmese, code: my
+country: Myanmar (Burma) MM
+country:Bangladesh,  code: BD,  pessoas: 343,676
+
+
+language:  Bushi, code: buc
+country: Mayotte YT
+
+language:  Language, code: Code
+country: Territory Code
+country:Catalan,  code: ca,  pessoas: Spain
+country:France,  code: FR,  pessoas: 112,118
+
+country:Andorra,  code: AD,  pessoas: 43,499
+
+country:Italy,  code: IT,  pessoas: 21,519
+
+
+language:  Cebaara Senoufo, code: sef
+country: Côte d’Ivoire CI
+
+language:  Cebuano, code: ceb
+country: Philippines PH
+
+language:  Central Atlas Tamazight (Latin), code: tzm_Latn
+country: Morocco MA
+
+language:  Central Huasteca Nahuatl, code: nch
+country: Mexico MX
+
+language:  Central Mazahua, code: maz
+country: Mexico MX
+
+language:  Central Okinawan, code: ryu
+country: Japan JP
+
+language:  Central-Eastern Niger Fulfulde, code: fuq
+country: Niger NE
+
+language:  Chakma, code: ccp
+country: Bangladesh BD
+country:India,  code: IN,  pessoas: 341,824
+
+
+language:  Chamorro, code: ch
+country: Guam GU
+country:Northern Mariana Islands,  code: MP,  pessoas: 9,211
+
+
+language:  Chechen, code: ce
+country: Russia RU
+
+language:  Cherokee, code: chr
+country: United States US
+
+language:  Chhattisgarhi, code: hne
+country: India IN
+
+language:  Chiga, code: cgg
+country: Uganda UG
+
+language:  Chipewyan, code: chp
+country: Canada CA
+
+language:  Church Slavic, code: cu
+country: Russia RU
+country:Chuukese,  code: chk,  pessoas: Micronesia
+
+language:  Chuvash, code: cv
+country: Russia RU
+
+language:  Colognian, code: ksh
+country: Germany DE
+
+language:  Comorian, code: swb
+country: Mayotte YT
+
+language:  Congo Swahili, code: swc
+country: Congo - Kinshasa CD
+
+language:  Cornish, code: kw
+country: United Kingdom GB
+
+language:  Corsican, code: co
+country: France FR
+
+language:  Cree (Unified Canadian Aboriginal Syllabics), code: cr_Cans
+country: Canada CA
+
+language:  Croatian, code: hr
+country: Croatia HR
+country:Germany,  code: DE,  pessoas: 641,064
+
+country:Bosnia and Herzegovina,  code: BA,  pessoas: 465,086
+
+country:Austria,  code: AT,  pessoas: 98,660
+
+country:Serbia,  code: RS,  pessoas: 67,360
+
+country:Hungary,  code: HU,  pessoas: 31,806
+
+country:Italy,  code: IT,  pessoas: 3,504
+
+
+language:  Czech, code: cs
+country: Czech Republic CZ
+
+language:  Language, code: Code
+country: Territory Code
+country:Dan,  code: dnj,  pessoas: Côte d’Ivoire
+
+language:  Dangaura Tharu, code: thl
+country: Nepal NP
+
+language:  Danish, code: da
+country: Denmark DK
+country:Germany,  code: DE,  pessoas: 49,500
+
+country:Greenland,  code: GL,  pessoas: 8,080
+
+country:Iceland,  code: IS,  pessoas: 2,238
+
+
+language:  Dargwa, code: dar
+country: Russia RU
+
+language:  Deccan, code: dcc
+country: India IN
+
+language:  Divehi, code: dv
+country: Maldives MV
+country:India,  code: IN,  pessoas: 4,883
+
+
+language:  Dogri, code: doi
+country: India IN
+
+language:  Dogrib, code: dgr
+country: Canada CA
+
+language:  Domari, code: rmt
+country: Iran IR
+
+language:  Duala, code: dua
+country: Cameroon CM
+
+language:  Dutch, code: nl
+country: Netherlands NL
+country:Belgium,  code: BE,  pessoas: 5,744,365
+
+country:Suriname,  code: SR,  pessoas: 510,161
+
+country:Aruba,  code: AW,  pessoas: 105,878
+
+country:Germany,  code: DE,  pessoas: 97,377
+
+country:France,  code: FR,  pessoas: 85,737
+
+country:Curaçao,  code: CW,  pessoas: 11,747
+
+country:Caribbean Netherlands,  code: BQ,  pessoas: 1,600
+
+country:Sint Maarten,  code: SX,  pessoas: 1,588
+
+
+language:  Dyula, code: dyu
+country: Burkina Faso BF
+
+language:  Dzongkha, code: dz
+country: Bhutan BT
+country:India,  code: IN,  pessoas: 2,442
+
+
+language:  Language, code: Code
+country: Territory Code
+country:East Futuna,  code: fud,  pessoas: Wallis and Futuna
+
+language:  Eastern Cham, code: cjm
+country: Vietnam VN
+
+language:  Eastern Gurung, code: ggn
+country: Nepal NP
+
+language:  Eastern Huasteca Nahuatl, code: nhe
+country: Mexico MX
+
+language:  Eastern Lawa, code: lwl
+country: Thailand TH
+
+language:  Eastern Magar, code: mgp
+country: Nepal NP
+
+language:  Eastern Tamang, code: taj
+country: Nepal NP
+
+language:  Efik, code: efi
+country: Nigeria NG
+
+language:  Embu, code: ebu
+country: Kenya KE
+
+language:  English, code: en
+country: United States US
+country:India,  code: IN,  pessoas: 134,288,000
+
+country:Nigeria,  code: NG,  pessoas: 130,881,000
+
+country:Pakistan,  code: PK,  pessoas: 96,619,500
+
+country:Philippines,  code: PH,  pessoas: 67,661,440
+
+country:United Kingdom,  code: GB,  pessoas: 62,761,644
+
+country:Ethiopia,  code: ET,  pessoas: 40,367,110
+
+country:Kenya,  code: KE,  pessoas: 37,432,045
+
+country:Germany,  code: DE,  pessoas: 35,704,812
+
+country:Tanzania,  code: TZ,  pessoas: 33,300,711
+
+country:Canada,  code: CA,  pessoas: 29,382,970
+
+country:South Africa,  code: ZA,  pessoas: 26,730,605
+
+country:Australia,  code: AU,  pessoas: 21,372,000
+
+country:Sudan,  code: SD,  pessoas: 21,257,219
+
+country:France,  code: FR,  pessoas: 17,806,932
+
+country:Italy,  code: IT,  pessoas: 14,755,752
+
+country:Netherlands,  code: NL,  pessoas: 12,435,700
+
+country:Zimbabwe,  code: ZW,  pessoas: 11,996,439
+
+country:Zambia,  code: ZM,  pessoas: 11,519,982
+
+country:Spain,  code: ES,  pessoas: 11,368,920
+
+country:Malawi,  code: MW,  pessoas: 10,569,825
+
+country:Ghana,  code: GH,  pessoas: 9,071,856
+
+country:Malaysia,  code: MY,  pessoas: 8,592,236
+
+country:Belgium,  code: BE,  pessoas: 5,117,707
+
+country:Singapore,  code: SG,  pessoas: 5,078,079
+
+country:Ireland,  code: IE,  pessoas: 4,489,421
+
+country:New Zealand,  code: NZ,  pessoas: 3,972,250
+
+country:Eritrea,  code: ER,  pessoas: 3,677,871
+
+country:Hong Kong SAR China,  code: HK,  pessoas: 3,611,983
+
+country:Cameroon,  code: CM,  pessoas: 3,154,830
+
+country:South Sudan,  code: SS,  pessoas: 2,994,327
+
+country:Jamaica,  code: JM,  pessoas: 2,851,516
+
+country:Sierra Leone,  code: SL,  pessoas: 1,964,441
+
+country:Puerto Rico,  code: PR,  pessoas: 1,786,368
+
+country:Botswana,  code: BW,  pessoas: 1,723,542
+
+country:Uganda,  code: UG,  pessoas: 1,355,593
+
+country:Papua New Guinea,  code: PG,  pessoas: 1,286,380
+
+country:Trinidad and Tobago,  code: TT,  pessoas: 1,212,978
+
+country:Madagascar,  code: MG,  pessoas: 1,129,955
+
+country:Swaziland,  code: SZ,  pessoas: 1,122,688
+
+country:Mauritius,  code: MU,  pessoas: 952,013
+
+country:Fiji,  code: FJ,  pessoas: 842,953
+
+country:Liberia,  code: LR,  pessoas: 797,940
+
+country:Gambia,  code: GM,  pessoas: 753,220
+
+country:Guyana,  code: GY,  pessoas: 739,903
+
+country:Solomon Islands,  code: SB,  pessoas: 597,248
+
+country:Panama,  code: PA,  pessoas: 498,317
+
+country:Malta,  code: MT,  pessoas: 361,924
+
+country:Belize,  code: BZ,  pessoas: 334,297
+
+country:Bahamas,  code: BS,  pessoas: 319,031
+
+country:Barbados,  code: BB,  pessoas: 288,725
+
+country:Vanuatu,  code: VU,  pessoas: 193,558
+
+country:Namibia,  code: NA,  pessoas: 152,800
+
+country:Saint Lucia,  code: LC,  pessoas: 146,503
+
+country:Israel,  code: IL,  pessoas: 115,606
+
+country:Grenada,  code: GD,  pessoas: 105,206
+
+country:Kiribati,  code: KI,  pessoas: 103,248
+
+country:St. Vincent & Grenadines,  code: VC,  pessoas: 99,091
+
+country:Jersey,  code: JE,  pessoas: 90,945
+
+country:Isle of Man,  code: IM,  pessoas: 86,159
+
+country:Sri Lanka,  code: LK,  pessoas: 82,367
+
+country:U.S. Virgin Islands,  code: VI,  pessoas: 78,553
+
+country:Antigua and Barbuda,  code: AG,  pessoas: 77,534
+
+country:Dominica,  code: DM,  pessoas: 68,889
+
+country:Guernsey,  code: GG,  pessoas: 65,605
+
+country:Marshall Islands,  code: MH,  pessoas: 64,865
+
+country:Bermuda,  code: BM,  pessoas: 63,910
+
+country:Guam,  code: GU,  pessoas: 60,944
+
+country:China,  code: CN,  pessoas: 60,732
+
+country:American Samoa,  code: AS,  pessoas: 53,077
+
+country:Cayman Islands,  code: KY,  pessoas: 52,662
+
+country:Saint Kitts and Nevis,  code: KN,  pessoas: 50,111
+
+country:Northern Mariana Islands,  code: MP,  pessoas: 49,635
+
+country:Turks and Caicos Islands,  code: TC,  pessoas: 46,799
+
+country:Lesotho,  code: LS,  pessoas: 44,532
+
+country:Honduras,  code: HN,  pessoas: 37,173
+
+country:British Virgin Islands,  code: VG,  pessoas: 31,274
+
+country:Tonga,  code: TO,  pessoas: 29,770
+
+country:Sint Maarten,  code: SX,  pessoas: 26,989
+
+country:Gibraltar,  code: GI,  pessoas: 23,289
+
+country:Anguilla,  code: AI,  pessoas: 14,966
+
+country:Macau SAR China,  code: MO,  pessoas: 13,409
+
+country:Cook Islands,  code: CK,  pessoas: 9,925
+
+country:Finland,  code: FI,  pessoas: 9,479
+
+country:Nauru,  code: NR,  pessoas: 9,340
+
+country:Dominican Republic,  code: DO,  pessoas: 7,971
+
+country:Brunei,  code: BN,  pessoas: 7,899
+
+country:Saint Helena,  code: SH,  pessoas: 5,428
+
+country:Micronesia,  code: FM,  pessoas: 5,305
+
+country:Montserrat,  code: MS,  pessoas: 5,085
+
+country:Samoa,  code: WS,  pessoas: 4,300
+
+country:Seychelles,  code: SC,  pessoas: 4,088
+
+country:British Indian Ocean Territory,  code: IO,  pessoas: 3,500
+
+country:Lebanon,  code: LB,  pessoas: 3,305
+
+country:Falkland Islands,  code: FK,  pessoas: 3,109
+
+country:Aruba,  code: AW,  pessoas: 2,947
+
+country:Palau,  code: PW,  pessoas: 1,879
+
+country:Norfolk Island,  code: NF,  pessoas: 1,691
+
+country:Christmas Island,  code: CX,  pessoas: 1,407
+
+country:Tokelau,  code: TK,  pessoas: 1,353
+
+country:Niue,  code: NU,  pessoas: 1,204
+
+country:Tuvalu,  code: TV,  pessoas: 1,070
+
+country:Ascension Island,  code: AC,  pessoas: 931
+
+country:Diego Garcia,  code: DG,  pessoas: 495
+
+country:U.S. Outlying Islands,  code: UM,  pessoas: 316
+
+country:Rwanda,  code: RW,  pessoas: 300
+
+country:Tristan da Cunha,  code: TA,  pessoas: 272
+
+country:Saint Pierre and Miquelon,  code: PM,  pessoas: 191
+
+country:Cocos (Keeling) Islands,  code: CC,  pessoas: 101
+
+country:Pitcairn Islands,  code: PN,  pessoas: 46
+
+
+language:  Erzya, code: myv
+country: Russia RU
+
+language:  Esperanto, code: eo
+country: San Marino SM
+
+language:  Estonian, code: et
+country: Estonia EE
+country:Finland,  code: FI,  pessoas: 5,793
+
+
+language:  Ewe, code: ee
+country: Ghana GH
+country:Togo,  code: TG,  pessoas: 1,216,221
+
+
+language:  Ewondo, code: ewo
+country: Cameroon CM
+
+language:  Language, code: Code
+country: Territory Code
+country:Fang,  code: fan,  pessoas: Equatorial Guinea
+
+language:  Faroese, code: fo
+country: Faroe Islands FO
+
+language:  Fijian, code: fj
+country: Fiji FJ
+
+language:  Filipino, code: fil
+country: Philippines PH
+country:United States,  code: US,  pessoas: 1,329,044
+
+
+language:  Finnish, code: fi
+country: Finland FI
+country:Sweden,  code: SE,  pessoas: 212,243
+
+country:Russia,  code: RU,  pessoas: 17,100
+
+
+language:  Fon, code: fon
+country: Benin BJ
+
+language:  French, code: fr
+country: France FR
+country:Madagascar,  code: MG,  pessoas: 15,593,379
+
+country:Cameroon,  code: CM,  pessoas: 15,323,460
+
+country:Côte d’Ivoire,  code: CI,  pessoas: 10,976,392
+
+country:Tunisia,  code: TN,  pessoas: 8,018,566
+
+country:Algeria,  code: DZ,  pessoas: 7,617,560
+
+country:Canada,  code: CA,  pessoas: 7,605,004
+
+country:Mali,  code: ML,  pessoas: 7,345,694
+
+country:Morocco,  code: MA,  pessoas: 6,529,820
+
+country:Burundi,  code: BI,  pessoas: 5,935,813
+
+country:Senegal,  code: SN,  pessoas: 5,187,156
+
+country:Niger,  code: NE,  pessoas: 4,900,797
+
+country:Togo,  code: TG,  pessoas: 4,364,086
+
+country:Belgium,  code: BE,  pessoas: 3,968,834
+
+country:Burkina Faso,  code: BF,  pessoas: 3,918,860
+
+country:Congo - Brazzaville,  code: CG,  pessoas: 3,842,244
+
+country:Benin,  code: BJ,  pessoas: 3,457,052
+
+country:Guinea,  code: GN,  pessoas: 3,241,040
+
+country:Chad,  code: TD,  pessoas: 2,910,310
+
+country:Congo - Kinshasa,  code: CD,  pessoas: 2,869,277
+
+country:Central African Republic,  code: CF,  pessoas: 2,531,590
+
+country:United States,  code: US,  pessoas: 1,772,058
+
+country:Switzerland,  code: CH,  pessoas: 1,679,166
+
+country:Syria,  code: SY,  pessoas: 1,324,981
+
+country:Gabon,  code: GA,  pessoas: 1,033,383
+
+country:Réunion,  code: RE,  pessoas: 700,950
+
+country:Mauritania,  code: MR,  pessoas: 584,394
+
+country:Haiti,  code: HT,  pessoas: 465,015
+
+country:Luxembourg,  code: LU,  pessoas: 447,930
+
+country:Martinique,  code: MQ,  pessoas: 427,408
+
+country:Comoros,  code: KM,  pessoas: 421,281
+
+country:Guadeloupe,  code: GP,  pessoas: 407,498
+
+country:New Caledonia,  code: NC,  pessoas: 253,461
+
+country:French Polynesia,  code: PF,  pessoas: 169,149
+
+country:French Guiana,  code: GF,  pessoas: 153,622
+
+country:Vanuatu,  code: VU,  pessoas: 130,782
+
+country:Mayotte,  code: YT,  pessoas: 110,580
+
+country:Italy,  code: IT,  pessoas: 104,520
+
+country:Equatorial Guinea,  code: GQ,  pessoas: 61,952
+
+country:Seychelles,  code: SC,  pessoas: 54,508
+
+country:Mauritius,  code: MU,  pessoas: 39,667
+
+country:Saint Martin,  code: MF,  pessoas: 31,264
+
+country:Monaco,  code: MC,  pessoas: 30,195
+
+country:Djibouti,  code: DJ,  pessoas: 17,428
+
+country:Lebanon,  code: LB,  pessoas: 15,287
+
+country:United Kingdom,  code: GB,  pessoas: 15,215
+
+country:Wallis and Futuna,  code: WF,  pessoas: 7,598
+
+country:Saint Barthélemy,  code: BL,  pessoas: 6,860
+
+country:Andorra,  code: AD,  pessoas: 5,800
+
+country:Saint Pierre and Miquelon,  code: PM,  pessoas: 5,139
+
+country:Rwanda,  code: RW,  pessoas: 2,282
+
+country:French Southern Territories,  code: TF,  pessoas: 140
+
+
+language:  Friulian, code: fur
+country: Italy IT
+
+language:  Fulah, code: ff
+country: Guinea GN
+country:Senegal,  code: SN,  pessoas: 2,793,084
+
+country:Cameroon,  code: CM,  pessoas: 811,242
+
+country:Mauritania,  code: MR,  pessoas: 195,944
+
+
+language:  Language, code: Code
+country: Territory Code
+country:Ga,  code: gaa,  pessoas: Ghana
+
+language:  Gagauz, code: gag
+country: Moldova MD
+
+language:  Galician, code: gl
+country: Spain ES
+country:Portugal,  code: PT,  pessoas: 15,119
+
+
+language:  Ganda, code: lg
+country: Uganda UG
+
+language:  Garhwali, code: gbm
+country: India IN
+
+language:  Garo, code: grt
+country: India IN
+country:Bangladesh,  code: BD,  pessoas: 119,468
+
+
+language:  Georgian, code: ka
+country: Georgia GE
+country:Iran,  code: IR,  pessoas: 56,696
+
+country:Turkey,  code: TR,  pessoas: 45,189
+
+
+language:  German, code: de
+country: Germany DE
+country:Austria,  code: AT,  pessoas: 7,975,000
+
+country:Switzerland,  code: CH,  pessoas: 5,837,102
+
+country:Brazil,  code: BR,  pessoas: 1,688,484
+
+country:United States,  code: US,  pessoas: 1,487,263
+
+country:Kazakhstan,  code: KZ,  pessoas: 1,135,162
+
+country:Canada,  code: CA,  pessoas: 656,796
+
+country:Luxembourg,  code: LU,  pessoas: 324,363
+
+country:Hungary,  code: HU,  pessoas: 248,487
+
+country:Italy,  code: IT,  pessoas: 239,781
+
+country:Paraguay,  code: PY,  pessoas: 192,074
+
+country:Belgium,  code: BE,  pessoas: 146,220
+
+country:Czech Republic,  code: CZ,  pessoas: 51,988
+
+country:Romania,  code: RO,  pessoas: 45,760
+
+country:Liechtenstein,  code: LI,  pessoas: 37,009
+
+country:Poland,  code: PL,  pessoas: 36,848
+
+country:Denmark,  code: DK,  pessoas: 23,893
+
+country:Namibia,  code: NA,  pessoas: 21,828
+
+country:Slovakia,  code: SK,  pessoas: 15,367
+
+
+language:  Ghomala, code: bbj
+country: Cameroon CM
+
+language:  Gilaki, code: glk
+country: Iran IR
+
+language:  Gilbertese, code: gil
+country: Kiribati KI
+
+language:  Gondi (Telugu), code: gon_Telu
+country: India IN
+
+language:  Gorontalo, code: gor
+country: Indonesia ID
+
+language:  Greek, code: el
+country: Greece GR
+country:Cyprus,  code: CY,  pessoas: 890,100
+
+country:Germany,  code: DE,  pessoas: 308,360
+
+country:United Kingdom,  code: GB,  pessoas: 215,545
+
+country:Albania,  code: AL,  pessoas: 57,217
+
+country:Egypt,  code: EG,  pessoas: 52,030
+
+country:Italy,  code: IT,  pessoas: 21,519
+
+country:Ukraine,  code: UA,  pessoas: 7,132
+
+country:Romania,  code: RO,  pessoas: 4,140
+
+country:Turkey,  code: TR,  pessoas: 4,035
+
+
+language:  Gronings, code: gos
+country: Netherlands NL
+
+language:  Guajajára, code: gub
+country: Brazil BR
+
+language:  Guarani, code: gn
+country: Paraguay PY
+country:Bolivia,  code: BO,  pessoas: 47,075
+
+country:Argentina,  code: AR,  pessoas: 20,027
+
+
+language:  Guianese Creole French, code: gcr
+country: French Guiana GF
+
+language:  Gujarati, code: gu
+country: India IN
+country:Kenya,  code: KE,  pessoas: 4,844
+
+
+language:  Gujari, code: gju
+country: Pakistan PK
+
+language:  Gusii, code: guz
+country: Kenya KE
+
+language:  Gwichʼin, code: gwi
+country: Canada CA
+
+language:  Language, code: Code
+country: Territory Code
+country:Hadothi,  code: hoj,  pessoas: India
+
+language:  Haitian, code: ht
+country: Haiti HT
+
+language:  Hanunoo, code: hnn
+country: Philippines PH
+
+language:  Haryanvi, code: bgc
+country: India IN
+
+language:  Hausa (Arabic), code: ha_Arab
+country: Nigeria NG
+country:Sudan,  code: SD,  pessoas: 487,871
+
+country:Cameroon,  code: CM,  pessoas: 31,548
+
+
+language:  Hausa (Latin), code: ha_Latn
+country: Nigeria NG
+country:Niger,  code: NE,  pessoas: 6,928,713
+
+country:Ghana,  code: GH,  pessoas: 216,717
+
+
+language:  Hawaiian, code: haw
+country: United States US
+
+language:  Hazaragi, code: haz
+country: Afghanistan AF
+
+language:  Hebrew, code: he
+country: Israel IL
+
+language:  Hiligaynon, code: hil
+country: Philippines PH
+
+language:  Hindi, code: hi
+country: India IN
+country:South Africa,  code: ZA,  pessoas: 972,022
+
+country:Fiji,  code: FJ,  pessoas: 394,574
+
+country:Nepal,  code: NP,  pessoas: 127,807
+
+country:Uganda,  code: UG,  pessoas: 2,190
+
+
+language:  Hiri Motu, code: ho
+country: Papua New Guinea PG
+
+language:  Ho, code: hoc
+country: India IN
+
+language:  Hungarian, code: hu
+country: Hungary HU
+country:Romania,  code: RO,  pessoas: 1,438,173
+
+country:Slovakia,  code: SK,  pessoas: 603,717
+
+country:Serbia,  code: RS,  pessoas: 347,664
+
+country:Ukraine,  code: UA,  pessoas: 164,921
+
+country:Israel,  code: IL,  pessoas: 77,070
+
+country:Austria,  code: AT,  pessoas: 22,198
+
+country:Slovenia,  code: SI,  pessoas: 9,166
+
+
+language:  Language, code: Code
+country: Territory Code
+country:Ibibio,  code: ibb,  pessoas: Nigeria
+
+language:  Icelandic, code: is
+country: Iceland IS
+
+language:  Igbo, code: ig
+country: Nigeria NG
+
+language:  Iloko, code: ilo
+country: Philippines PH
+
+language:  Inari Sami, code: smn
+country: Finland FI
+
+language:  Indonesian, code: id
+country: Indonesia ID
+country:Netherlands,  code: NL,  pessoas: 302,490
+
+
+language:  Indus Kohistani, code: mvy
+country: Pakistan PK
+
+language:  Ingush, code: inh
+country: Russia RU
+
+language:  Interlingua, code: ia
+country: France FR
+country:Sweden,  code: SE,  pessoas: 0
+
+country:Inuinnaqtun,  code: ikt,  pessoas: Canada
+
+language:  Inuktitut, code: iu
+country: Canada CA
+
+language:  Inupiaq, code: ik
+country: United States US
+
+language:  Irish, code: ga
+country: Ireland IE
+country:United Kingdom,  code: GB,  pessoas: 16,483
+
+
+language:  Italian, code: it
+country: Italy IT
+country:France,  code: FR,  pessoas: 1,121,177
+
+country:United States,  code: US,  pessoas: 1,075,893
+
+country:Canada,  code: CA,  pessoas: 691,364
+
+country:Brazil,  code: BR,  pessoas: 562,828
+
+country:Germany,  code: DE,  pessoas: 535,572
+
+country:Australia,  code: AU,  pessoas: 422,988
+
+country:Switzerland,  code: CH,  pessoas: 343,829
+
+country:United Kingdom,  code: GB,  pessoas: 215,545
+
+country:Croatia,  code: HR,  pessoas: 71,610
+
+country:San Marino,  code: SM,  pessoas: 28,879
+
+country:Slovenia,  code: SI,  pessoas: 3,985
+
+country:Vatican City,  code: VA,  pessoas: 822
+
+
+language:  Language, code: Code
+country: Territory Code
+country:Japanese,  code: ja,  pessoas: Japan
+country:Brazil,  code: BR,  pessoas: 422,121
+
+
+language:  Javanese, code: jv
+country: Indonesia ID
+country:Malaysia,  code: MY,  pessoas: 355,541
+
+
+language:  Jenaama Bozo, code: bze
+country: Mali ML
+
+language:  Jju, code: kaj
+country: Nigeria NG
+
+language:  Jola-Fonyi, code: dyo
+country: Senegal SN
+
+language:  Jumli, code: jml
+country: Nepal NP
+
+language:  Language, code: Code
+country: Territory Code
+country:Kabardian,  code: kbd,  pessoas: Turkey
+country:Russia,  code: RU,  pessoas: 441,750
+
+
+language:  Kabuverdianu, code: kea
+country: Cape Verde CV
+
+language:  Kabyle, code: kab
+country: Algeria DZ
+
+language:  Kachchi, code: kfr
+country: India IN
+
+language:  Kachi Koli, code: gjk
+country: Pakistan PK
+
+language:  Kaingang, code: kgp
+country: Brazil BR
+
+language:  Kako, code: kkj
+country: Cameroon CM
+
+language:  Kalaallisut, code: kl
+country: Greenland GL
+country:Denmark,  code: DK,  pessoas: 7,223
+
+
+language:  Kalanga, code: kck
+country: Zimbabwe ZW
+
+language:  Kalenjin, code: kln
+country: Kenya KE
+
+language:  Kalo Finnish Romani, code: rmf
+country: Finland FI
+
+language:  Kamba, code: kam
+country: Kenya KE
+
+language:  Kanauji, code: bjj
+country: India IN
+
+language:  Kangri, code: xnr
+country: India IN
+
+language:  Kannada, code: kn
+country: India IN
+
+language:  Kara-Kalpak, code: kaa
+country: Uzbekistan UZ
+
+language:  Karachay-Balkar, code: krc
+country: Russia RU
+
+language:  Karelian, code: krl
+country: Russia RU
+
+language:  Kashmiri (Arabic), code: ks_Arab
+country: India IN
+country:Pakistan,  code: PK,  pessoas: 133,335
+
+country:United Kingdom,  code: GB,  pessoas: 120,452
+
+
+language:  Kashubian, code: csb
+country: Poland PL
+
+language:  Kathoriya Tharu, code: tkt
+country: Nepal NP
+
+language:  Kazakh (Arabic), code: kk_Arab
+country: China CN
+country:Mongolia,  code: MN,  pessoas: 209,678
+
+country:Iran,  code: IR,  pessoas: 3,034
+
+country:Afghanistan,  code: AF,  pessoas: 1,991
+
+
+language:  Kazakh (Cyrillic), code: kk_Cyrl
+country: Kazakhstan KZ
+country:Turkey,  code: TR,  pessoas: 565
+
+
+language:  Kerinci, code: kvr
+country: Indonesia ID
+
+language:  Khamti, code: kht
+country: India IN
+country:Myanmar (Burma),  code: MM,  pessoas: 4,248
+
+
+language:  Khandesi, code: khn
+country: India IN
+
+language:  Khasi, code: kha
+country: India IN
+
+language:  Khmer, code: km
+country: Cambodia KH
+
+language:  Khmu, code: kjg
+country: Laos LA
+
+language:  Khowar, code: khw
+country: Pakistan PK
+
+language:  Kikuyu, code: ki
+country: Kenya KE
+
+language:  Kimbundu, code: kmb
+country: Angola AO
+
+language:  Kinyarwanda, code: rw
+country: Rwanda RW
+country:Uganda,  code: UG,  pessoas: 729,935
+
+country:Congo - Kinshasa,  code: CD,  pessoas: 286,928
+
+
+language:  Kita Maninkakan, code: mwk
+country: Mali ML
+
+language:  Kochila Tharu, code: thq
+country: Nepal NP
+
+language:  Kom, code: bkm
+country: Cameroon CM
+
+language:  Komering, code: kge
+country: Indonesia ID
+
+language:  Komi, code: kv
+country: Russia RU
+
+language:  Komi-Permyak, code: koi
+country: Russia RU
+
+language:  Kongo, code: kg
+country: Congo - Kinshasa CD
+
+language:  Konkani, code: kok
+country: India IN
+
+language:  Korean, code: ko
+country: South Korea KR
+country:North Korea,  code: KP,  pessoas: 21,753,952
+
+country:China,  code: CN,  pessoas: 2,024,385
+
+country:United States,  code: US,  pessoas: 949,317
+
+country:Japan,  code: JP,  pessoas: 661,716
+
+country:Brazil,  code: BR,  pessoas: 42,212
+
+
+language:  Koro, code: kfo
+country: Côte d’Ivoire CI
+
+language:  Koro Wachi, code: bqv
+country: Côte d’Ivoire CI
+
+language:  Kosraean, code: kos
+country: Micronesia FM
+
+language:  Koyra Chiini, code: khq
+country: Mali ML
+
+language:  Koyraboro Senni, code: ses
+country: Mali ML
+
+language:  Kpelle, code: kpe
+country: Liberia LR
+country:Guinea,  code: GN,  pessoas: 424,688
+
+
+language:  Krio, code: kri
+country: Sierra Leone SL
+
+language:  Kuanyama, code: kj
+country: Namibia NA
+
+language:  Kumaoni, code: kfy
+country: India IN
+
+language:  Kumyk, code: kum
+country: Russia RU
+
+language:  Kurdish (Arabic), code: ku_Arab
+country: Lebanon LB
+
+language:  Kurdish (Latin), code: ku_Latn
+country: Turkey TR
+country:Syria,  code: SY,  pessoas: 1,796,584
+
+country:Germany,  code: DE,  pessoas: 535,572
+
+country:Armenia,  code: AM,  pessoas: 101,121
+
+country:Georgia,  code: GE,  pessoas: 43,985
+
+country:Azerbaijan,  code: AZ,  pessoas: 23,016
+
+country:Turkmenistan,  code: TM,  pessoas: 20,963
+
+
+language:  Kurukh, code: kru
+country: India IN
+
+language:  Kuy, code: kdt
+country: Thailand TH
+country:Laos,  code: LA,  pessoas: 64,274
+
+country:Cambodia,  code: KH,  pessoas: 16,726
+
+
+language:  Kwasio, code: nmg
+country: Cameroon CM
+
+language:  Kyrgyz (Arabic), code: ky_Arab
+country: China CN
+
+language:  Kyrgyz (Cyrillic), code: ky_Cyrl
+country: Kyrgyzstan KG
+
+language:  Kyrgyz (Latin), code: ky_Latn
+country: Turkey TR
+
+language:  Language, code: Code
+country: Territory Code
+country:Lahnda,  code: lah,  pessoas: Pakistan
+country:India,  code: IN,  pessoas: 30,520
+
+
+language:  Lak, code: lbe
+country: Russia RU
+
+language:  Laki, code: lki
+country: Iran IR
+
+language:  Lakota, code: lkt
+country: United States US
+
+language:  Lambadi, code: lmn
+country: India IN
+
+language:  Lampung Api, code: ljp
+country: Indonesia ID
+
+language:  Langi, code: lag
+country: Tanzania TZ
+
+language:  Lango [Uganda], code: laj
+country: Uganda UG
+
+language:  Lao, code: lo
+country: Laos LA
+
+language:  Latin, code: la
+country: Vatican City VA
+
+language:  Latvian, code: lv
+country: Latvia LV
+
+language:  Lepcha, code: lep
+country: India IN
+country:Bhutan,  code: BT,  pessoas: 28,287
+
+country:Nepal,  code: NP,  pessoas: 2,830
+
+
+language:  Lezghian, code: lez
+country: Russia RU
+
+language:  Limbu (Devanagari), code: lif_Deva
+country: Nepal NP
+country:India,  code: IN,  pessoas: 31,741
+
+
+language:  Limburgish, code: li
+country: Netherlands NL
+
+language:  Lingala, code: ln
+country: Congo - Kinshasa CD
+country:Angola,  code: AO,  pessoas: 124,388
+
+country:Congo - Brazzaville,  code: CG,  pessoas: 109,778
+
+country:Central African Republic,  code: CF,  pessoas: 12,400
+
+
+language:  Lisu, code: lis
+country: China CN
+
+language:  Lithuanian, code: lt
+country: Lithuania LT
+country:Poland,  code: PL,  pessoas: 8,061
+
+
+language:  Lombard, code: lmo
+country: Switzerland CH
+
+language:  Lomwe, code: ngl
+country: Mozambique MZ
+
+language:  Low German, code: nds
+country: Germany DE
+
+language:  Lower Sorbian, code: dsb
+country: Germany DE
+
+language:  Lozi, code: loz
+country: Zambia ZM
+
+language:  Lü, code: khb
+country: China CN
+
+language:  Luba-Katanga, code: lu
+country: Congo - Kinshasa CD
+
+language:  Luba-Lulua, code: lua
+country: Congo - Kinshasa CD
+
+language:  Lule Sami, code: smj
+country: Sweden SE
+
+language:  Luo, code: luo
+country: Kenya KE
+
+language:  Luxembourgish, code: lb
+country: Luxembourg LU
+
+language:  Luyia, code: luy
+country: Kenya KE
+
+language:  Language, code: Code
+country: Territory Code
+country:Maasina Fulfulde,  code: ffm,  pessoas: Mali
+
+language:  Macedonian, code: mk
+country: Macedonia MK
+country:Greece,  code: GR,  pessoas: 172,368
+
+country:Albania,  code: AL,  pessoas: 14,154
+
+
+language:  Machame, code: jmc
+country: Tanzania TZ
+
+language:  Madurese, code: mad
+country: Indonesia ID
+
+language:  Mafa, code: maf
+country: Cameroon CM
+
+language:  Magahi, code: mag
+country: India IN
+
+language:  Maguindanaon, code: mdh
+country: Philippines PH
+
+language:  Maithili, code: mai
+country: India IN
+country:Nepal,  code: NP,  pessoas: 3,347,333
+
+
+language:  Makasar, code: mak
+country: Indonesia ID
+
+language:  Makhuwa, code: vmw
+country: Mozambique MZ
+
+language:  Makhuwa-Meetto, code: mgh
+country: Mozambique MZ
+
+language:  Makonde, code: kde
+country: Tanzania TZ
+
+language:  Malagasy, code: mg
+country: Madagascar MG
+
+language:  Malay (Arabic), code: ms_Arab
+country: Indonesia ID
+country:Brunei,  code: BN,  pessoas: 20,786
+
+country:Cocos (Keeling) Islands,  code: CC,  pessoas: 495
+
+
+language:  Malay (Latin), code: ms_Latn
+country: Malaysia MY
+country:Singapore,  code: SG,  pessoas: 764,442
+
+country:Brunei,  code: BN,  pessoas: 386,617
+
+
+language:  Malayalam, code: ml
+country: India IN
+country:United Arab Emirates,  code: AE,  pessoas: 383,178
+
+country:Malaysia,  code: MY,  pessoas: 44,443
+
+country:Bahrain,  code: BH,  pessoas: 42,284
+
+country:United Kingdom,  code: GB,  pessoas: 22,188
+
+country:Singapore,  code: SG,  pessoas: 9,829
+
+country:Israel,  code: IL,  pessoas: 7,707
+
+country:Qatar,  code: QA,  pessoas: 6,536
+
+
+language:  Maltese, code: mt
+country: Malta MT
+
+language:  Mandar, code: mdr
+country: Indonesia ID
+
+language:  Mandingo (Latin), code: man_Latn
+country: Gambia GM
+
+language:  Mandingo (N’Ko), code: man_Nkoo
+country: Guinea GN
+
+language:  Manipuri, code: mni
+country: India IN
+country:Bangladesh,  code: BD,  pessoas: 18,002
+
+
+language:  Manx, code: gv
+country: Isle of Man IM
+
+language:  Manyika, code: mxc
+country: Zimbabwe ZW
+
+language:  Maori, code: mi
+country: New Zealand NZ
+
+language:  Marathi, code: mr
+country: India IN
+
+language:  Mari, code: chm
+country: Russia RU
+
+language:  Marshallese, code: mh
+country: Marshall Islands MH
+
+language:  Marwari, code: mwr
+country: India IN
+
+language:  Masaaba, code: myx
+country: Uganda UG
+
+language:  Masai, code: mas
+country: Tanzania TZ
+country:Kenya,  code: KE,  pessoas: 704,603
+
+
+language:  Mbunga, code: mgy
+country: Tanzania TZ
+
+language:  Medumba, code: byv
+country: Cameroon CM
+
+language:  Mende, code: men
+country: Sierra Leone SL
+country:Liberia,  code: LR,  pessoas: 19,151
+
+
+language:  Meru, code: mer
+country: Kenya KE
+
+language:  Meta', code: mgo
+country: Cameroon CM
+
+language:  Mewari, code: mtr
+country: India IN
+
+language:  Mewati, code: wtm
+country: India IN
+
+language:  Minangkabau, code: min
+country: Indonesia ID
+
+language:  Moksha, code: mdf
+country: Russia RU
+
+language:  Mon, code: mnw
+country: Myanmar (Burma) MM
+country:Thailand,  code: TH,  pessoas: 114,745
+
+
+language:  Mongo, code: lol
+country: Congo - Kinshasa CD
+
+language:  Mongolian (Cyrillic), code: mn_Cyrl
+country: Mongolia MN
+country:Russia,  code: RU,  pessoas: 2,138
+
+
+language:  Mongolian (Mongolian), code: mn_Mong
+country: China CN
+
+language:  Montagnais, code: moe
+country: Canada CA
+
+language:  Moose Cree, code: crm
+country: Canada CA
+
+language:  Morisyen, code: mfe
+country: Mauritius MU
+
+language:  Mossi, code: mos
+country: Burkina Faso BF
+
+language:  Munda (Bengali), code: unx_Beng
+country: India IN
+
+language:  Mundang, code: mua
+country: Cameroon CM
+
+language:  Mundari (Bengali), code: unr_Beng
+country: India IN
+
+language:  Mundari (Devanagari), code: unr_Deva
+country: Nepal NP
+
+language:  Language, code: Code
+country: Territory Code
+country:Nama,  code: naq,  pessoas: Namibia
+
+language:  Naskapi, code: nsk
+country: Canada CA
+
+language:  Nauru, code: na
+country: Nauru NR
+
+language:  Navajo, code: nv
+country: United States US
+
+language:  Naxi, code: nxq
+country: China CN
+
+language:  Ndau, code: ndc
+country: Mozambique MZ
+country:Zimbabwe,  code: ZW,  pessoas: 804,157
+
+
+language:  Ndonga, code: ng
+country: Namibia NA
+
+language:  Neapolitan, code: nap
+country: Italy IT
+
+language:  Negeri Sembilan Malay, code: zmi
+country: Malaysia MY
+
+language:  Nepali, code: ne
+country: Nepal NP
+country:India,  code: IN,  pessoas: 6,836,480
+
+country:Bhutan,  code: BT,  pessoas: 123,300
+
+
+language:  Newari, code: new
+country: Nepal NP
+
+language:  Ngaju, code: nij
+country: Indonesia ID
+
+language:  Ngazidja Comorian, code: zdj
+country: Comoros KM
+
+language:  Ngiemboon, code: nnh
+country: Cameroon CM
+
+language:  Ngomba, code: jgo
+country: Cameroon CM
+
+language:  Nigerian Fulfulde, code: fuv
+country: Nigeria NG
+
+language:  Nigerian Pidgin, code: pcm
+country: Nigeria NG
+
+language:  Nimadi, code: noe
+country: India IN
+
+language:  Niuean, code: niu
+country: Niue NU
+
+language:  North Ndebele, code: nd
+country: Zimbabwe ZW
+
+language:  North Slavey, code: scs
+country: Canada CA
+
+language:  Northeastern Thai, code: tts
+country: Thailand TH
+
+language:  Northern East Cree, code: crl
+country: Canada CA
+
+language:  Northern Hindko, code: hno
+country: Pakistan PK
+
+language:  Northern Khmer, code: kxm
+country: Thailand TH
+
+language:  Northern Luri, code: lrc
+country: Iran IR
+
+language:  Northern Sami, code: se
+country: Norway NO
+country:Sweden,  code: SE,  pessoas: 31,836
+
+country:Finland,  code: FI,  pessoas: 2,001
+
+
+language:  Northern Sotho, code: nso
+country: South Africa ZA
+
+language:  Northern Thai, code: nod
+country: Thailand TH
+
+language:  Norwegian Bokmål, code: nb
+country: Norway NO
+country:Svalbard and Jan Mayen,  code: SJ,  pessoas: 1,498
+
+
+language:  Norwegian Nynorsk, code: nn
+country: Norway NO
+
+language:  Nuer, code: nus
+country: Sudan SD
+
+language:  Nyamwezi, code: nym
+country: Tanzania TZ
+
+language:  Nyanja, code: ny
+country: Malawi MW
+country:Zambia,  code: ZM,  pessoas: 2,133,330
+
+country:Mozambique,  code: MZ,  pessoas: 626,514
+
+country:Zimbabwe,  code: ZW,  pessoas: 250,475
+
+
+language:  Nyankole, code: nyn
+country: Uganda UG
+
+language:  Language, code: Code
+country: Territory Code
+country:Occitan,  code: oc,  pessoas: France
+
+language:  Oriya, code: or
+country: India IN
+
+language:  Oromo, code: om
+country: Ethiopia ET
+country:Kenya,  code: KE,  pessoas: 206,977
+
+country:Somalia,  code: SO,  pessoas: 43,057
+
+
+language:  Ossetic, code: os
+country: Russia RU
+country:Georgia,  code: GE,  pessoas: 108,728
+
+
+language:  Language, code: Code
+country: Territory Code
+country:Palauan,  code: pau,  pessoas: Palau
+
+language:  Pampanga, code: pam
+country: Philippines PH
+
+language:  Pangasinan, code: pag
+country: Philippines PH
+
+language:  Papiamento, code: pap
+country: Curaçao CW
+country:Aruba,  code: AW,  pessoas: 66,583
+
+country:Caribbean Netherlands,  code: BQ,  pessoas: 16,200
+
+
+language:  Parkari Koli, code: kvx
+country: Pakistan PK
+
+language:  Parsi-Dari, code: prd
+country: Iran IR
+country:Afghanistan,  code: AF,  pessoas: 373,297
+
+
+language:  Pashto, code: ps
+country: Pakistan PK
+country:Afghanistan,  code: AF,  pessoas: 13,376,483
+
+country:United Arab Emirates,  code: AE,  pessoas: 158,745
+
+country:Iran,  code: IR,  pessoas: 127,766
+
+
+language:  Pattani Malay, code: mfa
+country: Thailand TH
+
+language:  Persian, code: fa
+country: Iran IR
+country:Afghanistan,  code: AF,  pessoas: 15,554,050
+
+country:Pakistan,  code: PK,  pessoas: 1,275,377
+
+country:Iraq,  code: IQ,  pessoas: 277,169
+
+country:Qatar,  code: QA,  pessoas: 224,668
+
+country:United Arab Emirates,  code: AE,  pessoas: 104,005
+
+country:Tajikistan,  code: TJ,  pessoas: 61,698
+
+country:Oman,  code: OM,  pessoas: 29,649
+
+
+language:  Plains Cree, code: crk
+country: Canada CA
+
+language:  Pohnpeian, code: pon
+country: Micronesia FM
+
+language:  Pökoot, code: pko
+country: Kenya KE
+
+language:  Polish, code: pl
+country: Poland PL
+country:Ukraine,  code: UA,  pessoas: 1,069,757
+
+country:Germany,  code: DE,  pessoas: 235,327
+
+country:Israel,  code: IL,  pessoas: 115,606
+
+country:Czech Republic,  code: CZ,  pessoas: 51,988
+
+country:Slovakia,  code: SK,  pessoas: 51,042
+
+country:Romania,  code: RO,  pessoas: 2,833
+
+
+language:  Portuguese, code: pt
+country: Brazil BR
+country:Angola,  code: AO,  pessoas: 12,438,751
+
+country:Portugal,  code: PT,  pessoas: 10,367,328
+
+country:Mozambique,  code: MZ,  pessoas: 6,506,109
+
+country:Guinea-Bissau,  code: GW,  pessoas: 1,660,870
+
+country:France,  code: FR,  pessoas: 857,371
+
+country:Timor-Leste,  code: TL,  pessoas: 691,710
+
+country:Cape Verde,  code: CV,  pessoas: 403,595
+
+country:São Tomé and Príncipe,  code: ST,  pessoas: 158,794
+
+country:Macau SAR China,  code: MO,  pessoas: 29,150
+
+country:Antigua and Barbuda,  code: AG,  pessoas: 1,623
+
+
+language:  Punjabi (Arabic), code: pa_Arab
+country: Pakistan PK
+
+language:  Punjabi (Gurmukhi), code: pa_Guru
+country: India IN
+country:United Kingdom,  code: GB,  pessoas: 500,825
+
+country:Kenya,  code: KE,  pessoas: 10,129
+
+country:Singapore,  code: SG,  pessoas: 9,283
+
+
+language:  Punu, code: puu
+country: Gabon GA
+
+language:  Language, code: Code
+country: Territory Code
+country:Quechua,  code: qu,  pessoas: Peru
+country:Bolivia,  code: BO,  pessoas: 3,347,552
+
+
+language:  Language, code: Code
+country: Territory Code
+country:Rajasthani,  code: raj,  pessoas: India
+
+language:  Rajbanshi, code: rjs
+country: Nepal NP
+
+language:  Rana Tharu, code: thr
+country: Nepal NP
+
+language:  Rangpuri, code: rkt
+country: Bangladesh BD
+country:India,  code: IN,  pessoas: 5,371,520
+
+
+language:  Rejang, code: rej
+country: Indonesia ID
+
+language:  Réunion Creole French, code: rcf
+country: Réunion RE
+
+language:  Riang [India], code: ria
+country: India IN
+
+language:  Rinconada Bikol, code: bto
+country: Philippines PH
+
+language:  Romanian, code: ro
+country: Romania RO
+country:Moldova,  code: MD,  pessoas: 2,280,556
+
+country:Israel,  code: IL,  pessoas: 285,160
+
+country:Ukraine,  code: UA,  pessoas: 231,781
+
+country:Serbia,  code: RS,  pessoas: 152,103
+
+country:Hungary,  code: HU,  pessoas: 98,401
+
+
+language:  Romansh, code: rm
+country: Switzerland CH
+
+language:  Rombo, code: rof
+country: Tanzania TZ
+
+language:  Ronga, code: rng
+country: Mozambique MZ
+
+language:  Rundi, code: rn
+country: Burundi BI
+
+language:  Russian, code: ru
+country: Russia RU
+country:Ukraine,  code: UA,  pessoas: 20,503,672
+
+country:Kazakhstan,  code: KZ,  pessoas: 16,850,055
+
+country:Uzbekistan,  code: UZ,  pessoas: 4,012,624
+
+country:Kyrgyzstan,  code: KG,  pessoas: 1,553,451
+
+country:Belarus,  code: BY,  pessoas: 1,155,107
+
+country:Israel,  code: IL,  pessoas: 847,774
+
+country:Latvia,  code: LV,  pessoas: 827,807
+
+country:United States,  code: US,  pessoas: 759,454
+
+country:Turkmenistan,  code: TM,  pessoas: 613,565
+
+country:Georgia,  code: GE,  pessoas: 444,794
+
+country:Estonia,  code: EE,  pessoas: 379,914
+
+country:Germany,  code: DE,  pessoas: 357,048
+
+country:Lithuania,  code: LT,  pessoas: 281,269
+
+country:Moldova,  code: MD,  pessoas: 108,598
+
+country:Finland,  code: FI,  pessoas: 42,655
+
+country:China,  code: CN,  pessoas: 13,496
+
+country:Mongolia,  code: MN,  pessoas: 4,077
+
+country:Svalbard and Jan Mayen,  code: SJ,  pessoas: 1,191
+
+
+language:  Rusyn, code: rue
+country: Ukraine UA
+
+language:  Rwa, code: rwk
+country: Tanzania TZ
+
+language:  Language, code: Code
+country: Territory Code
+country:Sadri,  code: sck,  pessoas: India
+
+language:  Safaliba, code: saf
+country: Ghana GH
+
+language:  Saho, code: ssy
+country: Eritrea ER
+
+language:  Sakha, code: sah
+country: Russia RU
+
+language:  Samburu, code: saq
+country: Kenya KE
+
+language:  Samoan, code: sm
+country: Samoa WS
+country:American Samoa,  code: AS,  pessoas: 54,172
+
+
+language:  Sangir, code: sxn
+country: Indonesia ID
+
+language:  Sango, code: sg
+country: Central African Republic CF
+
+language:  Sangu, code: sbp
+country: Tanzania TZ
+
+language:  Sanskrit, code: sa
+country: India IN
+
+language:  Santali, code: sat
+country: India IN
+
+language:  Sasak, code: sas
+country: Indonesia ID
+
+language:  Saurashtra, code: saz
+country: India IN
+
+language:  Scots, code: sco
+country: United Kingdom GB
+
+language:  Scottish Gaelic, code: gd
+country: United Kingdom GB
+
+language:  Sena, code: seh
+country: Mozambique MZ
+
+language:  Seraiki, code: skr
+country: Pakistan PK
+
+language:  Serbian (Cyrillic), code: sr_Cyrl
+country: Serbia RS
+country:Bosnia and Herzegovina,  code: BA,  pessoas: 387,572
+
+country:Kosovo,  code: XK,  pessoas: 92,386
+
+country:Montenegro,  code: ME,  pessoas: 32,674
+
+
+language:  Serbian (Latin), code: sr_Latn
+country: Serbia RS
+country:Montenegro,  code: ME,  pessoas: 653,474
+
+country:Bosnia and Herzegovina,  code: BA,  pessoas: 387,572
+
+country:Kosovo,  code: XK,  pessoas: 92,386
+
+country:Romania,  code: RO,  pessoas: 26,149
+
+country:Turkey,  code: TR,  pessoas: 22,594
+
+country:Russia,  code: RU,  pessoas: 4,988
+
+
+language:  Serer, code: srr
+country: Senegal SN
+
+language:  Seselwa Creole French, code: crs
+country: Seychelles SC
+
+language:  Shambala, code: ksb
+country: Tanzania TZ
+
+language:  Shan, code: shn
+country: Myanmar (Burma) MM
+country:Thailand,  code: TH,  pessoas: 64,797
+
+
+language:  Shekhawati, code: swv
+country: India IN
+
+language:  Sherpa, code: xsr
+country: Nepal NP
+
+language:  Shona, code: sn
+country: Zimbabwe ZW
+
+language:  Sichuan Yi, code: ii
+country: China CN
+
+language:  Sicilian, code: scn
+country: Italy IT
+
+language:  Sidamo, code: sid
+country: Ethiopia ET
+
+language:  Simplified Chinese, code: zh_Hans
+country: China CN
+country:Singapore,  code: SG,  pessoas: 4,204,431
+
+country:Hong Kong SAR China,  code: HK,  pessoas: 354,116
+
+country:Mongolia,  code: MN,  pessoas: 40,771
+
+country:Macau SAR China,  code: MO,  pessoas: 29,150
+
+
+language:  Sindhi (Arabic), code: sd_Arab
+country: Pakistan PK
+country:India,  code: IN,  pessoas: 3,174,080
+
+
+language:  Sindhi (Devanagari), code: sd_Deva
+country: India IN
+
+language:  Sinhala, code: si
+country: Sri Lanka LK
+
+language:  Sinte Romani, code: rmo
+country: Switzerland CH
+
+language:  Sirmauri, code: srx
+country: India IN
+
+language:  Skolt Sami, code: sms
+country: Finland FI
+
+language:  Slave, code: den
+country: Canada CA
+
+language:  Slovak, code: sk
+country: Slovakia SK
+country:Serbia,  code: RS,  pessoas: 61,566
+
+country:Hungary,  code: HU,  pessoas: 10,933
+
+
+language:  Slovenian, code: sl
+country: Slovenia SI
+country:Italy,  code: IT,  pessoas: 104,520
+
+country:Austria,  code: AT,  pessoas: 30,420
+
+country:Hungary,  code: HU,  pessoas: 4,970
+
+
+language:  Soga, code: xog
+country: Uganda UG
+
+language:  Somali, code: so
+country: Somalia SO
+country:Ethiopia,  code: ET,  pessoas: 5,632,620
+
+country:Kenya,  code: KE,  pessoas: 572,490
+
+country:Djibouti,  code: DJ,  pessoas: 324,801
+
+
+language:  Soninke, code: snk
+country: Mali ML
+
+language:  Sorani Kurdish, code: ckb
+country: Iraq IQ
+country:Iran,  code: IR,  pessoas: 3,114,302
+
+
+language:  South Ndebele, code: nr
+country: South Africa ZA
+
+language:  Southern Altai, code: alt
+country: Russia RU
+
+language:  Southern East Cree, code: crj
+country: Canada CA
+
+language:  Southern Hindko, code: hnd
+country: Pakistan PK
+
+language:  Southern Kurdish, code: sdh
+country: Iran IR
+
+language:  Southern Luri, code: luz
+country: Iran IR
+
+language:  Southern Sami, code: sma
+country: Sweden SE
+
+language:  Southern Sotho, code: st
+country: South Africa ZA
+country:Lesotho,  code: LS,  pessoas: 1,897,456
+
+
+language:  Southern Thai, code: sou
+country: Thailand TH
+
+language:  Southwestern Tamang, code: tsf
+country: Nepal NP
+
+language:  Spanish, code: es
+country: Mexico MX
+country:Spain,  code: ES,  pessoas: 46,896,795
+
+country:Argentina,  code: AR,  pessoas: 42,611,000
+
+country:Colombia,  code: CO,  pessoas: 42,543,594
+
+country:Philippines,  code: PH,  pessoas: 32,773,510
+
+country:United States,  code: US,  pessoas: 30,378,144
+
+country:Venezuela,  code: VE,  pessoas: 23,336,462
+
+country:Peru,  code: PE,  pessoas: 21,789,989
+
+country:Chile,  code: CL,  pessoas: 16,872,562
+
+country:Ecuador,  code: EC,  pessoas: 14,821,824
+
+country:Guatemala,  code: GT,  pessoas: 13,367,355
+
+country:Cuba,  code: CU,  pessoas: 11,061,900
+
+country:Dominican Republic,  code: DO,  pessoas: 7,971,288
+
+country:Honduras,  code: HN,  pessoas: 6,589,807
+
+country:Bolivia,  code: BO,  pessoas: 6,381,271
+
+country:El Salvador,  code: SV,  pessoas: 5,436,645
+
+country:Nicaragua,  code: NI,  pessoas: 4,515,053
+
+country:Costa Rica,  code: CR,  pessoas: 4,461,143
+
+country:Puerto Rico,  code: PR,  pessoas: 3,171,716
+
+country:Uruguay,  code: UY,  pessoas: 2,925,525
+
+country:Panama,  code: PA,  pessoas: 2,455,993
+
+country:Canary Islands,  code: IC,  pessoas: 2,056,618
+
+country:Equatorial Guinea,  code: GQ,  pessoas: 612,481
+
+country:Paraguay,  code: PY,  pessoas: 211,944
+
+country:Ceuta and Melilla,  code: EA,  pessoas: 147,000
+
+country:Germany,  code: DE,  pessoas: 129,836
+
+country:Belize,  code: BZ,  pessoas: 93,603
+
+country:Andorra,  code: AD,  pessoas: 36,676
+
+country:Morocco,  code: MA,  pessoas: 21,222
+
+country:Curaçao,  code: CW,  pessoas: 5,727
+
+country:Sint Maarten,  code: SX,  pessoas: 4,763
+
+country:Trinidad and Tobago,  code: TT,  pessoas: 4,043
+
+
+language:  Sranan Tongo, code: srn
+country: Suriname SR
+
+language:  Standard Moroccan Tamazight, code: zgh
+country: Morocco MA
+
+language:  Sukuma, code: suk
+country: Tanzania TZ
+
+language:  Sundanese, code: su
+country: Indonesia ID
+
+language:  Susu, code: sus
+country: Guinea GN
+
+language:  Swahili, code: sw
+country: Tanzania TZ
+country:Congo - Kinshasa,  code: CD,  pessoas: 37,753,650
+
+country:Kenya,  code: KE,  pessoas: 29,064,882
+
+country:Uganda,  code: UG,  pessoas: 26,069,100
+
+country:Somalia,  code: SO,  pessoas: 205,032
+
+country:Mozambique,  code: MZ,  pessoas: 9,157
+
+country:Burundi,  code: BI,  pessoas: 6,338
+
+country:Mayotte,  code: YT,  pessoas: 2,716
+
+country:South Africa,  code: ZA,  pessoas: 1,021
+
+
+language:  Swampy Cree, code: csw
+country: Canada CA
+
+language:  Swati, code: ss
+country: South Africa ZA
+country:Swaziland,  code: SZ,  pessoas: 813,949
+
+country:Lesotho,  code: LS,  pessoas: 46,468
+
+
+language:  Swedish, code: sv
+country: Sweden SE
+country:Finland,  code: FI,  pessoas: 300,168
+
+country:Åland Islands,  code: AX,  pessoas: 25,938
+
+
+language:  Swiss German, code: gsw
+country: Switzerland CH
+country:France,  code: FR,  pessoas: 600,160
+
+country:Liechtenstein,  code: LI,  pessoas: 31,458
+
+
+language:  Sylheti, code: syl
+country: Bangladesh BD
+country:United Kingdom,  code: GB,  pessoas: 323,318
+
+
+language:  Syriac, code: syr
+country: Iraq IQ
+country:Syria,  code: SY,  pessoas: 18,864
+
+
+language:  Language, code: Code
+country: Territory Code
+country:Tachelhit (Latin),  code: shi_Latn,  pessoas: Morocco
+
+language:  Tachelhit (Tifinagh), code: shi_Tfng
+country: Morocco MA
+
+language:  Tae', code: rob
+country: Indonesia ID
+
+language:  Tagbanwa, code: tbw
+country: Philippines PH
+
+language:  Tahitian, code: ty
+country: French Polynesia PF
+
+language:  Tai Nüa, code: tdd
+country: China CN
+
+language:  Taita, code: dav
+country: Kenya KE
+
+language:  Tajik (Arabic), code: tg_Arab
+country: Pakistan PK
+
+language:  Tajik (Cyrillic), code: tg_Cyrl
+country: Tajikistan TJ
+
+language:  Tamashek, code: tmh
+country: Niger NE
+country:Mali,  code: ML,  pessoas: 335,347
+
+
+language:  Tamil, code: ta
+country: India IN
+country:Sri Lanka,  code: LK,  pessoas: 3,251,340
+
+country:Malaysia,  code: MY,  pessoas: 1,244,393
+
+country:Réunion,  code: RE,  pessoas: 118,138
+
+country:Singapore,  code: SG,  pessoas: 114,666
+
+country:Mauritius,  code: MU,  pessoas: 33,056
+
+
+language:  Tarifit, code: rif
+country: Morocco MA
+country:Netherlands,  code: NL,  pessoas: 201,660
+
+
+language:  Taroko, code: trv
+country: Taiwan TW
+
+language:  Tasawaq, code: twq
+country: Niger NE
+
+language:  Tatar, code: tt
+country: Russia RU
+
+language:  Tausug, code: tsg
+country: Philippines PH
+
+language:  Tavringer Romani, code: rmu
+country: Sweden SE
+
+language:  Telugu, code: te
+country: India IN
+
+language:  Teso, code: teo
+country: Uganda UG
+country:Kenya,  code: KE,  pessoas: 325,879
+
+
+language:  Tetum, code: tet
+country: Timor-Leste TL
+
+language:  Thai, code: th
+country: Thailand TH
+
+language:  Thulung, code: tdh
+country: Nepal NP
+
+language:  Tibetan, code: bo
+country: China CN
+country:India,  code: IN,  pessoas: 134,288
+
+country:Nepal,  code: NP,  pessoas: 73,033
+
+
+language:  Tigre, code: tig
+country: Eritrea ER
+
+language:  Tigrinya, code: ti
+country: Ethiopia ET
+country:Eritrea,  code: ER,  pessoas: 3,740,208
+
+country:Israel,  code: IL,  pessoas: 10,019
+
+
+language:  Timne, code: tem
+country: Sierra Leone SL
+
+language:  Tiv, code: tiv
+country: Nigeria NG
+
+language:  Tok Pisin, code: tpi
+country: Papua New Guinea PG
+
+language:  Tokelau, code: tkl
+country: Tokelau TK
+
+language:  Tolaki, code: lbw
+country: Indonesia ID
+
+language:  Tomo Kan Dogon, code: dtm
+country: Mali ML
+
+language:  Tongan, code: to
+country: Tonga TO
+
+language:  Tooro, code: ttj
+country: Uganda UG
+
+language:  Tornedalen Finnish, code: fit
+country: Sweden SE
+
+language:  Traditional Chinese, code: zh_Hant
+country: Taiwan TW
+country:Hong Kong SAR China,  code: HK,  pessoas: 6,728,204
+
+country:Malaysia,  code: MY,  pessoas: 5,036,828
+
+country:Indonesia,  code: ID,  pessoas: 2,310,672
+
+country:United States,  code: US,  pessoas: 2,183,429
+
+country:Thailand,  code: TH,  pessoas: 1,214,950
+
+country:Vietnam,  code: VN,  pessoas: 924,779
+
+country:Philippines,  code: PH,  pessoas: 771,763
+
+country:Macau SAR China,  code: MO,  pessoas: 571,343
+
+country:Australia,  code: AU,  pessoas: 467,512
+
+country:United Kingdom,  code: GB,  pessoas: 342,336
+
+country:Brunei,  code: BN,  pessoas: 45,729
+
+country:French Polynesia,  code: PF,  pessoas: 21,629
+
+country:Suriname,  code: SR,  pessoas: 6,802
+
+country:Panama,  code: PA,  pessoas: 6,051
+
+country:French Guiana,  code: GF,  pessoas: 4,988
+
+
+language:  Tshangla, code: tsj
+country: Bhutan BT
+
+language:  Tsonga, code: ts
+country: South Africa ZA
+country:Mozambique,  code: MZ,  pessoas: 1,903,639
+
+country:Swaziland,  code: SZ,  pessoas: 23,857
+
+
+language:  Tswana, code: tn
+country: South Africa ZA
+country:Botswana,  code: BW,  pessoas: 1,319,255
+
+country:Zimbabwe,  code: ZW,  pessoas: 29,002
+
+country:Namibia,  code: NA,  pessoas: 6,112
+
+
+language:  Tulu, code: tcy
+country: India IN
+
+language:  Tumbuka, code: tum
+country: Malawi MW
+
+language:  Turkish, code: tr
+country: Turkey TR
+country:Germany,  code: DE,  pessoas: 2,028,682
+
+country:Bulgaria,  code: BG,  pessoas: 767,980
+
+country:Cyprus,  code: CY,  pessoas: 272,964
+
+country:Uzbekistan,  code: UZ,  pessoas: 217,828
+
+country:Macedonia,  code: MK,  pessoas: 202,455
+
+country:Netherlands,  code: NL,  pessoas: 201,660
+
+country:Ukraine,  code: UA,  pessoas: 187,207
+
+country:Greece,  code: GR,  pessoas: 129,276
+
+country:Romania,  code: RO,  pessoas: 28,328
+
+
+language:  Turkmen (Latin), code: tk_Latn
+country: Turkmenistan TM
+country:Iran,  code: IR,  pessoas: 2,235,909
+
+country:Afghanistan,  code: AF,  pessoas: 528,838
+
+
+language:  Tuvalu, code: tvl
+country: Tuvalu TV
+
+language:  Tuvinian, code: tyv
+country: Russia RU
+
+language:  Tyap, code: kcg
+country: Nigeria NG
+
+language:  Language, code: Code
+country: Territory Code
+country:Uab Meto,  code: aoz,  pessoas: Indonesia
+
+language:  Udmurt, code: udm
+country: Russia RU
+
+language:  Ukrainian, code: uk
+country: Ukraine UA
+country:Moldova,  code: MD,  pessoas: 506,790
+
+country:Poland,  code: PL,  pessoas: 149,697
+
+country:Slovakia,  code: SK,  pessoas: 104,278
+
+country:Serbia,  code: RS,  pessoas: 0
+
+country:Ulithian,  code: uli,  pessoas: Micronesia
+
+language:  Umbundu, code: umb
+country: Angola AO
+
+language:  Unknown Language, code: und
+country: Antarctica AQ
+country:South Georgia & South Sandwich Islands,  code: GS,  pessoas: 20
+
+country:Bouvet Island,  code: BV,  pessoas: 1
+
+country:Please click on each country code,  code: und,  pessoas: Unknown Region
+country:Urdu,  code: ur,  pessoas: Pakistan
+country:India,  code: IN,  pessoas: 61,040,000
+
+country:Mauritius,  code: MU,  pessoas: 68,756
+
+
+language:  Uyghur (Arabic), code: ug_Arab
+country: China CN
+country:Afghanistan,  code: AF,  pessoas: 2,986
+
+
+language:  Uyghur (Cyrillic), code: ug_Cyrl
+country: Kazakhstan KZ
+country:Mongolia,  code: MN,  pessoas: 990
+
+
+language:  Uzbek (Arabic), code: uz_Arab
+country: Afghanistan AF
+
+language:  Uzbek (Cyrillic), code: uz_Cyrl
+country: Uzbekistan UZ
+country:China,  code: CN,  pessoas: 5,398
+
+
+language:  Uzbek (Latin), code: uz_Latn
+country: Uzbekistan UZ
+country:Turkmenistan,  code: TM,  pessoas: 460,174
+
+country:Turkey,  code: TR,  pessoas: 2,017
+
+
+language:  Language, code: Code
+country: Territory Code
+country:Vai (Latin),  code: vai_Latn,  pessoas: Liberia
+country:Vai (Vai),  code: vai_Vaii,  pessoas: Liberia
+
+language:  Venda, code: ve
+country: South Africa ZA
+country:Zimbabwe,  code: ZW,  pessoas: 84,371
+
+
+language:  Vietnamese, code: vi
+country: Vietnam VN
+country:United States,  code: US,  pessoas: 1,075,893
+
+country:China,  code: CN,  pessoas: 6,748
+
+
+language:  Virgin Islands Creole English, code: vic
+country: Sint Maarten SX
+
+language:  Vunjo, code: vun
+country: Tanzania TZ
+
+language:  Language, code: Code
+country: Territory Code
+country:Waddar,  code: wbq,  pessoas: India
+
+language:  Wadiyara Koli, code: kxp
+country: Pakistan PK
+
+language:  Wagdi, code: wbr
+country: India IN
+
+language:  Wallisian, code: wls
+country: Wallis and Futuna WF
+
+language:  Walloon, code: wa
+country: Belgium BE
+
+language:  Walser, code: wae
+country: Switzerland CH
+country:Liechtenstein,  code: LI,  pessoas: 1,295
+
+
+language:  Waray, code: war
+country: Philippines PH
+
+language:  Welsh, code: cy
+country: United Kingdom GB
+country:Argentina,  code: AR,  pessoas: 27,697
+
+
+language:  Western Cham, code: cja
+country: Cambodia KH
+
+language:  Western Frisian, code: fy
+country: Netherlands NL
+
+language:  Western Gurung, code: gvr
+country: Nepal NP
+
+language:  Western Huasteca Nahuatl, code: nhw
+country: Mexico MX
+
+language:  Western Lawa, code: lcp
+country: China CN
+country:Thailand,  code: TH,  pessoas: 6,750
+
+
+language:  Western Magar, code: mrd
+country: Nepal NP
+
+language:  Western Mari, code: mrj
+country: Russia RU
+
+language:  Western Tamang, code: tdg
+country: Nepal NP
+
+language:  Wolaytta, code: wal
+country: Ethiopia ET
+
+language:  Wolof, code: wo
+country: Senegal SN
+country:Mauritania,  code: MR,  pessoas: 9,969
+
+
+language:  Language, code: Code
+country: Territory Code
+country:Xaasongaxango,  code: kao,  pessoas: Mali
+
+language:  Xavánte, code: xav
+country: Brazil BR
+
+language:  Xhosa, code: xh
+country: South Africa ZA
+country:Lesotho,  code: LS,  pessoas: 19,362
+
+
+language:  Language, code: Code
+country: Territory Code
+country:Yangben,  code: yav,  pessoas: Cameroon
+
+language:  Yao, code: yao
+country: Mozambique MZ
+
+language:  Yapese, code: yap
+country: Micronesia FM
+
+language:  Yemba, code: ybb
+country: Cameroon CM
+
+language:  Yiddish, code: yi
+country: Ukraine UA
+country:Israel,  code: IL,  pessoas: 231,211
+
+country:United States,  code: US,  pessoas: 155,055
+
+country:United Kingdom,  code: GB,  pessoas: 31,064
+
+country:Canada,  code: CA,  pessoas: 15,556
+
+country:Sweden,  code: SE,  pessoas: 2,991
+
+
+language:  Yoruba, code: yo
+country: Nigeria NG
+country:Benin,  code: BJ,  pessoas: 661,778
+
+
+language:  Yucateco, code: yua
+country: Mexico MX
+
+language:  Language, code: Code
+country: Territory Code
+country:Zarma,  code: dje,  pessoas: Niger
+
+language:  Zaza, code: zza
+country: Turkey TR
+
+language:  Zeeuws, code: zea
+country: Netherlands NL
+
+language:  Zhuang, code: za
+country: China CN
+
+language:  Zulu, code: zu
+country: South Africa ZA
+country:Lesotho,  code: LS,  pessoas: 271,065
+
+country:Swaziland,  code: SZ,  pessoas: 95,428
+
+country:Malawi,  code: MW,  pessoas: 55,366
+
+country:Mozambique,  code: MZ,  pessoas: 1,807
+

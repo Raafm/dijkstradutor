@@ -1,5 +1,5 @@
 
-file = open(r'dijkstra_hiding_message\Database\unicodelang.txt')
+file = open(r'Database\unicodelang.txt','r')
 
 #1255
 
@@ -21,5 +21,6 @@ for line in file:
     edge_list.append([country,language,probability])
          
 
-print( "fim")
 print(edge_list)
+print( "fim: ")
+print(edge_list[len(edge_list)-1])

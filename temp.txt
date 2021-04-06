@@ -1,0 +1,1777 @@
+Abkhazian	ab	Georgia	GE	108,728
+Turkey	TR	4,035
+
+add new		Abron	abr	Ghana	GH	1,259,980
+
+add new		Achinese	ace	Indonesia	ID	3,516,240
+
+add new		Acoli	ach	Uganda	UG	1,286,076
+
+add new		Adyghe	ady	Turkey	TR	314,709
+Russia	RU	123,975
+
+add new		Afar	aa	Ethiopia	ET	1,314,278
+Djibouti	DJ	332,723
+Eritrea	ER	224,412
+
+add new		Afrikaans	af	South Africa	ZA	6,318,143
+Namibia	NA	1,637,138
+Botswana	BW	5,958
+
+add new		Aghem	agq	Cameroon	CM	31,548
+
+add new		Akan	ak	Ghana	GH	9,827,844
+
+add new		Akoose	bss	Cameroon	CM	121,686
+
+add new		Albanian	sq	Albania	AL	3,011,410
+Kosovo	XK	1,699,893
+Serbia	RS	1,376,172
+Macedonia	MK	521,792
+Montenegro	ME	51,624
+Turkey	TR	16,946
+Greece	GR	10,019
+
+add new		Albay Bicolano	bhk	Philippines	PH	2,431,583
+
+add new		Amharic	am	Ethiopia	ET	30,979,410
+Israel	IL	45,472
+
+add new		Amo	amo	Nigeria	NG	15,357
+
+add new		Arabic	ar	Egypt	EG	80,176,736
+Algeria	DZ	28,184,972
+Saudi Arabia	SA	26,939,600
+Iraq	IQ	21,663,780
+Sudan	SD	21,257,219
+Morocco	MA	20,242,442
+Yemen	YE	18,750,490
+Syria	SY	17,965,840
+Tunisia	TN	9,752,310
+Jordan	JO	6,482,080
+Libya	LY	4,441,739
+Palestinian Territories	PS	4,440,130
+United Arab Emirates	AE	4,269,697
+Lebanon	LB	3,553,159
+Somalia	SO	3,485,544
+South Sudan	SS	2,994,327
+Mauritania	MR	2,921,968
+Kuwait	KW	2,695,320
+Oman	OM	2,554,845
+Chad	TD	1,902,895
+Qatar	QA	1,817,772
+Iran	IR	1,597,078
+Israel	IL	1,541,408
+Bahrain	BH	1,114,757
+Western Sahara	EH	538,811
+Comoros	KM	496,510
+Turkey	TR	451,889
+Eritrea	ER	305,450
+Mali	ML	142,123
+Nigeria	NG	123,901
+Cameroon	CM	87,885
+Djibouti	DJ	57,830
+Niger	NE	35,489
+Kenya	KE	20,257
+Cyprus	CY	1,305
+Tajikistan	TJ	1,028
+
+add new		Armenian	hy	Armenia	AM	3,002,985
+Russia	RU	1,197,000
+Syria	SY	404,231
+Georgia	GE	345,951
+Lebanon	LB	214,842
+Iran	IR	191,649
+Turkey	TR	45,189
+Cyprus	CY	2,730
+
+add new		Assamese	as	India	IN	15,870,400
+
+add new		Asturian	ast	Spain	ES	615,816
+
+add new		Asu	asa	Tanzania	TZ	579,143
+
+add new		Atikamekw	atj	Canada	CA	5,531
+
+add new		Atsam	cch	Nigeria	NG	36,647
+
+add new		Avaric	av	Russia	RU	555,750
+
+add new		Awadhi	awa	India	IN	23,195,200
+Nepal	NP	669,467
+
+add new		Aymara	ay	Bolivia	BO	2,092,220
+Peru	PE	477,589
+
+add new		Azerbaijani (Arabic)	az_Arab	Iran	IR	19,164,936
+
+add new		Azerbaijani (Cyrillic)	az_Cyrl	Azerbaijan	AZ	949,426
+Russia	RU	131,100
+
+add new		Azerbaijani (Latin)	az_Latn	Azerbaijan	AZ	8,535,242
+Turkey	TR	597,139
+Armenia	AM	162,406
+
+add new		Language	Code	Territory	Code	Language Population
+Badaga	bfq	India	IN	280,784
+
+add new		Bafia	ksf	Cameroon	CM	72,110
+
+add new		Bafut	bfd	Cameroon	CM	128,447
+
+add new		Bagheli	bfy	India	IN	451,696
+Nepal	NP	164,324
+
+add new		Bakhtiari	bqi	Iran	IR	1,117,955
+
+add new		Balinese	ban	Indonesia	ID	4,520,880
+
+add new		Balkan Gagauz Turkish	bgx	Turkey	TR	371,195
+
+add new		Balti	bft	Pakistan	PK	347,830
+India	IN	75,690
+
+add new		Baluchi	bal	Pakistan	PK	7,149,843
+Iran	IR	1,597,078
+Afghanistan	AF	208,424
+Oman	OM	154,552
+United Arab Emirates	AE	125,901
+
+add new		Bambara	bm	Mali	ML	7,345,694
+
+add new		Bamun	bax	Cameroon	CM	270,414
+
+add new		Banjar	bjn	Indonesia	ID	5,776,680
+Malaysia	MY	1,066,622
+
+add new		Bantawa	bap	Nepal	NP	456,454
+
+add new		Baoulé	bci	Côte d’Ivoire	CI	2,464,088
+
+add new		Basaa	bas	Cameroon	CM	270,414
+
+add new		Bashkir	ba	Russia	RU	1,852,500
+
+add new		Basque	eu	Spain	ES	947,410
+France	FR	85,737
+
+add new		Batak	bya	Indonesia	ID	5,776,680
+
+add new		Batak Toba	bbc	Indonesia	ID	2,310,672
+
+add new		Bateri	btv	Pakistan	PK	36,715
+India	IN	31,741
+
+add new		Belarusian	be	Belarus	BY	9,625,890
+Ukraine	UA	369,958
+Poland	PL	222,626
+
+add new		Bemba	bem	Zambia	ZM	4,408,882
+
+add new		Bena	bez	Tanzania	TZ	820,452
+
+add new		Bengali	bn	Bangladesh	BD	160,381,900
+India	IN	98,884,800
+United Kingdom	GB	424,751
+Nepal	NP	28,300
+
+add new		Betawi	bew	Indonesia	ID	3,013,920
+
+add new		Bhilali	bhi	India	IN	1,123,136
+
+add new		Bhili	bhb	India	IN	1,464,960
+
+add new		Bhojpuri	bho	India	IN	28,078,400
+Nepal	NP	2,069,260
+Mauritius	MU	357,005
+
+add new		Bikol	bik	Philippines	PH	3,171,630
+
+add new		Bini	bin	Nigeria	NG	1,239,007
+
+add new		Bislama	bi	Vanuatu	VU	235,408
+
+add new		Blin	byn	Eritrea	ER	81,038
+
+add new		Bodo	brx	India	IN	1,709,120
+
+add new		Bomu	bmq	Mali	ML	137,333
+
+add new		Bosnian (Cyrillic)	bs_Cyrl	Bosnia and Herzegovina	BA	3,836,963
+
+add new		Bosnian (Latin)	bs_Latn	Bosnia and Herzegovina	BA	3,836,963
+
+add new		Brahui	brh	Pakistan	PK	2,512,107
+
+add new		Braj	bra	India	IN	50,053
+
+add new		Breton	br	France	FR	547,398
+
+add new		Bube	bvb	Equatorial Guinea	GQ	55,616
+
+add new		Buginese	bug	Indonesia	ID	4,018,560
+Malaysia	MY	23,703
+
+add new		Buhid	bku	Philippines	PH	8,035
+
+add new		Bulgarian	bg	Bulgaria	BG	6,981,640
+Moldova	MD	340,273
+Turkey	TR	338,917
+Ukraine	UA	218,409
+Greece	GR	29,087
+Romania	RO	6,755
+
+add new		Bulu	bum	Cameroon	CM	1,036,587
+
+add new		Buriat	bua	Russia	RU	313,500
+
+add new		Burmese	my	Myanmar (Burma)	MM	35,307,072
+Bangladesh	BD	343,676
+
+add new		Bushi	buc	Mayotte	YT	44,620
+
+add new		Language	Code	Territory	Code	Language Population
+Catalan	ca	Spain	ES	8,052,985
+France	FR	112,118
+Andorra	AD	43,499
+Italy	IT	21,519
+
+add new		Cebaara Senoufo	sef	Côte d’Ivoire	CI	963,234
+
+add new		Cebuano	ceb	Philippines	PH	25,373,040
+
+add new		Central Atlas Tamazight (Latin)	tzm_Latn	Morocco	MA	3,199,612
+
+add new		Central Huasteca Nahuatl	nch	Mexico	MX	225,754
+
+add new		Central Mazahua	maz	Mexico	MX	403,981
+
+add new		Central Okinawan	ryu	Japan	JP	979,848
+
+add new		Central-Eastern Niger Fulfulde	fuq	Niger	NE	1,182,951
+
+add new		Chakma	ccp	Bangladesh	BD	360,041
+India	IN	341,824
+
+add new		Chamorro	ch	Guam	GU	35,283
+Northern Mariana Islands	MP	9,211
+
+add new		Chechen	ce	Russia	RU	940,500
+
+add new		Cherokee	chr	United States	US	24,366
+
+add new		Chhattisgarhi	hne	India	IN	13,428,800
+
+add new		Chiga	cgg	Uganda	UG	1,876,975
+
+add new		Chipewyan	chp	Canada	CA	761
+
+add new		Church Slavic	cu	Russia	RU	0
+add new	
+Chuukese	chk	Micronesia	FM	31,831
+
+add new		Chuvash	cv	Russia	RU	1,852,500
+
+add new		Colognian	ksh	Germany	DE	243,442
+
+add new		Comorian	swb	Mayotte	YT	170,720
+
+add new		Congo Swahili	swc	Congo - Kinshasa	CD	6,795,657
+
+add new		Cornish	kw	United Kingdom	GB	2,029
+
+add new		Corsican	co	France	FR	375,924
+
+add new		Cree (Unified Canadian Aboriginal Syllabics)	cr_Cans	Canada	CA	38,025
+
+add new		Croatian	hr	Croatia	HR	4,430,854
+Germany	DE	641,064
+Bosnia and Herzegovina	BA	465,086
+Austria	AT	98,660
+Serbia	RS	67,360
+Hungary	HU	31,806
+Italy	IT	3,504
+
+add new		Czech	cs	Czech Republic	CZ	10,397,604
+
+add new		Language	Code	Territory	Code	Language Population
+Dan	dnj	Côte d’Ivoire	CI	896,032
+
+add new		Dangaura Tharu	thl	Nepal	NP	608,606
+
+add new		Danish	da	Denmark	DK	5,167,498
+Germany	DE	49,500
+Greenland	GL	8,080
+Iceland	IS	2,238
+
+add new		Dargwa	dar	Russia	RU	370,500
+
+add new		Deccan	dcc	India	IN	12,085,920
+
+add new		Divehi	dv	Maldives	MV	370,349
+India	IN	4,883
+
+add new		Dogri	doi	India	IN	2,441,600
+
+add new		Dogrib	dgr	Canada	CA	2,627
+
+add new		Domari	rmt	Iran	IR	1,517,224
+
+add new		Duala	dua	Cameroon	CM	105,912
+
+add new		Dutch	nl	Netherlands	NL	16,805,000
+Belgium	BE	5,744,365
+Suriname	SR	510,161
+Aruba	AW	105,878
+Germany	DE	97,377
+France	FR	85,737
+Curaçao	CW	11,747
+Caribbean Netherlands	BQ	1,600
+Sint Maarten	SX	1,588
+
+add new		Dyula	dyu	Burkina Faso	BF	5,700,160
+
+add new		Dzongkha	dz	Bhutan	BT	340,889
+India	IN	2,442
+
+add new		Language	Code	Territory	Code	Language Population
+East Futuna	fud	Wallis and Futuna	WF	4,807
+
+add new		Eastern Cham	cjm	Vietnam	VN	82,305
+
+add new		Eastern Gurung	ggn	Nepal	NP	127,807
+
+add new		Eastern Huasteca Nahuatl	nhe	Mexico	MX	463,390
+
+add new		Eastern Lawa	lwl	Thailand	TH	6,750
+
+add new		Eastern Magar	mgp	Nepal	NP	334,733
+
+add new		Eastern Tamang	taj	Nepal	NP	912,909
+
+add new		Efik	efi	Nigeria	NG	2,443,112
+
+add new		Embu	ebu	Kenya	KE	660,566
+
+add new		English	en	United States	US	303,781,440
+India	IN	134,288,000
+Nigeria	NG	130,881,000
+Pakistan	PK	96,619,500
+Philippines	PH	67,661,440
+United Kingdom	GB	62,761,644
+Ethiopia	ET	40,367,110
+Kenya	KE	37,432,045
+Germany	DE	35,704,812
+Tanzania	TZ	33,300,711
+Canada	CA	29,382,970
+South Africa	ZA	26,730,605
+Australia	AU	21,372,000
+Sudan	SD	21,257,219
+France	FR	17,806,932
+Italy	IT	14,755,752
+Netherlands	NL	12,435,700
+Zimbabwe	ZW	11,996,439
+Zambia	ZM	11,519,982
+Spain	ES	11,368,920
+Malawi	MW	10,569,825
+Ghana	GH	9,071,856
+Malaysia	MY	8,592,236
+Belgium	BE	5,117,707
+Singapore	SG	5,078,079
+Ireland	IE	4,489,421
+New Zealand	NZ	3,972,250
+Eritrea	ER	3,677,871
+Hong Kong SAR China	HK	3,611,983
+Cameroon	CM	3,154,830
+South Sudan	SS	2,994,327
+Jamaica	JM	2,851,516
+Sierra Leone	SL	1,964,441
+Puerto Rico	PR	1,786,368
+Botswana	BW	1,723,542
+Uganda	UG	1,355,593
+Papua New Guinea	PG	1,286,380
+Trinidad and Tobago	TT	1,212,978
+Madagascar	MG	1,129,955
+Swaziland	SZ	1,122,688
+Mauritius	MU	952,013
+Fiji	FJ	842,953
+Liberia	LR	797,940
+Gambia	GM	753,220
+Guyana	GY	739,903
+Solomon Islands	SB	597,248
+Panama	PA	498,317
+Malta	MT	361,924
+Belize	BZ	334,297
+Bahamas	BS	319,031
+Barbados	BB	288,725
+Vanuatu	VU	193,558
+Namibia	NA	152,800
+Saint Lucia	LC	146,503
+Israel	IL	115,606
+Grenada	GD	105,206
+Kiribati	KI	103,248
+St. Vincent & Grenadines	VC	99,091
+Jersey	JE	90,945
+Isle of Man	IM	86,159
+Sri Lanka	LK	82,367
+U.S. Virgin Islands	VI	78,553
+Antigua and Barbuda	AG	77,534
+Dominica	DM	68,889
+Guernsey	GG	65,605
+Marshall Islands	MH	64,865
+Bermuda	BM	63,910
+Guam	GU	60,944
+China	CN	60,732
+American Samoa	AS	53,077
+Cayman Islands	KY	52,662
+Saint Kitts and Nevis	KN	50,111
+Northern Mariana Islands	MP	49,635
+Turks and Caicos Islands	TC	46,799
+Lesotho	LS	44,532
+Honduras	HN	37,173
+British Virgin Islands	VG	31,274
+Tonga	TO	29,770
+Sint Maarten	SX	26,989
+Gibraltar	GI	23,289
+Anguilla	AI	14,966
+Macau SAR China	MO	13,409
+Cook Islands	CK	9,925
+Finland	FI	9,479
+Nauru	NR	9,340
+Dominican Republic	DO	7,971
+Brunei	BN	7,899
+Saint Helena	SH	5,428
+Micronesia	FM	5,305
+Montserrat	MS	5,085
+Samoa	WS	4,300
+Seychelles	SC	4,088
+British Indian Ocean Territory	IO	3,500
+Lebanon	LB	3,305
+Falkland Islands	FK	3,109
+Aruba	AW	2,947
+Palau	PW	1,879
+Norfolk Island	NF	1,691
+Christmas Island	CX	1,407
+Tokelau	TK	1,353
+Niue	NU	1,204
+Tuvalu	TV	1,070
+Ascension Island	AC	931
+Diego Garcia	DG	495
+U.S. Outlying Islands	UM	316
+Rwanda	RW	300
+Tristan da Cunha	TA	272
+Saint Pierre and Miquelon	PM	191
+Cocos (Keeling) Islands	CC	101
+Pitcairn Islands	PN	46
+
+add new		Erzya	myv	Russia	RU	441,750
+
+add new		Esperanto	eo	San Marino	SM	299
+
+add new		Estonian	et	Estonia	EE	899,130
+Finland	FI	5,793
+
+add new		Ewe	ee	Ghana	GH	2,771,956
+Togo	TG	1,216,221
+
+add new		Ewondo	ewo	Cameroon	CM	698,570
+
+add new		Language	Code	Territory	Code	Language Population
+Fang	fan	Equatorial Guinea	GQ	359,041
+
+add new		Faroese	fo	Faroe Islands	FO	47,224
+
+add new		Fijian	fj	Fiji	FJ	349,736
+
+add new		Filipino	fil	Philippines	PH	63,432,600
+United States	US	1,329,044
+
+add new		Finnish	fi	Finland	FI	4,950,143
+Sweden	SE	212,243
+Russia	RU	17,100
+
+add new		Fon	fon	Benin	BJ	2,469,322
+
+add new		French	fr	France	FR	65,292,084
+Madagascar	MG	15,593,379
+Cameroon	CM	15,323,460
+Côte d’Ivoire	CI	10,976,392
+Tunisia	TN	8,018,566
+Algeria	DZ	7,617,560
+Canada	CA	7,605,004
+Mali	ML	7,345,694
+Morocco	MA	6,529,820
+Burundi	BI	5,935,813
+Senegal	SN	5,187,156
+Niger	NE	4,900,797
+Togo	TG	4,364,086
+Belgium	BE	3,968,834
+Burkina Faso	BF	3,918,860
+Congo - Brazzaville	CG	3,842,244
+Benin	BJ	3,457,052
+Guinea	GN	3,241,040
+Chad	TD	2,910,310
+Congo - Kinshasa	CD	2,869,277
+Central African Republic	CF	2,531,590
+United States	US	1,772,058
+Switzerland	CH	1,679,166
+Syria	SY	1,324,981
+Gabon	GA	1,033,383
+Réunion	RE	700,950
+Mauritania	MR	584,394
+Haiti	HT	465,015
+Luxembourg	LU	447,930
+Martinique	MQ	427,408
+Comoros	KM	421,281
+Guadeloupe	GP	407,498
+New Caledonia	NC	253,461
+French Polynesia	PF	169,149
+French Guiana	GF	153,622
+Vanuatu	VU	130,782
+Mayotte	YT	110,580
+Italy	IT	104,520
+Equatorial Guinea	GQ	61,952
+Seychelles	SC	54,508
+Mauritius	MU	39,667
+Saint Martin	MF	31,264
+Monaco	MC	30,195
+Djibouti	DJ	17,428
+Lebanon	LB	15,287
+United Kingdom	GB	15,215
+Wallis and Futuna	WF	7,598
+Saint Barthélemy	BL	6,860
+Andorra	AD	5,800
+Saint Pierre and Miquelon	PM	5,139
+Rwanda	RW	2,282
+French Southern Territories	TF	140
+
+add new		Friulian	fur	Italy	IT	860,752
+
+add new		Fulah	ff	Guinea	GN	2,905,760
+Senegal	SN	2,793,084
+Cameroon	CM	811,242
+Mauritania	MR	195,944
+
+add new		Language	Code	Territory	Code	Language Population
+Ga	gaa	Ghana	GH	705,589
+
+add new		Gagauz	gag	Moldova	MD	119,458
+
+add new		Galician	gl	Spain	ES	3,315,935
+Portugal	PT	15,119
+
+add new		Ganda	lg	Uganda	UG	4,518,644
+
+add new		Garhwali	gbm	India	IN	3,296,160
+
+add new		Garo	grt	India	IN	647,024
+Bangladesh	BD	119,468
+
+add new		Georgian	ka	Georgia	GE	4,250,258
+Iran	IR	56,696
+Turkey	TR	45,189
+
+add new		German	de	Germany	DE	73,844,043
+Austria	AT	7,975,000
+Switzerland	CH	5,837,102
+Brazil	BR	1,688,484
+United States	US	1,487,263
+Kazakhstan	KZ	1,135,162
+Canada	CA	656,796
+Luxembourg	LU	324,363
+Hungary	HU	248,487
+Italy	IT	239,781
+Paraguay	PY	192,074
+Belgium	BE	146,220
+Czech Republic	CZ	51,988
+Romania	RO	45,760
+Liechtenstein	LI	37,009
+Poland	PL	36,848
+Denmark	DK	23,893
+Namibia	NA	21,828
+Slovakia	SK	15,367
+
+add new		Ghomala	bbj	Cameroon	CM	315,483
+
+add new		Gilaki	glk	Iran	IR	3,673,279
+
+add new		Gilbertese	gil	Kiribati	KI	61,949
+
+add new		Gondi (Telugu)	gon_Telu	India	IN	2,929,920
+
+add new		Gorontalo	gor	Indonesia	ID	1,029,756
+
+add new		Greek	el	Greece	GR	10,665,270
+Cyprus	CY	890,100
+Germany	DE	308,360
+United Kingdom	GB	215,545
+Albania	AL	57,217
+Egypt	EG	52,030
+Italy	IT	21,519
+Ukraine	UA	7,132
+Romania	RO	4,140
+Turkey	TR	4,035
+
+add new		Gronings	gos	Netherlands	NL	604,980
+
+add new		Guajajára	gub	Brazil	BR	16,885
+
+add new		Guarani	gn	Paraguay	PY	5,298,600
+Bolivia	BO	47,075
+Argentina	AR	20,027
+
+add new		Guianese Creole French	gcr	French Guiana	GF	51,872
+
+add new		Gujarati	gu	India	IN	54,936,000
+Kenya	KE	4,844
+
+add new		Gujari	gju	Pakistan	PK	386,478
+
+add new		Gusii	guz	Kenya	KE	2,157,847
+
+add new		Gwichʼin	gwi	Canada	CA	553
+
+add new		Language	Code	Territory	Code	Language Population
+Hadothi	hoj	India	IN	1,001,056
+
+add new		Haitian	ht	Haiti	HT	8,014,083
+
+add new		Hanunoo	hnn	Philippines	PH	16,915
+
+add new		Haryanvi	bgc	India	IN	14,649,600
+
+add new		Hausa (Arabic)	ha_Arab	Nigeria	NG	1,745,080
+Sudan	SD	487,871
+Cameroon	CM	31,548
+
+add new		Hausa (Latin)	ha_Latn	Nigeria	NG	22,686,040
+Niger	NE	6,928,713
+Ghana	GH	216,717
+
+add new		Hawaiian	haw	United States	US	28,163
+
+add new		Hazaragi	haz	Afghanistan	AF	1,835,378
+
+add new		Hebrew	he	Israel	IL	7,707,040
+
+add new		Hiligaynon	hil	Philippines	PH	8,880,564
+
+add new		Hindi	hi	India	IN	500,528,000
+South Africa	ZA	972,022
+Fiji	FJ	394,574
+Nepal	NP	127,807
+Uganda	UG	2,190
+
+add new		Hiri Motu	ho	Papua New Guinea	PG	135,070
+
+add new		Ho	hoc	India	IN	1,208,592
+
+add new		Hungarian	hu	Hungary	HU	9,939,470
+Romania	RO	1,438,173
+Slovakia	SK	603,717
+Serbia	RS	347,664
+Ukraine	UA	164,921
+Israel	IL	77,070
+Austria	AT	22,198
+Slovenia	SI	9,166
+
+add new		Language	Code	Territory	Code	Language Population
+Ibibio	ibb	Nigeria	NG	2,443,112
+
+add new		Icelandic	is	Iceland	IS	315,281
+
+add new		Igbo	ig	Nigeria	NG	22,686,040
+
+add new		Iloko	ilo	Philippines	PH	10,149,216
+
+add new		Inari Sami	smn	Finland	FI	579
+
+add new		Indonesian	id	Indonesia	ID	160,742,400
+Netherlands	NL	302,490
+
+add new		Indus Kohistani	mvy	Pakistan	PK	270,535
+
+add new		Ingush	inh	Russia	RU	228,000
+
+add new		Interlingua	ia	France	FR	132
+Sweden	SE	0
+add new	
+Inuinnaqtun	ikt	Canada	CA	4,148
+
+add new		Inuktitut	iu	Canada	CA	14,519
+
+add new		Inupiaq	ik	United States	US	7,911
+
+add new		Irish	ga	Ireland	IE	525,358
+United Kingdom	GB	16,483
+
+add new		Italian	it	Italy	IT	58,408,185
+France	FR	1,121,177
+United States	US	1,075,893
+Canada	CA	691,364
+Brazil	BR	562,828
+Germany	DE	535,572
+Australia	AU	422,988
+Switzerland	CH	343,829
+United Kingdom	GB	215,545
+Croatia	HR	71,610
+San Marino	SM	28,879
+Slovenia	SI	3,985
+Vatican City	VA	822
+
+add new		Language	Code	Territory	Code	Language Population
+Japanese	ja	Japan	JP	120,890,350
+Brazil	BR	422,121
+
+add new		Javanese	jv	Indonesia	ID	85,394,400
+Malaysia	MY	355,541
+
+add new		Jenaama Bozo	bze	Mali	ML	134,139
+
+add new		Jju	kaj	Nigeria	NG	366,467
+
+add new		Jola-Fonyi	dyo	Senegal	SN	345,810
+
+add new		Jumli	jml	Nepal	NP	973,770
+
+add new		Language	Code	Territory	Code	Language Population
+Kabardian	kbd	Turkey	TR	621,348
+Russia	RU	441,750
+
+add new		Kabuverdianu	kea	Cape Verde	CV	488,562
+
+add new		Kabyle	kab	Algeria	DZ	2,970,848
+
+add new		Kachchi	kfr	India	IN	915,600
+
+add new		Kachi Koli	gjk	Pakistan	PK	212,563
+
+add new		Kaingang	kgp	Brazil	BR	20,101
+
+add new		Kako	kkj	Cameroon	CM	121,686
+
+add new		Kalaallisut	kl	Greenland	GL	48,480
+Denmark	DK	7,223
+
+add new		Kalanga	kck	Zimbabwe	ZW	698,694
+
+add new		Kalenjin	kln	Kenya	KE	3,346,865
+
+add new		Kalo Finnish Romani	rmf	Finland	FI	5,003
+
+add new		Kamba	kam	Kenya	KE	3,346,865
+
+add new		Kanauji	bjj	India	IN	6,836,480
+
+add new		Kangri	xnr	India	IN	1,953,280
+
+add new		Kannada	kn	India	IN	45,169,600
+
+add new		Kara-Kalpak	kaa	Uzbekistan	UZ	458,586
+
+add new		Karachay-Balkar	krc	Russia	RU	228,000
+
+add new		Karelian	krl	Russia	RU	116,850
+
+add new		Kashmiri (Arabic)	ks_Arab	India	IN	5,005,280
+Pakistan	PK	133,335
+United Kingdom	GB	120,452
+
+add new		Kashubian	csb	Poland	PL	49,899
+
+add new		Kathoriya Tharu	tkt	Nepal	NP	73,033
+
+add new		Kazakh (Arabic)	kk_Arab	China	CN	1,160,647
+Mongolia	MN	209,678
+Iran	IR	3,034
+Afghanistan	AF	1,991
+
+add new		Kazakh (Cyrillic)	kk_Cyrl	Kazakhstan	KZ	11,351,616
+Turkey	TR	565
+
+add new		Kerinci	kvr	Indonesia	ID	351,624
+
+add new		Khamti	kht	India	IN	8,546
+Myanmar (Burma)	MM	4,248
+
+add new		Khandesi	khn	India	IN	1,831,200
+
+add new		Khasi	kha	India	IN	976,640
+
+add new		Khmer	km	Cambodia	KH	13,532,895
+
+add new		Khmu	kjg	Laos	LA	388,320
+
+add new		Khowar	khw	Pakistan	PK	289,858
+
+add new		Kikuyu	ki	Kenya	KE	7,486,409
+
+add new		Kimbundu	kmb	Angola	AO	4,641,325
+
+add new		Kinyarwanda	rw	Rwanda	RW	9,249,702
+Uganda	UG	729,935
+Congo - Kinshasa	CD	286,928
+
+add new		Kita Maninkakan	mwk	Mali	ML	798,445
+
+add new		Kochila Tharu	thq	Nepal	NP	304,303
+
+add new		Kom	bkm	Cameroon	CM	292,948
+
+add new		Komering	kge	Indonesia	ID	803,712
+
+add new		Komi	kv	Russia	RU	256,500
+
+add new		Komi-Permyak	koi	Russia	RU	115,425
+
+add new		Kongo	kg	Congo - Kinshasa	CD	1,132,610
+
+add new		Konkani	kok	India	IN	4,516,960
+
+add new		Korean	ko	South Korea	KR	48,955,200
+North Korea	KP	21,753,952
+China	CN	2,024,385
+United States	US	949,317
+Japan	JP	661,716
+Brazil	BR	42,212
+
+add new		Koro	kfo	Côte d’Ivoire	CI	51,522
+
+add new		Koro Wachi	bqv	Côte d’Ivoire	CI	38,081
+
+add new		Kosraean	kos	Micronesia	FM	7,958
+
+add new		Koyra Chiini	khq	Mali	ML	271,471
+
+add new		Koyraboro Senni	ses	Mali	ML	542,943
+
+add new		Kpelle	kpe	Liberia	LR	558,558
+Guinea	GN	424,688
+
+add new		Krio	kri	Sierra Leone	SL	5,332,056
+
+add new		Kuanyama	kj	Namibia	NA	763,998
+
+add new		Kumaoni	kfy	India	IN	2,685,760
+
+add new		Kumyk	kum	Russia	RU	285,000
+
+add new		Kurdish (Arabic)	ku_Arab	Lebanon	LB	66,105
+
+add new		Kurdish (Latin)	ku_Latn	Turkey	TR	4,438,198
+Syria	SY	1,796,584
+Germany	DE	535,572
+Armenia	AM	101,121
+Georgia	GE	43,985
+Azerbaijan	AZ	23,016
+Turkmenistan	TM	20,963
+
+add new		Kurukh	kru	India	IN	2,319,520
+
+add new		Kuy	kdt	Thailand	TH	323,987
+Laos	LA	64,274
+Cambodia	KH	16,726
+
+add new		Kwasio	nmg	Cameroon	CM	9,014
+
+add new		Kyrgyz (Arabic)	ky_Arab	China	CN	458,861
+
+add new		Kyrgyz (Cyrillic)	ky_Cyrl	Kyrgyzstan	KG	2,663,059
+
+add new		Kyrgyz (Latin)	ky_Latn	Turkey	TR	1,130
+
+add new		Language	Code	Territory	Code	Language Population
+Lahnda	lah	Pakistan	PK	77,295,600
+India	IN	30,520
+
+add new		Lak	lbe	Russia	RU	111,150
+
+add new		Laki	lki	Iran	IR	606,890
+
+add new		Lakota	lkt	United States	US	8,227
+
+add new		Lambadi	lmn	India	IN	3,296,160
+
+add new		Lampung Api	ljp	Indonesia	ID	1,733,004
+
+add new		Langi	lag	Tanzania	TZ	419,879
+
+add new		Lango [Uganda]	laj	Uganda	UG	1,320,834
+
+add new		Lao	lo	Laos	LA	4,619,667
+
+add new		Latin	la	Vatican City	VA	822
+
+add new		Latvian	lv	Latvia	LV	1,328,848
+
+add new		Lepcha	lep	India	IN	42,728
+Bhutan	BT	28,287
+Nepal	NP	2,830
+
+add new		Lezghian	lez	Russia	RU	256,500
+
+add new		Limbu (Devanagari)	lif_Deva	Nepal	NP	334,733
+India	IN	31,741
+
+add new		Limburgish	li	Netherlands	NL	924,275
+
+add new		Lingala	ln	Congo - Kinshasa	CD	2,340,726
+Angola	AO	124,388
+Congo - Brazzaville	CG	109,778
+Central African Republic	CF	12,400
+
+add new		Lisu	lis	China	CN	607,316
+
+add new		Lithuanian	lt	Lithuania	LT	3,023,640
+Poland	PL	8,061
+
+add new		Lombard	lmo	Switzerland	CH	327,837
+
+add new		Lomwe	ngl	Mozambique	MZ	1,638,576
+
+add new		Low German	nds	Germany	DE	9,737,676
+
+add new		Lower Sorbian	dsb	Germany	DE	6,979
+
+add new		Lozi	loz	Zambia	ZM	853,332
+
+add new		Lü	khb	China	CN	256,422
+
+add new		Luba-Katanga	lu	Congo - Kinshasa	CD	1,736,668
+
+add new		Luba-Lulua	lua	Congo - Kinshasa	CD	7,248,701
+
+add new		Lule Sami	smj	Sweden	SE	1,544
+
+add new		Luo	luo	Kenya	KE	4,315,695
+
+add new		Luxembourgish	lb	Luxembourg	LU	344,958
+
+add new		Luyia	luy	Kenya	KE	4,844,147
+
+add new		Language	Code	Territory	Code	Language Population
+Maasina Fulfulde	ffm	Mali	ML	1,229,605
+
+add new		Macedonian	mk	Macedonia	MK	1,398,404
+Greece	GR	172,368
+Albania	AL	14,154
+
+add new		Machame	jmc	Tanzania	TZ	361,964
+
+add new		Madurese	mad	Indonesia	ID	15,823,080
+
+add new		Mafa	maf	Cameroon	CM	166,755
+
+add new		Magahi	mag	India	IN	14,649,600
+
+add new		Maguindanaon	mdh	Philippines	PH	1,268,652
+
+add new		Maithili	mai	India	IN	14,649,600
+Nepal	NP	3,347,333
+
+add new		Makasar	mak	Indonesia	ID	1,833,468
+
+add new		Makhuwa	vmw	Mozambique	MZ	3,132,571
+
+add new		Makhuwa-Meetto	mgh	Mozambique	MZ	1,084,352
+
+add new		Makonde	kde	Tanzania	TZ	1,158,286
+
+add new		Malagasy	mg	Madagascar	MG	20,339,190
+
+add new		Malay (Arabic)	ms_Arab	Indonesia	ID	11,553,360
+Brunei	BN	20,786
+Cocos (Keeling) Islands	CC	495
+
+add new		Malay (Latin)	ms_Latn	Malaysia	MY	22,221,300
+Singapore	SG	764,442
+Brunei	BN	386,617
+
+add new		Malayalam	ml	India	IN	39,065,600
+United Arab Emirates	AE	383,178
+Malaysia	MY	44,443
+Bahrain	BH	42,284
+United Kingdom	GB	22,188
+Singapore	SG	9,829
+Israel	IL	7,707
+Qatar	QA	6,536
+
+add new		Maltese	mt	Malta	MT	411,277
+
+add new		Mandar	mdr	Indonesia	ID	231,067
+
+add new		Mandingo (Latin)	man_Latn	Gambia	GM	546,084
+
+add new		Mandingo (N’Ko)	man_Nkoo	Guinea	GN	2,570,480
+
+add new		Manipuri	mni	India	IN	1,342,880
+Bangladesh	BD	18,002
+
+add new		Manx	gv	Isle of Man	IM	1,723
+
+add new		Manyika	mxc	Zimbabwe	ZW	856,888
+
+add new		Maori	mi	New Zealand	NZ	109,128
+
+add new		Marathi	mr	India	IN	85,456,000
+
+add new		Mari	chm	Russia	RU	527,250
+
+add new		Marshallese	mh	Marshall Islands	MH	50,915
+
+add new		Marwari	mwr	India	IN	14,649,600
+
+add new		Masaaba	myx	Uganda	UG	1,008,005
+
+add new		Masai	mas	Tanzania	TZ	723,928
+Kenya	KE	704,603
+
+add new		Mbunga	mgy	Tanzania	TZ	675,667
+
+add new		Medumba	byv	Cameroon	CM	247,880
+
+add new		Mende	men	Sierra Leone	SL	1,515,426
+Liberia	LR	19,151
+
+add new		Meru	mer	Kenya	KE	1,761,508
+
+add new		Meta'	mgo	Cameroon	CM	105,912
+
+add new		Mewari	mtr	India	IN	1,196,384
+
+add new		Mewati	wtm	India	IN	5,615,680
+
+add new		Minangkabau	min	Indonesia	ID	7,534,800
+
+add new		Moksha	mdf	Russia	RU	299,250
+
+add new		Mon	mnw	Myanmar (Burma)	MM	827,510
+Thailand	TH	114,745
+
+add new		Mongo	lol	Congo - Kinshasa	CD	460,595
+
+add new		Mongolian (Cyrillic)	mn_Cyrl	Mongolia	MN	2,708,337
+Russia	RU	2,138
+
+add new		Mongolian (Mongolian)	mn_Mong	China	CN	3,508,934
+
+add new		Montagnais	moe	Canada	CA	11,408
+
+add new		Moose Cree	crm	Canada	CA	4,494
+
+add new		Morisyen	mfe	Mauritius	MU	1,190,016
+
+add new		Mossi	mos	Burkina Faso	BF	7,125,200
+
+add new		Munda (Bengali)	unx_Beng	India	IN	585,984
+
+add new		Mundang	mua	Cameroon	CM	225,345
+
+add new		Mundari (Bengali)	unr_Beng	India	IN	1,159,760
+
+add new		Mundari (Devanagari)	unr_Deva	Nepal	NP	5,782
+
+add new		Language	Code	Territory	Code	Language Population
+Nama	naq	Namibia	NA	200,822
+
+add new		Naskapi	nsk	Canada	CA	1,175
+
+add new		Nauru	na	Nauru	NR	6,887
+
+add new		Navajo	nv	United States	US	158,220
+
+add new		Naxi	nxq	China	CN	323,902
+
+add new		Ndau	ndc	Mozambique	MZ	2,385,573
+Zimbabwe	ZW	804,157
+
+add new		Ndonga	ng	Namibia	NA	458,398
+
+add new		Neapolitan	nap	Italy	IT	7,377,876
+
+add new		Negeri Sembilan Malay	zmi	Malaysia	MY	355,541
+
+add new		Nepali	ne	Nepal	NP	13,389,332
+India	IN	6,836,480
+Bhutan	BT	123,300
+
+add new		Newari	new	Nepal	NP	1,004,200
+
+add new		Ngaju	nij	Indonesia	ID	929,292
+
+add new		Ngazidja Comorian	zdj	Comoros	KM	278,347
+
+add new		Ngiemboon	nnh	Cameroon	CM	315,483
+
+add new		Ngomba	jgo	Cameroon	CM	76,617
+
+add new		Nigerian Fulfulde	fuv	Nigeria	NG	11,692,036
+
+add new		Nigerian Pidgin	pcm	Nigeria	NG	36,646,680
+
+add new		Nimadi	noe	India	IN	1,587,040
+
+add new		Niuean	niu	Niue	NU	1,204
+
+add new		North Ndebele	nd	Zimbabwe	ZW	1,581,948
+
+add new		North Slavey	scs	Canada	CA	1,244
+
+add new		Northeastern Thai	tts	Thailand	TH	16,199,328
+
+add new		Northern East Cree	crl	Canada	CA	5,185
+
+add new		Northern Hindko	hno	Pakistan	PK	2,318,868
+
+add new		Northern Khmer	kxm	Thailand	TH	1,147,452
+
+add new		Northern Luri	lrc	Iran	IR	1,676,932
+
+add new		Northern Sami	se	Norway	NO	167,824
+Sweden	SE	31,836
+Finland	FI	2,001
+
+add new		Northern Sotho	nso	South Africa	ZA	4,568,503
+
+add new		Northern Thai	nod	Thailand	TH	6,479,731
+
+add new		Norwegian Bokmål	nb	Norway	NO	5,085,580
+Svalbard and Jan Mayen	SJ	1,498
+
+add new		Norwegian Nynorsk	nn	Norway	NO	1,271,395
+
+add new		Nuer	nus	Sudan	SD	627,262
+
+add new		Nyamwezi	nym	Tanzania	TZ	1,592,643
+
+add new		Nyanja	ny	Malawi	MW	10,569,825
+Zambia	ZM	2,133,330
+Mozambique	MZ	626,514
+Zimbabwe	ZW	250,475
+
+add new		Nyankole	nyn	Uganda	UG	2,189,804
+
+add new		Language	Code	Territory	Code	Language Population
+Occitan	oc	France	FR	1,978,548
+
+add new		Oriya	or	India	IN	39,065,600
+
+add new		Oromo	om	Ethiopia	ET	30,040,640
+Kenya	KE	206,977
+Somalia	SO	43,057
+
+add new		Ossetic	os	Russia	RU	456,000
+Georgia	GE	108,728
+
+add new		Language	Code	Territory	Code	Language Population
+Palauan	pau	Palau	PW	15,620
+
+add new		Pampanga	pam	Philippines	PH	2,431,583
+
+add new		Pangasinan	pag	Philippines	PH	1,480,094
+
+add new		Papiamento	pap	Curaçao	CW	118,937
+Aruba	AW	66,583
+Caribbean Netherlands	BQ	16,200
+
+add new		Parkari Koli	kvx	Pakistan	PK	309,182
+
+add new		Parsi-Dari	prd	Iran	IR	399,270
+Afghanistan	AF	373,297
+
+add new		Pashto	ps	Pakistan	PK	28,985,850
+Afghanistan	AF	13,376,483
+United Arab Emirates	AE	158,745
+Iran	IR	127,766
+
+add new		Pattani Malay	mfa	Thailand	TH	3,374,860
+
+add new		Persian	fa	Iran	IR	59,890,425
+Afghanistan	AF	15,554,050
+Pakistan	PK	1,275,377
+Iraq	IQ	277,169
+Qatar	QA	224,668
+United Arab Emirates	AE	104,005
+Tajikistan	TJ	61,698
+Oman	OM	29,649
+
+add new		Plains Cree	crk	Canada	CA	38,025
+
+add new		Pohnpeian	pon	Micronesia	FM	24,404
+
+add new		Pökoot	pko	Kenya	KE	308,264
+
+add new		Polish	pl	Poland	PL	36,848,448
+Ukraine	UA	1,069,757
+Germany	DE	235,327
+Israel	IL	115,606
+Czech Republic	CZ	51,988
+Slovakia	SK	51,042
+Romania	RO	2,833
+
+add new		Portuguese	pt	Brazil	BR	182,919,100
+Angola	AO	12,438,751
+Portugal	PT	10,367,328
+Mozambique	MZ	6,506,109
+Guinea-Bissau	GW	1,660,870
+France	FR	857,371
+Timor-Leste	TL	691,710
+Cape Verde	CV	403,595
+São Tomé and Príncipe	ST	158,794
+Macau SAR China	MO	29,150
+Antigua and Barbuda	AG	1,623
+
+add new		Punjabi (Arabic)	pa_Arab	Pakistan	PK	135,267,300
+
+add new		Punjabi (Gurmukhi)	pa_Guru	India	IN	34,182,400
+United Kingdom	GB	500,825
+Kenya	KE	10,129
+Singapore	SG	9,283
+
+add new		Punu	puu	Gabon	GA	147,626
+
+add new		Language	Code	Territory	Code	Language Population
+Quechua	qu	Peru	PE	4,477,395
+Bolivia	BO	3,347,552
+
+add new		Language	Code	Territory	Code	Language Population
+Rajasthani	raj	India	IN	1,220,800
+
+add new		Rajbanshi	rjs	Nepal	NP	133,893
+
+add new		Rana Tharu	thr	Nepal	NP	365,164
+
+add new		Rangpuri	rkt	Bangladesh	BD	10,637,575
+India	IN	5,371,520
+
+add new		Rejang	rej	Indonesia	ID	1,155,336
+
+add new		Réunion Creole French	rcf	Réunion	RE	559,185
+
+add new		Riang [India]	ria	India	IN	158,704
+
+add new		Rinconada Bikol	bto	Philippines	PH	296,019
+
+add new		Romanian	ro	Romania	RO	19,611,450
+Moldova	MD	2,280,556
+Israel	IL	285,160
+Ukraine	UA	231,781
+Serbia	RS	152,103
+Hungary	HU	98,401
+
+add new		Romansh	rm	Switzerland	CH	39,980
+
+add new		Rombo	rof	Tanzania	TZ	361,964
+
+add new		Ronga	rng	Mozambique	MZ	819,288
+
+add new		Rundi	rn	Burundi	BI	6,338,241
+
+add new		Russian	ru	Russia	RU	133,950,000
+Ukraine	UA	20,503,672
+Kazakhstan	KZ	16,850,055
+Uzbekistan	UZ	4,012,624
+Kyrgyzstan	KG	1,553,451
+Belarus	BY	1,155,107
+Israel	IL	847,774
+Latvia	LV	827,807
+United States	US	759,454
+Turkmenistan	TM	613,565
+Georgia	GE	444,794
+Estonia	EE	379,914
+Germany	DE	357,048
+Lithuania	LT	281,269
+Moldova	MD	108,598
+Finland	FI	42,655
+China	CN	13,496
+Mongolia	MN	4,077
+Svalbard and Jan Mayen	SJ	1,191
+
+add new		Rusyn	rue	Ukraine	UA	534,878
+
+add new		Rwa	rwk	Tanzania	TZ	106,176
+
+add new		Language	Code	Territory	Code	Language Population
+Sadri	sck	India	IN	2,197,440
+
+add new		Safaliba	saf	Ghana	GH	4,032
+
+add new		Saho	ssy	Eritrea	ER	224,412
+
+add new		Sakha	sah	Russia	RU	456,000
+
+add new		Samburu	saq	Kenya	KE	202,573
+
+add new		Samoan	sm	Samoa	WS	195,476
+American Samoa	AS	54,172
+
+add new		Sangir	sxn	Indonesia	ID	231,067
+
+add new		Sango	sg	Central African Republic	CF	2,531,590
+
+add new		Sangu	sbp	Tanzania	TZ	96,524
+
+add new		Sanskrit	sa	India	IN	14,650
+
+add new		Santali	sat	India	IN	6,714,400
+
+add new		Sasak	sas	Indonesia	ID	2,411,136
+
+add new		Saurashtra	saz	India	IN	354,032
+
+add new		Scots	sco	United Kingdom	GB	1,711,681
+
+add new		Scottish Gaelic	gd	United Kingdom	GB	62,762
+
+add new		Sena	seh	Mozambique	MZ	1,108,448
+
+add new		Seraiki	skr	Pakistan	PK	17,584,749
+
+add new		Serbian (Cyrillic)	sr_Cyrl	Serbia	RS	7,170,580
+Bosnia and Herzegovina	BA	387,572
+Kosovo	XK	92,386
+Montenegro	ME	32,674
+
+add new		Serbian (Latin)	sr_Latn	Serbia	RS	7,170,580
+Montenegro	ME	653,474
+Bosnia and Herzegovina	BA	387,572
+Kosovo	XK	92,386
+Romania	RO	26,149
+Turkey	TR	22,594
+Russia	RU	4,988
+
+add new		Serer	srr	Senegal	SN	1,463,044
+
+add new		Seselwa Creole French	crs	Seychelles	SC	89,029
+
+add new		Shambala	ksb	Tanzania	TZ	820,452
+
+add new		Shan	shn	Myanmar (Burma)	MM	3,530,707
+Thailand	TH	64,797
+
+add new		Shekhawati	swv	India	IN	3,418,240
+
+add new		Sherpa	xsr	Nepal	NP	155,195
+
+add new		Shona	sn	Zimbabwe	ZW	10,678,149
+
+add new		Sichuan Yi	ii	China	CN	8,097,540
+
+add new		Sicilian	scn	Italy	IT	5,164,513
+
+add new		Sidamo	sid	Ethiopia	ET	3,285,695
+
+add new		Simplified Chinese	zh_Hans	China	CN	1,214,631,000
+Singapore	SG	4,204,431
+Hong Kong SAR China	HK	354,116
+Mongolia	MN	40,771
+Macau SAR China	MO	29,150
+
+add new		Sindhi (Arabic)	sd_Arab	Pakistan	PK	23,188,680
+India	IN	3,174,080
+
+add new		Sindhi (Devanagari)	sd_Deva	India	IN	317,408
+
+add new		Sinhala	si	Sri Lanka	LK	14,739,408
+
+add new		Sinte Romani	rmo	Switzerland	CH	22,389
+
+add new		Sirmauri	srx	India	IN	427,280
+
+add new		Skolt Sami	sms	Finland	FI	579
+
+add new		Slave	den	Canada	CA	2,316
+
+add new		Slovak	sk	Slovakia	SK	4,939,506
+Serbia	RS	61,566
+Hungary	HU	10,933
+
+add new		Slovenian	sl	Slovenia	SI	1,733,640
+Italy	IT	104,520
+Austria	AT	30,420
+Hungary	HU	4,970
+
+add new		Soga	xog	Uganda	UG	1,842,216
+
+add new		Somali	so	Somalia	SO	7,996,248
+Ethiopia	ET	5,632,620
+Kenya	KE	572,490
+Djibouti	DJ	324,801
+
+add new		Soninke	snk	Mali	ML	942,165
+
+add new		Sorani Kurdish	ckb	Iraq	IQ	6,371,700
+Iran	IR	3,114,302
+
+add new		South Ndebele	nr	South Africa	ZA	777,618
+
+add new		Southern Altai	alt	Russia	RU	19,950
+
+add new		Southern East Cree	crj	Canada	CA	7,259
+
+add new		Southern Hindko	hnd	Pakistan	PK	792,280
+
+add new		Southern Kurdish	sdh	Iran	IR	1,916,494
+
+add new		Southern Luri	luz	Iran	IR	958,247
+
+add new		Southern Sami	sma	Sweden	SE	299
+
+add new		Southern Sotho	st	South Africa	ZA	3,839,487
+Lesotho	LS	1,897,456
+
+add new		Southern Thai	sou	Thailand	TH	5,399,776
+
+add new		Southwestern Tamang	tsf	Nepal	NP	130,850
+
+add new		Spanish	es	Mexico	MX	98,618,940
+Spain	ES	46,896,795
+Argentina	AR	42,611,000
+Colombia	CO	42,543,594
+Philippines	PH	32,773,510
+United States	US	30,378,144
+Venezuela	VE	23,336,462
+Peru	PE	21,789,989
+Chile	CL	16,872,562
+Ecuador	EC	14,821,824
+Guatemala	GT	13,367,355
+Cuba	CU	11,061,900
+Dominican Republic	DO	7,971,288
+Honduras	HN	6,589,807
+Bolivia	BO	6,381,271
+El Salvador	SV	5,436,645
+Nicaragua	NI	4,515,053
+Costa Rica	CR	4,461,143
+Puerto Rico	PR	3,171,716
+Uruguay	UY	2,925,525
+Panama	PA	2,455,993
+Canary Islands	IC	2,056,618
+Equatorial Guinea	GQ	612,481
+Paraguay	PY	211,944
+Ceuta and Melilla	EA	147,000
+Germany	DE	129,836
+Belize	BZ	93,603
+Andorra	AD	36,676
+Morocco	MA	21,222
+Curaçao	CW	5,727
+Sint Maarten	SX	4,763
+Trinidad and Tobago	TT	4,043
+
+add new		Sranan Tongo	srn	Suriname	SR	385,455
+
+add new		Standard Moroccan Tamazight	zgh	Morocco	MA	7,182,802
+
+add new		Sukuma	suk	Tanzania	TZ	4,198,785
+
+add new		Sundanese	su	Indonesia	ID	30,139,200
+
+add new		Susu	sus	Guinea	GN	1,229,360
+
+add new		Swahili	sw	Tanzania	TZ	43,435,710
+Congo - Kinshasa	CD	37,753,650
+Kenya	KE	29,064,882
+Uganda	UG	26,069,100
+Somalia	SO	205,032
+Mozambique	MZ	9,157
+Burundi	BI	6,338
+Mayotte	YT	2,716
+South Africa	ZA	1,021
+
+add new		Swampy Cree	csw	Canada	CA	4,840
+
+add new		Swati	ss	South Africa	ZA	1,312,230
+Swaziland	SZ	813,949
+Lesotho	LS	46,468
+
+add new		Swedish	sv	Sweden	SE	9,165,020
+Finland	FI	300,168
+Åland Islands	AX	25,938
+
+add new		Swiss German	gsw	Switzerland	CH	959,524
+France	FR	600,160
+Liechtenstein	LI	31,458
+
+add new		Sylheti	syl	Bangladesh	BD	8,182,750
+United Kingdom	GB	323,318
+
+add new		Syriac	syr	Iraq	IQ	159,292
+Syria	SY	18,864
+
+add new		Language	Code	Territory	Code	Language Population
+Tachelhit (Latin)	shi_Latn	Morocco	MA	2,840,472
+
+add new		Tachelhit (Tifinagh)	shi_Tfng	Morocco	MA	2,840,472
+
+add new		Tae'	rob	Indonesia	ID	276,276
+
+add new		Tagbanwa	tbw	Philippines	PH	10,043
+
+add new		Tahitian	ty	French Polynesia	PF	85,961
+
+add new		Tai Nüa	tdd	China	CN	256,422
+
+add new		Taita	dav	Kenya	KE	361,109
+
+add new		Tajik (Arabic)	tg_Arab	Pakistan	PK	637,689
+
+add new		Tajik (Cyrillic)	tg_Cyrl	Tajikistan	TJ	7,910,040
+
+add new		Tamashek	tmh	Niger	NE	1,013,958
+Mali	ML	335,347
+
+add new		Tamil	ta	India	IN	72,027,200
+Sri Lanka	LK	3,251,340
+Malaysia	MY	1,244,393
+Réunion	RE	118,138
+Singapore	SG	114,666
+Mauritius	MU	33,056
+
+add new		Tarifit	rif	Morocco	MA	1,599,806
+Netherlands	NL	201,660
+
+add new		Taroko	trv	Taiwan	TW	4,660
+
+add new		Tasawaq	twq	Niger	NE	7,943
+
+add new		Tatar	tt	Russia	RU	1,995,000
+
+add new		Tausug	tsg	Philippines	PH	1,162,931
+
+add new		Tavringer Romani	rmu	Sweden	SE	9,454
+
+add new		Telugu	te	India	IN	87,897,600
+
+add new		Teso	teo	Uganda	UG	1,355,593
+Kenya	KE	325,879
+
+add new		Tetum	tet	Timor-Leste	TL	691,710
+
+add new		Thai	th	Thailand	TH	53,997,760
+
+add new		Thulung	tdh	Nepal	NP	36,516
+
+add new		Tibetan	bo	China	CN	2,699,180
+India	IN	134,288
+Nepal	NP	73,033
+
+add new		Tigre	tig	Eritrea	ER	1,122,062
+
+add new		Tigrinya	ti	Ethiopia	ET	5,632,620
+Eritrea	ER	3,740,208
+Israel	IL	10,019
+
+add new		Timne	tem	Sierra Leone	SL	1,459,299
+
+add new		Tiv	tiv	Nigeria	NG	2,792,128
+
+add new		Tok Pisin	tpi	Papua New Guinea	PG	4,566,649
+
+add new		Tokelau	tkl	Tokelau	TK	1,339
+
+add new		Tolaki	lbw	Indonesia	ID	326,508
+
+add new		Tomo Kan Dogon	dtm	Mali	ML	175,658
+
+add new		Tongan	to	Tonga	TO	101,006
+
+add new		Tooro	ttj	Uganda	UG	660,417
+
+add new		Tornedalen Finnish	fit	Sweden	SE	53,061
+
+add new		Traditional Chinese	zh_Hant	Taiwan	TW	22,134,715
+Hong Kong SAR China	HK	6,728,204
+Malaysia	MY	5,036,828
+Indonesia	ID	2,310,672
+United States	US	2,183,429
+Thailand	TH	1,214,950
+Vietnam	VN	924,779
+Philippines	PH	771,763
+Macau SAR China	MO	571,343
+Australia	AU	467,512
+United Kingdom	GB	342,336
+Brunei	BN	45,729
+French Polynesia	PF	21,629
+Suriname	SR	6,802
+Panama	PA	6,051
+French Guiana	GF	4,988
+
+add new		Tshangla	tsj	Bhutan	BT	108,794
+
+add new		Tsonga	ts	South Africa	ZA	2,138,448
+Mozambique	MZ	1,903,639
+Swaziland	SZ	23,857
+
+add new		Tswana	tn	South Africa	ZA	3,985,290
+Botswana	BW	1,319,255
+Zimbabwe	ZW	29,002
+Namibia	NA	6,112
+
+add new		Tulu	tcy	India	IN	2,197,440
+
+add new		Tumbuka	tum	Malawi	MW	1,409,310
+
+add new		Turkish	tr	Turkey	TR	75,045,885
+Germany	DE	2,028,682
+Bulgaria	BG	767,980
+Cyprus	CY	272,964
+Uzbekistan	UZ	217,828
+Macedonia	MK	202,455
+Netherlands	NL	201,660
+Ukraine	UA	187,207
+Greece	GR	129,276
+Romania	RO	28,328
+
+add new		Turkmen (Latin)	tk_Latn	Turkmenistan	TM	3,579,128
+Iran	IR	2,235,909
+Afghanistan	AF	528,838
+
+add new		Tuvalu	tvl	Tuvalu	TV	9,842
+
+add new		Tuvinian	tyv	Russia	RU	185,250
+
+add new		Tyap	kcg	Nigeria	NG	162,292
+
+add new		Language	Code	Territory	Code	Language Population
+Uab Meto	aoz	Indonesia	ID	678,132
+
+add new		Udmurt	udm	Russia	RU	541,500
+
+add new		Ukrainian	uk	Ukraine	UA	28,972,580
+Moldova	MD	506,790
+Poland	PL	149,697
+Slovakia	SK	104,278
+Serbia	RS	0
+add new	
+Ulithian	uli	Micronesia	FM	2,971
+
+add new		Umbundu	umb	Angola	AO	5,383,937
+
+add new		Unknown Language	und	Antarctica	AQ	300
+South Georgia & South Sandwich Islands	GS	20
+Bouvet Island	BV	1
+Clipperton Island	CP
+Heard & McDonald Islands	HM
+
+add new		Unknown Language
+Please click on each country code	und	Unknown Region	ZZ	NaN
+Urdu	ur	Pakistan	PK	183,577,050
+India	IN	61,040,000
+Mauritius	MU	68,756
+
+add new		Uyghur (Arabic)	ug_Arab	China	CN	7,422,745
+Afghanistan	AF	2,986
+
+add new		Uyghur (Cyrillic)	ug_Cyrl	Kazakhstan	KZ	354,738
+Mongolia	MN	990
+
+add new		Uzbek (Arabic)	uz_Arab	Afghanistan	AF	1,462,081
+
+add new		Uzbek (Cyrillic)	uz_Cyrl	Uzbekistan	UZ	4,299,240
+China	CN	5,398
+
+add new		Uzbek (Latin)	uz_Latn	Uzbekistan	UZ	24,362,360
+Turkmenistan	TM	460,174
+Turkey	TR	2,017
+
+add new		Language	Code	Territory	Code	Language Population
+Vai (Latin)	vai_Latn	Liberia	LR	0
+add new	
+Vai (Vai)	vai_Vaii	Liberia	LR	103,732
+
+add new		Venda	ve	South Africa	ZA	1,117,825
+Zimbabwe	ZW	84,371
+
+add new		Vietnamese	vi	Vietnam	VN	79,530,994
+United States	US	1,075,893
+China	CN	6,748
+
+add new		Virgin Islands Creole English	vic	Sint Maarten	SX	3,096
+
+add new		Vunjo	vun	Tanzania	TZ	361,964
+
+add new		Language	Code	Territory	Code	Language Population
+Waddar	wbq	India	IN	2,197,440
+
+add new		Wadiyara Koli	kxp	Pakistan	PK	231,887
+
+add new		Wagdi	wbr	India	IN	1,831,200
+
+add new		Wallisian	wls	Wallis and Futuna	WF	9,459
+
+add new		Walloon	wa	Belgium	BE	605,769
+
+add new		Walser	wae	Switzerland	CH	10,395
+Liechtenstein	LI	1,295
+
+add new		Waray	war	Philippines	PH	3,065,909
+
+add new		Welsh	cy	United Kingdom	GB	488,146
+Argentina	AR	27,697
+
+add new		Western Cham	cja	Cambodia	KH	243,288
+
+add new		Western Frisian	fy	Netherlands	NL	722,615
+
+add new		Western Gurung	gvr	Nepal	NP	88,248
+
+add new		Western Huasteca Nahuatl	nhw	Mexico	MX	451,508
+
+add new		Western Lawa	lcp	China	CN	78,276
+Thailand	TH	6,750
+
+add new		Western Magar	mrd	Nepal	NP	252,571
+
+add new		Western Mari	mrj	Russia	RU	65,550
+
+add new		Western Tamang	tdg	Nepal	NP	395,594
+
+add new		Wolaytta	wal	Ethiopia	ET	1,689,786
+
+add new		Wolof	wo	Senegal	SN	4,522,136
+Mauritania	MR	9,969
+
+add new		Language	Code	Territory	Code	Language Population
+Xaasongaxango	kao	Mali	ML	159,689
+
+add new		Xavánte	xav	Brazil	BR	10,050
+
+add new		Xhosa	xh	South Africa	ZA	8,748,198
+Lesotho	LS	19,362
+
+add new		Language	Code	Territory	Code	Language Population
+Yangben	yav	Cameroon	CM	2,253
+
+add new		Yao	yao	Mozambique	MZ	578,321
+
+add new		Yapese	yap	Micronesia	FM	6,578
+
+add new		Yemba	ybb	Cameroon	CM	360,552
+
+add new		Yiddish	yi	Ukraine	UA	579,452
+Israel	IL	231,211
+United States	US	155,055
+United Kingdom	GB	31,064
+Canada	CA	15,556
+Sweden	SE	2,991
+
+add new		Yoruba	yo	Nigeria	NG	22,686,040
+Benin	BJ	661,778
+
+add new		Yucateco	yua	Mexico	MX	796,081
+
+add new		Language	Code	Territory	Code	Language Population
+Zarma	dje	Niger	NE	2,872,881
+
+add new		Zaza	zza	Turkey	TR	1,129,723
+
+add new		Zeeuws	zea	Netherlands	NL	235,270
+
+add new		Zhuang	za	China	CN	4,183,729
+
+add new		Zulu	zu	South Africa	ZA	11,664,264
+Lesotho	LS	271,065
+Swaziland	SZ	95,428
+Malawi	MW	55,366
+Mozambique	MZ	1,807
+
+add new		
