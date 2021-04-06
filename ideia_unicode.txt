@@ -1,0 +1,27 @@
+http://konect.cc/networks/unicodelang/
+
+
+Contexto1:
+
+ A mensagem só é passada para frente se os mensageiros entenderem ela, (ou os carteiros lerem souberem ler o endereço). Assim, um mensageiro passa para outro a mensagem  na lingua que o outro possa entender (o carteiro tira o endereço e coloca o traduzido por cima). 
+
+Devemos evitar ao máximo possível que as informações da mensagen sejam entendidas pelas pessoas ali presentes, por isso nós precisamos ir enviar a mensagem passando pelos locais que menos pessoas possam entender se ouvirem (ou que menos pessoas possam ler para onde a carta vai).
+
+Dijkstra vai escolher o caminho que resulte no menor numero de pessoas que possam entender, uma vez que ele sempre escolhe o caminho com menor porcentagem de falantes daquele idioma.
+
+
+Contexto 2:
+
+Queremos enviar um audio secreto para alguem de outro país.
+Como NAO TEMOS VPN, qualquer um do país que envia a mensagem ou qualquer um do país que recebe a mensagem pode captar nosso áudio e ouvi-lo.
+
+Temos tradutores em outros paises que podem ajudar
+
+Para esconder a mensagem, podemos usar a seguinte estratégia (em ingles: strategy, em latim: ,     em grego: στρατηγική):     se muitas pessoas no país de destino falarem os idiomas que podemos escrever a carta, nós mandamos para um país intermediário traduzir para um idioma menos falado na origem.
+
+Sempre escolhemos as menores probabilidades de nos entenderem.
+
+Dijkstra procurará os menores caminhos para chegar ao destino com as menores porcentagens de chance de entenderem.
+
+obs: a definição de caminho mais segura não está precisa, pois o que dijkstra calcula é as menores probabilidades, multiplicadas, o que significa a probabilidade de TODOS os paises conseguirem ouvir sua mensagem foi minimizada
+mas existe a probabilidade de ser ouvido em apenas 1 pais ser minimizada
