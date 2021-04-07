@@ -1,25 +1,26 @@
+"""
+Program for generating the list of edges of the database as a synthatically
+correct text file
+"""
 
-file = open(r'Database\unicodelang.txt','r')
+# change this according to your machine
+base = r"C:\Users\User\Desktop\Programming\Code Projects\Cadeira_Algoritmos\src\dijkstradutor"
 
-#1255
+in_file = open(base + r"\Database\unicodelang.txt")
 
-edge_list = list()
-country = ''
-language = ''
+out_file = open(base + r"\Create_graph\new_edgelist.py", 'w')
+out_file.write("edge_list = [\n")
 
-#convert txt to graph:
-count=0
-probability = ''
-for line in file:
-    if "%" in line: continue
-    else: 
-        line = line.split('\t')
-        country = int(line[0])
-        language = int(line[1])
-        probability = float(line[2][:len(line[2]) - 1])
+# convert txt to graph:
+# ignore the first line
+in_file.readline()
+for line in in_file:
+    country, lang, prob = line.split()
+    out_file.write(f"\t({country}, {lang}, {prob}),\n")
 
-    edge_list.append([country,language,probability])
-         
+out_file.write("]\n")
 
-print(edge_list)
+in_file.close()
+out_file.close()
 
+print('hi')
