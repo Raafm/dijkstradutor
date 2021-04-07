@@ -22,5 +22,4 @@ for line in file:
          
 
 print(edge_list)
-print( "fim: ")
-print(edge_list[len(edge_list)-1])
+

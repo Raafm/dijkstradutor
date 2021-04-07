@@ -5,3 +5,7 @@ Deixo porém a ideia de usar possivelmlente interpretar o weight ==0 como sendo 
 
 NOTA: 
 ALTERAMOS O NOME DOS ARQUIVOS ORIGINAIS DO DATABASE, PORÉM OS MESMOS ESTÃO FACILMENTE RECONHECÍVEIS
+
+Pegamos as informacoes dos sites:
+    https://www.unicode.org/cldr/cldr-aux/charts/25/supplemental/language_territory_information.html
+    http://konect.cc/networks/unicodelang/

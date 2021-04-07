@@ -1,0 +1,2923 @@
+language: Abkhazian,   code: ab
+country: Georgia,   code: GE,   population: 108,728
+
+country: Turkey,   code: TR,   population: 4,035
+
+language: Abron,   code: abr
+country: Ghana,   code: GH,   population: 1,259,980
+
+language: Achinese,   code: ace
+country: Indonesia,   code: ID,   population: 3,516,240
+
+language: Acoli,   code: ach
+country: Uganda,   code: UG,   population: 1,286,076
+
+language: Adyghe,   code: ady
+country: Turkey,   code: TR,   population: 314,709
+
+country: Russia,   code: RU,   population: 123,975
+
+language: Afar,   code: aa
+country: Ethiopia,   code: ET,   population: 1,314,278
+
+country: Djibouti,   code: DJ,   population: 332,723
+
+country: Eritrea,   code: ER,   population: 224,412
+
+language: Afrikaans,   code: af
+country: South Africa,   code: ZA,   population: 6,318,143
+
+country: Namibia,   code: NA,   population: 1,637,138
+
+country: Botswana,   code: BW,   population: 5,958
+
+language: Aghem,   code: agq
+country: Cameroon,   code: CM,   population: 31,548
+
+language: Akan,   code: ak
+country: Ghana,   code: GH,   population: 9,827,844
+
+language: Akoose,   code: bss
+country: Cameroon,   code: CM,   population: 121,686
+
+language: Albanian,   code: sq
+country: Albania,   code: AL,   population: 3,011,410
+
+country: Kosovo,   code: XK,   population: 1,699,893
+
+country: Serbia,   code: RS,   population: 1,376,172
+
+country: Macedonia,   code: MK,   population: 521,792
+
+country: Montenegro,   code: ME,   population: 51,624
+
+country: Turkey,   code: TR,   population: 16,946
+
+country: Greece,   code: GR,   population: 10,019
+
+language: Albay Bicolano,   code: bhk
+country: Philippines,   code: PH,   population: 2,431,583
+
+language: Amharic,   code: am
+country: Ethiopia,   code: ET,   population: 30,979,410
+
+country: Israel,   code: IL,   population: 45,472
+
+language: Amo,   code: amo
+country: Nigeria,   code: NG,   population: 15,357
+
+language: Arabic,   code: ar
+country: Egypt,   code: EG,   population: 80,176,736
+
+country: Algeria,   code: DZ,   population: 28,184,972
+
+country: Saudi Arabia,   code: SA,   population: 26,939,600
+
+country: Iraq,   code: IQ,   population: 21,663,780
+
+country: Sudan,   code: SD,   population: 21,257,219
+
+country: Morocco,   code: MA,   population: 20,242,442
+
+country: Yemen,   code: YE,   population: 18,750,490
+
+country: Syria,   code: SY,   population: 17,965,840
+
+country: Tunisia,   code: TN,   population: 9,752,310
+
+country: Jordan,   code: JO,   population: 6,482,080
+
+country: Libya,   code: LY,   population: 4,441,739
+
+country: Palestinian Territories,   code: PS,   population: 4,440,130
+
+country: United Arab Emirates,   code: AE,   population: 4,269,697
+
+country: Lebanon,   code: LB,   population: 3,553,159
+
+country: Somalia,   code: SO,   population: 3,485,544
+
+country: South Sudan,   code: SS,   population: 2,994,327
+
+country: Mauritania,   code: MR,   population: 2,921,968
+
+country: Kuwait,   code: KW,   population: 2,695,320
+
+country: Oman,   code: OM,   population: 2,554,845
+
+country: Chad,   code: TD,   population: 1,902,895
+
+country: Qatar,   code: QA,   population: 1,817,772
+
+country: Iran,   code: IR,   population: 1,597,078
+
+country: Israel,   code: IL,   population: 1,541,408
+
+country: Bahrain,   code: BH,   population: 1,114,757
+
+country: Western Sahara,   code: EH,   population: 538,811
+
+country: Comoros,   code: KM,   population: 496,510
+
+country: Turkey,   code: TR,   population: 451,889
+
+country: Eritrea,   code: ER,   population: 305,450
+
+country: Mali,   code: ML,   population: 142,123
+
+country: Nigeria,   code: NG,   population: 123,901
+
+country: Cameroon,   code: CM,   population: 87,885
+
+country: Djibouti,   code: DJ,   population: 57,830
+
+country: Niger,   code: NE,   population: 35,489
+
+country: Kenya,   code: KE,   population: 20,257
+
+country: Cyprus,   code: CY,   population: 1,305
+
+country: Tajikistan,   code: TJ,   population: 1,028
+
+language: Armenian,   code: hy
+country: Armenia,   code: AM,   population: 3,002,985
+
+country: Russia,   code: RU,   population: 1,197,000
+
+country: Syria,   code: SY,   population: 404,231
+
+country: Georgia,   code: GE,   population: 345,951
+
+country: Lebanon,   code: LB,   population: 214,842
+
+country: Iran,   code: IR,   population: 191,649
+
+country: Turkey,   code: TR,   population: 45,189
+
+country: Cyprus,   code: CY,   population: 2,730
+
+language: Assamese,   code: as
+country: India,   code: IN,   population: 15,870,400
+
+language: Asturian,   code: ast
+country: Spain,   code: ES,   population: 615,816
+
+language: Asu,   code: asa
+country: Tanzania,   code: TZ,   population: 579,143
+
+language: Atikamekw,   code: atj
+country: Canada,   code: CA,   population: 5,531
+
+language: Atsam,   code: cch
+country: Nigeria,   code: NG,   population: 36,647
+
+language: Avaric,   code: av
+country: Russia,   code: RU,   population: 555,750
+
+language: Awadhi,   code: awa
+country: India,   code: IN,   population: 23,195,200
+
+country: Nepal,   code: NP,   population: 669,467
+
+language: Aymara,   code: ay
+country: Bolivia,   code: BO,   population: 2,092,220
+
+country: Peru,   code: PE,   population: 477,589
+
+language: Azerbaijani (Arabic),   code: az_Arab
+country: Iran,   code: IR,   population: 19,164,936
+
+language: Azerbaijani (Cyrillic),   code: az_Cyrl
+country: Azerbaijan,   code: AZ,   population: 949,426
+
+country: Russia,   code: RU,   population: 131,100
+
+language: Azerbaijani (Latin),   code: az_Latn
+country: Azerbaijan,   code: AZ,   population: 8,535,242
+
+country: Turkey,   code: TR,   population: 597,139
+
+country: Armenia,   code: AM,   population: 162,406
+
+language: Badaga,   code: bfq
+country: India,   code: IN,   population: 280,784
+
+language: Bafia,   code: ksf
+country: Cameroon,   code: CM,   population: 72,110
+
+language: Bafut,   code: bfd
+country: Cameroon,   code: CM,   population: 128,447
+
+language: Bagheli,   code: bfy
+country: India,   code: IN,   population: 451,696
+
+country: Nepal,   code: NP,   population: 164,324
+
+language: Bakhtiari,   code: bqi
+country: Iran,   code: IR,   population: 1,117,955
+
+language: Balinese,   code: ban
+country: Indonesia,   code: ID,   population: 4,520,880
+
+language: Balkan Gagauz Turkish,   code: bgx
+country: Turkey,   code: TR,   population: 371,195
+
+language: Balti,   code: bft
+country: Pakistan,   code: PK,   population: 347,830
+
+country: India,   code: IN,   population: 75,690
+
+language: Baluchi,   code: bal
+country: Pakistan,   code: PK,   population: 7,149,843
+
+country: Iran,   code: IR,   population: 1,597,078
+
+country: Afghanistan,   code: AF,   population: 208,424
+
+country: Oman,   code: OM,   population: 154,552
+
+country: United Arab Emirates,   code: AE,   population: 125,901
+
+language: Bambara,   code: bm
+country: Mali,   code: ML,   population: 7,345,694
+
+language: Bamun,   code: bax
+country: Cameroon,   code: CM,   population: 270,414
+
+language: Banjar,   code: bjn
+country: Indonesia,   code: ID,   population: 5,776,680
+
+country: Malaysia,   code: MY,   population: 1,066,622
+
+language: Bantawa,   code: bap
+country: Nepal,   code: NP,   population: 456,454
+
+language: Baoulé,   code: bci
+country: Côte d’Ivoire,   code: CI,   population: 2,464,088
+
+language: Basaa,   code: bas
+country: Cameroon,   code: CM,   population: 270,414
+
+language: Bashkir,   code: ba
+country: Russia,   code: RU,   population: 1,852,500
+
+language: Basque,   code: eu
+country: Spain,   code: ES,   population: 947,410
+
+country: France,   code: FR,   population: 85,737
+
+language: Batak,   code: bya
+country: Indonesia,   code: ID,   population: 5,776,680
+
+language: Batak Toba,   code: bbc
+country: Indonesia,   code: ID,   population: 2,310,672
+
+language: Bateri,   code: btv
+country: Pakistan,   code: PK,   population: 36,715
+
+country: India,   code: IN,   population: 31,741
+
+language: Belarusian,   code: be
+country: Belarus,   code: BY,   population: 9,625,890
+
+country: Ukraine,   code: UA,   population: 369,958
+
+country: Poland,   code: PL,   population: 222,626
+
+language: Bemba,   code: bem
+country: Zambia,   code: ZM,   population: 4,408,882
+
+language: Bena,   code: bez
+country: Tanzania,   code: TZ,   population: 820,452
+
+language: Bengali,   code: bn
+country: Bangladesh,   code: BD,   population: 160,381,900
+
+country: India,   code: IN,   population: 98,884,800
+
+country: United Kingdom,   code: GB,   population: 424,751
+
+country: Nepal,   code: NP,   population: 28,300
+
+language: Betawi,   code: bew
+country: Indonesia,   code: ID,   population: 3,013,920
+
+language: Bhilali,   code: bhi
+country: India,   code: IN,   population: 1,123,136
+
+language: Bhili,   code: bhb
+country: India,   code: IN,   population: 1,464,960
+
+language: Bhojpuri,   code: bho
+country: India,   code: IN,   population: 28,078,400
+
+country: Nepal,   code: NP,   population: 2,069,260
+
+country: Mauritius,   code: MU,   population: 357,005
+
+language: Bikol,   code: bik
+country: Philippines,   code: PH,   population: 3,171,630
+
+language: Bini,   code: bin
+country: Nigeria,   code: NG,   population: 1,239,007
+
+language: Bislama,   code: bi
+country: Vanuatu,   code: VU,   population: 235,408
+
+language: Blin,   code: byn
+country: Eritrea,   code: ER,   population: 81,038
+
+language: Bodo,   code: brx
+country: India,   code: IN,   population: 1,709,120
+
+language: Bomu,   code: bmq
+country: Mali,   code: ML,   population: 137,333
+
+language: Bosnian (Cyrillic),   code: bs_Cyrl
+country: Bosnia and Herzegovina,   code: BA,   population: 3,836,963
+
+language: Bosnian (Latin),   code: bs_Latn
+country: Bosnia and Herzegovina,   code: BA,   population: 3,836,963
+
+language: Brahui,   code: brh
+country: Pakistan,   code: PK,   population: 2,512,107
+
+language: Braj,   code: bra
+country: India,   code: IN,   population: 50,053
+
+language: Breton,   code: br
+country: France,   code: FR,   population: 547,398
+
+language: Bube,   code: bvb
+country: Equatorial Guinea,   code: GQ,   population: 55,616
+
+language: Buginese,   code: bug
+country: Indonesia,   code: ID,   population: 4,018,560
+
+country: Malaysia,   code: MY,   population: 23,703
+
+language: Buhid,   code: bku
+country: Philippines,   code: PH,   population: 8,035
+
+language: Bulgarian,   code: bg
+country: Bulgaria,   code: BG,   population: 6,981,640
+
+country: Moldova,   code: MD,   population: 340,273
+
+country: Turkey,   code: TR,   population: 338,917
+
+country: Ukraine,   code: UA,   population: 218,409
+
+country: Greece,   code: GR,   population: 29,087
+
+country: Romania,   code: RO,   population: 6,755
+
+language: Bulu,   code: bum
+country: Cameroon,   code: CM,   population: 1,036,587
+
+language: Buriat,   code: bua
+country: Russia,   code: RU,   population: 313,500
+
+language: Burmese,   code: my
+country: Myanmar (Burma),   code: MM,   population: 35,307,072
+
+country: Bangladesh,   code: BD,   population: 343,676
+
+language: Bushi,   code: buc
+country: Mayotte,   code: YT,   population: 44,620
+
+language: Catalan,   code: ca
+country: Spain,   code: ES,   population: 8,052,985
+
+country: France,   code: FR,   population: 112,118
+
+country: Andorra,   code: AD,   population: 43,499
+
+country: Italy,   code: IT,   population: 21,519
+
+language: Cebaara Senoufo,   code: sef
+country: Côte d’Ivoire,   code: CI,   population: 963,234
+
+language: Cebuano,   code: ceb
+country: Philippines,   code: PH,   population: 25,373,040
+
+language: Central Atlas Tamazight (Latin),   code: tzm_Latn
+country: Morocco,   code: MA,   population: 3,199,612
+
+language: Central Huasteca Nahuatl,   code: nch
+country: Mexico,   code: MX,   population: 225,754
+
+language: Central Mazahua,   code: maz
+country: Mexico,   code: MX,   population: 403,981
+
+language: Central Okinawan,   code: ryu
+country: Japan,   code: JP,   population: 979,848
+
+language: Central-Eastern Niger Fulfulde,   code: fuq
+country: Niger,   code: NE,   population: 1,182,951
+
+language: Chakma,   code: ccp
+country: Bangladesh,   code: BD,   population: 360,041
+
+country: India,   code: IN,   population: 341,824
+
+language: Chamorro,   code: ch
+country: Guam,   code: GU,   population: 35,283
+
+country: Northern Mariana Islands,   code: MP,   population: 9,211
+
+language: Chechen,   code: ce
+country: Russia,   code: RU,   population: 940,500
+
+language: Cherokee,   code: chr
+country: United States,   code: US,   population: 24,366
+
+language: Chhattisgarhi,   code: hne
+country: India,   code: IN,   population: 13,428,800
+
+language: Chiga,   code: cgg
+country: Uganda,   code: UG,   population: 1,876,975
+
+language: Chipewyan,   code: chp
+country: Canada,   code: CA,   population: 761
+
+language: Church Slavic,   code: cu
+country: Russia,   code: RU,   population: 0
+
+language: Chuukese,   code: chk
+country: Micronesia,   code: FM,   population: 31,831
+
+language: Chuvash,   code: cv
+country: Russia,   code: RU,   population: 1,852,500
+
+language: Colognian,   code: ksh
+country: Germany,   code: DE,   population: 243,442
+
+language: Comorian,   code: swb
+country: Mayotte,   code: YT,   population: 170,720
+
+language: Congo Swahili,   code: swc
+country: Congo - Kinshasa,   code: CD,   population: 6,795,657
+
+language: Cornish,   code: kw
+country: United Kingdom,   code: GB,   population: 2,029
+
+language: Corsican,   code: co
+country: France,   code: FR,   population: 375,924
+
+language: Cree (Unified Canadian Aboriginal Syllabics),   code: cr_Cans
+country: Canada,   code: CA,   population: 38,025
+
+language: Croatian,   code: hr
+country: Croatia,   code: HR,   population: 4,430,854
+
+country: Germany,   code: DE,   population: 641,064
+
+country: Bosnia and Herzegovina,   code: BA,   population: 465,086
+
+country: Austria,   code: AT,   population: 98,660
+
+country: Serbia,   code: RS,   population: 67,360
+
+country: Hungary,   code: HU,   population: 31,806
+
+country: Italy,   code: IT,   population: 3,504
+
+language: Czech,   code: cs
+country: Czech Republic,   code: CZ,   population: 10,397,604
+
+language: Dan,   code: dnj
+country: Côte d’Ivoire,   code: CI,   population: 896,032
+
+language: Dangaura Tharu,   code: thl
+country: Nepal,   code: NP,   population: 608,606
+
+language: Danish,   code: da
+country: Denmark,   code: DK,   population: 5,167,498
+
+country: Germany,   code: DE,   population: 49,500
+
+country: Greenland,   code: GL,   population: 8,080
+
+country: Iceland,   code: IS,   population: 2,238
+
+language: Dargwa,   code: dar
+country: Russia,   code: RU,   population: 370,500
+
+language: Deccan,   code: dcc
+country: India,   code: IN,   population: 12,085,920
+
+language: Divehi,   code: dv
+country: Maldives,   code: MV,   population: 370,349
+
+country: India,   code: IN,   population: 4,883
+
+language: Dogri,   code: doi
+country: India,   code: IN,   population: 2,441,600
+
+language: Dogrib,   code: dgr
+country: Canada,   code: CA,   population: 2,627
+
+language: Domari,   code: rmt
+country: Iran,   code: IR,   population: 1,517,224
+
+language: Duala,   code: dua
+country: Cameroon,   code: CM,   population: 105,912
+
+language: Dutch,   code: nl
+country: Netherlands,   code: NL,   population: 16,805,000
+
+country: Belgium,   code: BE,   population: 5,744,365
+
+country: Suriname,   code: SR,   population: 510,161
+
+country: Aruba,   code: AW,   population: 105,878
+
+country: Germany,   code: DE,   population: 97,377
+
+country: France,   code: FR,   population: 85,737
+
+country: Curaçao,   code: CW,   population: 11,747
+
+country: Caribbean Netherlands,   code: BQ,   population: 1,600
+
+country: Sint Maarten,   code: SX,   population: 1,588
+
+language: Dyula,   code: dyu
+country: Burkina Faso,   code: BF,   population: 5,700,160
+
+language: Dzongkha,   code: dz
+country: Bhutan,   code: BT,   population: 340,889
+
+country: India,   code: IN,   population: 2,442
+
+language: East Futuna,   code: fud
+country: Wallis and Futuna,   code: WF,   population: 4,807
+
+language: Eastern Cham,   code: cjm
+country: Vietnam,   code: VN,   population: 82,305
+
+language: Eastern Gurung,   code: ggn
+country: Nepal,   code: NP,   population: 127,807
+
+language: Eastern Huasteca Nahuatl,   code: nhe
+country: Mexico,   code: MX,   population: 463,390
+
+language: Eastern Lawa,   code: lwl
+country: Thailand,   code: TH,   population: 6,750
+
+language: Eastern Magar,   code: mgp
+country: Nepal,   code: NP,   population: 334,733
+
+language: Eastern Tamang,   code: taj
+country: Nepal,   code: NP,   population: 912,909
+
+language: Efik,   code: efi
+country: Nigeria,   code: NG,   population: 2,443,112
+
+language: Embu,   code: ebu
+country: Kenya,   code: KE,   population: 660,566
+
+language: English,   code: en
+country: United States,   code: US,   population: 303,781,440
+
+country: India,   code: IN,   population: 134,288,000
+
+country: Nigeria,   code: NG,   population: 130,881,000
+
+country: Pakistan,   code: PK,   population: 96,619,500
+
+country: Philippines,   code: PH,   population: 67,661,440
+
+country: United Kingdom,   code: GB,   population: 62,761,644
+
+country: Ethiopia,   code: ET,   population: 40,367,110
+
+country: Kenya,   code: KE,   population: 37,432,045
+
+country: Germany,   code: DE,   population: 35,704,812
+
+country: Tanzania,   code: TZ,   population: 33,300,711
+
+country: Canada,   code: CA,   population: 29,382,970
+
+country: South Africa,   code: ZA,   population: 26,730,605
+
+country: Australia,   code: AU,   population: 21,372,000
+
+country: Sudan,   code: SD,   population: 21,257,219
+
+country: France,   code: FR,   population: 17,806,932
+
+country: Italy,   code: IT,   population: 14,755,752
+
+country: Netherlands,   code: NL,   population: 12,435,700
+
+country: Zimbabwe,   code: ZW,   population: 11,996,439
+
+country: Zambia,   code: ZM,   population: 11,519,982
+
+country: Spain,   code: ES,   population: 11,368,920
+
+country: Malawi,   code: MW,   population: 10,569,825
+
+country: Ghana,   code: GH,   population: 9,071,856
+
+country: Malaysia,   code: MY,   population: 8,592,236
+
+country: Belgium,   code: BE,   population: 5,117,707
+
+country: Singapore,   code: SG,   population: 5,078,079
+
+country: Ireland,   code: IE,   population: 4,489,421
+
+country: New Zealand,   code: NZ,   population: 3,972,250
+
+country: Eritrea,   code: ER,   population: 3,677,871
+
+country: Hong Kong SAR China,   code: HK,   population: 3,611,983
+
+country: Cameroon,   code: CM,   population: 3,154,830
+
+country: South Sudan,   code: SS,   population: 2,994,327
+
+country: Jamaica,   code: JM,   population: 2,851,516
+
+country: Sierra Leone,   code: SL,   population: 1,964,441
+
+country: Puerto Rico,   code: PR,   population: 1,786,368
+
+country: Botswana,   code: BW,   population: 1,723,542
+
+country: Uganda,   code: UG,   population: 1,355,593
+
+country: Papua New Guinea,   code: PG,   population: 1,286,380
+
+country: Trinidad and Tobago,   code: TT,   population: 1,212,978
+
+country: Madagascar,   code: MG,   population: 1,129,955
+
+country: Swaziland,   code: SZ,   population: 1,122,688
+
+country: Mauritius,   code: MU,   population: 952,013
+
+country: Fiji,   code: FJ,   population: 842,953
+
+country: Liberia,   code: LR,   population: 797,940
+
+country: Gambia,   code: GM,   population: 753,220
+
+country: Guyana,   code: GY,   population: 739,903
+
+country: Solomon Islands,   code: SB,   population: 597,248
+
+country: Panama,   code: PA,   population: 498,317
+
+country: Malta,   code: MT,   population: 361,924
+
+country: Belize,   code: BZ,   population: 334,297
+
+country: Bahamas,   code: BS,   population: 319,031
+
+country: Barbados,   code: BB,   population: 288,725
+
+country: Vanuatu,   code: VU,   population: 193,558
+
+country: Namibia,   code: NA,   population: 152,800
+
+country: Saint Lucia,   code: LC,   population: 146,503
+
+country: Israel,   code: IL,   population: 115,606
+
+country: Grenada,   code: GD,   population: 105,206
+
+country: Kiribati,   code: KI,   population: 103,248
+
+country: St. Vincent & Grenadines,   code: VC,   population: 99,091
+
+country: Jersey,   code: JE,   population: 90,945
+
+country: Isle of Man,   code: IM,   population: 86,159
+
+country: Sri Lanka,   code: LK,   population: 82,367
+
+country: U.S. Virgin Islands,   code: VI,   population: 78,553
+
+country: Antigua and Barbuda,   code: AG,   population: 77,534
+
+country: Dominica,   code: DM,   population: 68,889
+
+country: Guernsey,   code: GG,   population: 65,605
+
+country: Marshall Islands,   code: MH,   population: 64,865
+
+country: Bermuda,   code: BM,   population: 63,910
+
+country: Guam,   code: GU,   population: 60,944
+
+country: China,   code: CN,   population: 60,732
+
+country: American Samoa,   code: AS,   population: 53,077
+
+country: Cayman Islands,   code: KY,   population: 52,662
+
+country: Saint Kitts and Nevis,   code: KN,   population: 50,111
+
+country: Northern Mariana Islands,   code: MP,   population: 49,635
+
+country: Turks and Caicos Islands,   code: TC,   population: 46,799
+
+country: Lesotho,   code: LS,   population: 44,532
+
+country: Honduras,   code: HN,   population: 37,173
+
+country: British Virgin Islands,   code: VG,   population: 31,274
+
+country: Tonga,   code: TO,   population: 29,770
+
+country: Sint Maarten,   code: SX,   population: 26,989
+
+country: Gibraltar,   code: GI,   population: 23,289
+
+country: Anguilla,   code: AI,   population: 14,966
+
+country: Macau SAR China,   code: MO,   population: 13,409
+
+country: Cook Islands,   code: CK,   population: 9,925
+
+country: Finland,   code: FI,   population: 9,479
+
+country: Nauru,   code: NR,   population: 9,340
+
+country: Dominican Republic,   code: DO,   population: 7,971
+
+country: Brunei,   code: BN,   population: 7,899
+
+country: Saint Helena,   code: SH,   population: 5,428
+
+country: Micronesia,   code: FM,   population: 5,305
+
+country: Montserrat,   code: MS,   population: 5,085
+
+country: Samoa,   code: WS,   population: 4,300
+
+country: Seychelles,   code: SC,   population: 4,088
+
+country: British Indian Ocean Territory,   code: IO,   population: 3,500
+
+country: Lebanon,   code: LB,   population: 3,305
+
+country: Falkland Islands,   code: FK,   population: 3,109
+
+country: Aruba,   code: AW,   population: 2,947
+
+country: Palau,   code: PW,   population: 1,879
+
+country: Norfolk Island,   code: NF,   population: 1,691
+
+country: Christmas Island,   code: CX,   population: 1,407
+
+country: Tokelau,   code: TK,   population: 1,353
+
+country: Niue,   code: NU,   population: 1,204
+
+country: Tuvalu,   code: TV,   population: 1,070
+
+country: Ascension Island,   code: AC,   population: 931
+
+country: Diego Garcia,   code: DG,   population: 495
+
+country: U.S. Outlying Islands,   code: UM,   population: 316
+
+country: Rwanda,   code: RW,   population: 300
+
+country: Tristan da Cunha,   code: TA,   population: 272
+
+country: Saint Pierre and Miquelon,   code: PM,   population: 191
+
+country: Cocos (Keeling) Islands,   code: CC,   population: 101
+
+country: Pitcairn Islands,   code: PN,   population: 46
+
+language: Erzya,   code: myv
+country: Russia,   code: RU,   population: 441,750
+
+language: Esperanto,   code: eo
+country: San Marino,   code: SM,   population: 299
+
+language: Estonian,   code: et
+country: Estonia,   code: EE,   population: 899,130
+
+country: Finland,   code: FI,   population: 5,793
+
+language: Ewe,   code: ee
+country: Ghana,   code: GH,   population: 2,771,956
+
+country: Togo,   code: TG,   population: 1,216,221
+
+language: Ewondo,   code: ewo
+country: Cameroon,   code: CM,   population: 698,570
+
+language: Fang,   code: fan
+country: Equatorial Guinea,   code: GQ,   population: 359,041
+
+language: Faroese,   code: fo
+country: Faroe Islands,   code: FO,   population: 47,224
+
+language: Fijian,   code: fj
+country: Fiji,   code: FJ,   population: 349,736
+
+language: Filipino,   code: fil
+country: Philippines,   code: PH,   population: 63,432,600
+
+country: United States,   code: US,   population: 1,329,044
+
+language: Finnish,   code: fi
+country: Finland,   code: FI,   population: 4,950,143
+
+country: Sweden,   code: SE,   population: 212,243
+
+country: Russia,   code: RU,   population: 17,100
+
+language: Fon,   code: fon
+country: Benin,   code: BJ,   population: 2,469,322
+
+language: French,   code: fr
+country: France,   code: FR,   population: 65,292,084
+
+country: Madagascar,   code: MG,   population: 15,593,379
+
+country: Cameroon,   code: CM,   population: 15,323,460
+
+country: Côte d’Ivoire,   code: CI,   population: 10,976,392
+
+country: Tunisia,   code: TN,   population: 8,018,566
+
+country: Algeria,   code: DZ,   population: 7,617,560
+
+country: Canada,   code: CA,   population: 7,605,004
+
+country: Mali,   code: ML,   population: 7,345,694
+
+country: Morocco,   code: MA,   population: 6,529,820
+
+country: Burundi,   code: BI,   population: 5,935,813
+
+country: Senegal,   code: SN,   population: 5,187,156
+
+country: Niger,   code: NE,   population: 4,900,797
+
+country: Togo,   code: TG,   population: 4,364,086
+
+country: Belgium,   code: BE,   population: 3,968,834
+
+country: Burkina Faso,   code: BF,   population: 3,918,860
+
+country: Congo - Brazzaville,   code: CG,   population: 3,842,244
+
+country: Benin,   code: BJ,   population: 3,457,052
+
+country: Guinea,   code: GN,   population: 3,241,040
+
+country: Chad,   code: TD,   population: 2,910,310
+
+country: Congo - Kinshasa,   code: CD,   population: 2,869,277
+
+country: Central African Republic,   code: CF,   population: 2,531,590
+
+country: United States,   code: US,   population: 1,772,058
+
+country: Switzerland,   code: CH,   population: 1,679,166
+
+country: Syria,   code: SY,   population: 1,324,981
+
+country: Gabon,   code: GA,   population: 1,033,383
+
+country: Réunion,   code: RE,   population: 700,950
+
+country: Mauritania,   code: MR,   population: 584,394
+
+country: Haiti,   code: HT,   population: 465,015
+
+country: Luxembourg,   code: LU,   population: 447,930
+
+country: Martinique,   code: MQ,   population: 427,408
+
+country: Comoros,   code: KM,   population: 421,281
+
+country: Guadeloupe,   code: GP,   population: 407,498
+
+country: New Caledonia,   code: NC,   population: 253,461
+
+country: French Polynesia,   code: PF,   population: 169,149
+
+country: French Guiana,   code: GF,   population: 153,622
+
+country: Vanuatu,   code: VU,   population: 130,782
+
+country: Mayotte,   code: YT,   population: 110,580
+
+country: Italy,   code: IT,   population: 104,520
+
+country: Equatorial Guinea,   code: GQ,   population: 61,952
+
+country: Seychelles,   code: SC,   population: 54,508
+
+country: Mauritius,   code: MU,   population: 39,667
+
+country: Saint Martin,   code: MF,   population: 31,264
+
+country: Monaco,   code: MC,   population: 30,195
+
+country: Djibouti,   code: DJ,   population: 17,428
+
+country: Lebanon,   code: LB,   population: 15,287
+
+country: United Kingdom,   code: GB,   population: 15,215
+
+country: Wallis and Futuna,   code: WF,   population: 7,598
+
+country: Saint Barthélemy,   code: BL,   population: 6,860
+
+country: Andorra,   code: AD,   population: 5,800
+
+country: Saint Pierre and Miquelon,   code: PM,   population: 5,139
+
+country: Rwanda,   code: RW,   population: 2,282
+
+country: French Southern Territories,   code: TF,   population: 140
+
+language: Friulian,   code: fur
+country: Italy,   code: IT,   population: 860,752
+
+language: Fulah,   code: ff
+country: Guinea,   code: GN,   population: 2,905,760
+
+country: Senegal,   code: SN,   population: 2,793,084
+
+country: Cameroon,   code: CM,   population: 811,242
+
+country: Mauritania,   code: MR,   population: 195,944
+
+language: Ga,   code: gaa
+country: Ghana,   code: GH,   population: 705,589
+
+language: Gagauz,   code: gag
+country: Moldova,   code: MD,   population: 119,458
+
+language: Galician,   code: gl
+country: Spain,   code: ES,   population: 3,315,935
+
+country: Portugal,   code: PT,   population: 15,119
+
+language: Ganda,   code: lg
+country: Uganda,   code: UG,   population: 4,518,644
+
+language: Garhwali,   code: gbm
+country: India,   code: IN,   population: 3,296,160
+
+language: Garo,   code: grt
+country: India,   code: IN,   population: 647,024
+
+country: Bangladesh,   code: BD,   population: 119,468
+
+language: Georgian,   code: ka
+country: Georgia,   code: GE,   population: 4,250,258
+
+country: Iran,   code: IR,   population: 56,696
+
+country: Turkey,   code: TR,   population: 45,189
+
+language: German,   code: de
+country: Germany,   code: DE,   population: 73,844,043
+
+country: Austria,   code: AT,   population: 7,975,000
+
+country: Switzerland,   code: CH,   population: 5,837,102
+
+country: Brazil,   code: BR,   population: 1,688,484
+
+country: United States,   code: US,   population: 1,487,263
+
+country: Kazakhstan,   code: KZ,   population: 1,135,162
+
+country: Canada,   code: CA,   population: 656,796
+
+country: Luxembourg,   code: LU,   population: 324,363
+
+country: Hungary,   code: HU,   population: 248,487
+
+country: Italy,   code: IT,   population: 239,781
+
+country: Paraguay,   code: PY,   population: 192,074
+
+country: Belgium,   code: BE,   population: 146,220
+
+country: Czech Republic,   code: CZ,   population: 51,988
+
+country: Romania,   code: RO,   population: 45,760
+
+country: Liechtenstein,   code: LI,   population: 37,009
+
+country: Poland,   code: PL,   population: 36,848
+
+country: Denmark,   code: DK,   population: 23,893
+
+country: Namibia,   code: NA,   population: 21,828
+
+country: Slovakia,   code: SK,   population: 15,367
+
+language: Ghomala,   code: bbj
+country: Cameroon,   code: CM,   population: 315,483
+
+language: Gilaki,   code: glk
+country: Iran,   code: IR,   population: 3,673,279
+
+language: Gilbertese,   code: gil
+country: Kiribati,   code: KI,   population: 61,949
+
+language: Gondi (Telugu),   code: gon_Telu
+country: India,   code: IN,   population: 2,929,920
+
+language: Gorontalo,   code: gor
+country: Indonesia,   code: ID,   population: 1,029,756
+
+language: Greek,   code: el
+country: Greece,   code: GR,   population: 10,665,270
+
+country: Cyprus,   code: CY,   population: 890,100
+
+country: Germany,   code: DE,   population: 308,360
+
+country: United Kingdom,   code: GB,   population: 215,545
+
+country: Albania,   code: AL,   population: 57,217
+
+country: Egypt,   code: EG,   population: 52,030
+
+country: Italy,   code: IT,   population: 21,519
+
+country: Ukraine,   code: UA,   population: 7,132
+
+country: Romania,   code: RO,   population: 4,140
+
+country: Turkey,   code: TR,   population: 4,035
+
+language: Gronings,   code: gos
+country: Netherlands,   code: NL,   population: 604,980
+
+language: Guajajára,   code: gub
+country: Brazil,   code: BR,   population: 16,885
+
+language: Guarani,   code: gn
+country: Paraguay,   code: PY,   population: 5,298,600
+
+country: Bolivia,   code: BO,   population: 47,075
+
+country: Argentina,   code: AR,   population: 20,027
+
+language: Guianese Creole French,   code: gcr
+country: French Guiana,   code: GF,   population: 51,872
+
+language: Gujarati,   code: gu
+country: India,   code: IN,   population: 54,936,000
+
+country: Kenya,   code: KE,   population: 4,844
+
+language: Gujari,   code: gju
+country: Pakistan,   code: PK,   population: 386,478
+
+language: Gusii,   code: guz
+country: Kenya,   code: KE,   population: 2,157,847
+
+language: Gwichʼin,   code: gwi
+country: Canada,   code: CA,   population: 553
+
+language: Hadothi,   code: hoj
+country: India,   code: IN,   population: 1,001,056
+
+language: Haitian,   code: ht
+country: Haiti,   code: HT,   population: 8,014,083
+
+language: Hanunoo,   code: hnn
+country: Philippines,   code: PH,   population: 16,915
+
+language: Haryanvi,   code: bgc
+country: India,   code: IN,   population: 14,649,600
+
+language: Hausa (Arabic),   code: ha_Arab
+country: Nigeria,   code: NG,   population: 1,745,080
+
+country: Sudan,   code: SD,   population: 487,871
+
+country: Cameroon,   code: CM,   population: 31,548
+
+language: Hausa (Latin),   code: ha_Latn
+country: Nigeria,   code: NG,   population: 22,686,040
+
+country: Niger,   code: NE,   population: 6,928,713
+
+country: Ghana,   code: GH,   population: 216,717
+
+language: Hawaiian,   code: haw
+country: United States,   code: US,   population: 28,163
+
+language: Hazaragi,   code: haz
+country: Afghanistan,   code: AF,   population: 1,835,378
+
+language: Hebrew,   code: he
+country: Israel,   code: IL,   population: 7,707,040
+
+language: Hiligaynon,   code: hil
+country: Philippines,   code: PH,   population: 8,880,564
+
+language: Hindi,   code: hi
+country: India,   code: IN,   population: 500,528,000
+
+country: South Africa,   code: ZA,   population: 972,022
+
+country: Fiji,   code: FJ,   population: 394,574
+
+country: Nepal,   code: NP,   population: 127,807
+
+country: Uganda,   code: UG,   population: 2,190
+
+language: Hiri Motu,   code: ho
+country: Papua New Guinea,   code: PG,   population: 135,070
+
+language: Ho,   code: hoc
+country: India,   code: IN,   population: 1,208,592
+
+language: Hungarian,   code: hu
+country: Hungary,   code: HU,   population: 9,939,470
+
+country: Romania,   code: RO,   population: 1,438,173
+
+country: Slovakia,   code: SK,   population: 603,717
+
+country: Serbia,   code: RS,   population: 347,664
+
+country: Ukraine,   code: UA,   population: 164,921
+
+country: Israel,   code: IL,   population: 77,070
+
+country: Austria,   code: AT,   population: 22,198
+
+country: Slovenia,   code: SI,   population: 9,166
+
+language: Ibibio,   code: ibb
+country: Nigeria,   code: NG,   population: 2,443,112
+
+language: Icelandic,   code: is
+country: Iceland,   code: IS,   population: 315,281
+
+language: Igbo,   code: ig
+country: Nigeria,   code: NG,   population: 22,686,040
+
+language: Iloko,   code: ilo
+country: Philippines,   code: PH,   population: 10,149,216
+
+language: Inari Sami,   code: smn
+country: Finland,   code: FI,   population: 579
+
+language: Indonesian,   code: id
+country: Indonesia,   code: ID,   population: 160,742,400
+
+country: Netherlands,   code: NL,   population: 302,490
+
+language: Indus Kohistani,   code: mvy
+country: Pakistan,   code: PK,   population: 270,535
+
+language: Ingush,   code: inh
+country: Russia,   code: RU,   population: 228,000
+
+language: Interlingua,   code: ia
+country: France,   code: FR,   population: 132
+
+country: Sweden,   code: SE,   population: 0
+
+language: Inuinnaqtun,   code: ikt
+country: Canada,   code: CA,   population: 4,148
+
+language: Inuktitut,   code: iu
+country: Canada,   code: CA,   population: 14,519
+
+language: Inupiaq,   code: ik
+country: United States,   code: US,   population: 7,911
+
+language: Irish,   code: ga
+country: Ireland,   code: IE,   population: 525,358
+
+country: United Kingdom,   code: GB,   population: 16,483
+
+language: Italian,   code: it
+country: Italy,   code: IT,   population: 58,408,185
+
+country: France,   code: FR,   population: 1,121,177
+
+country: United States,   code: US,   population: 1,075,893
+
+country: Canada,   code: CA,   population: 691,364
+
+country: Brazil,   code: BR,   population: 562,828
+
+country: Germany,   code: DE,   population: 535,572
+
+country: Australia,   code: AU,   population: 422,988
+
+country: Switzerland,   code: CH,   population: 343,829
+
+country: United Kingdom,   code: GB,   population: 215,545
+
+country: Croatia,   code: HR,   population: 71,610
+
+country: San Marino,   code: SM,   population: 28,879
+
+country: Slovenia,   code: SI,   population: 3,985
+
+country: Vatican City,   code: VA,   population: 822
+
+language: Japanese,   code: ja
+country: Japan,   code: JP,   population: 120,890,350
+
+country: Brazil,   code: BR,   population: 422,121
+
+language: Javanese,   code: jv
+country: Indonesia,   code: ID,   population: 85,394,400
+
+country: Malaysia,   code: MY,   population: 355,541
+
+language: Jenaama Bozo,   code: bze
+country: Mali,   code: ML,   population: 134,139
+
+language: Jju,   code: kaj
+country: Nigeria,   code: NG,   population: 366,467
+
+language: Jola-Fonyi,   code: dyo
+country: Senegal,   code: SN,   population: 345,810
+
+language: Jumli,   code: jml
+country: Nepal,   code: NP,   population: 973,770
+
+language: Kabardian,   code: kbd
+country: Turkey,   code: TR,   population: 621,348
+
+country: Russia,   code: RU,   population: 441,750
+
+language: Kabuverdianu,   code: kea
+country: Cape Verde,   code: CV,   population: 488,562
+
+language: Kabyle,   code: kab
+country: Algeria,   code: DZ,   population: 2,970,848
+
+language: Kachchi,   code: kfr
+country: India,   code: IN,   population: 915,600
+
+language: Kachi Koli,   code: gjk
+country: Pakistan,   code: PK,   population: 212,563
+
+language: Kaingang,   code: kgp
+country: Brazil,   code: BR,   population: 20,101
+
+language: Kako,   code: kkj
+country: Cameroon,   code: CM,   population: 121,686
+
+language: Kalaallisut,   code: kl
+country: Greenland,   code: GL,   population: 48,480
+
+country: Denmark,   code: DK,   population: 7,223
+
+language: Kalanga,   code: kck
+country: Zimbabwe,   code: ZW,   population: 698,694
+
+language: Kalenjin,   code: kln
+country: Kenya,   code: KE,   population: 3,346,865
+
+language: Kalo Finnish Romani,   code: rmf
+country: Finland,   code: FI,   population: 5,003
+
+language: Kamba,   code: kam
+country: Kenya,   code: KE,   population: 3,346,865
+
+language: Kanauji,   code: bjj
+country: India,   code: IN,   population: 6,836,480
+
+language: Kangri,   code: xnr
+country: India,   code: IN,   population: 1,953,280
+
+language: Kannada,   code: kn
+country: India,   code: IN,   population: 45,169,600
+
+language: Kara-Kalpak,   code: kaa
+country: Uzbekistan,   code: UZ,   population: 458,586
+
+language: Karachay-Balkar,   code: krc
+country: Russia,   code: RU,   population: 228,000
+
+language: Karelian,   code: krl
+country: Russia,   code: RU,   population: 116,850
+
+language: Kashmiri (Arabic),   code: ks_Arab
+country: India,   code: IN,   population: 5,005,280
+
+country: Pakistan,   code: PK,   population: 133,335
+
+country: United Kingdom,   code: GB,   population: 120,452
+
+language: Kashubian,   code: csb
+country: Poland,   code: PL,   population: 49,899
+
+language: Kathoriya Tharu,   code: tkt
+country: Nepal,   code: NP,   population: 73,033
+
+language: Kazakh (Arabic),   code: kk_Arab
+country: China,   code: CN,   population: 1,160,647
+
+country: Mongolia,   code: MN,   population: 209,678
+
+country: Iran,   code: IR,   population: 3,034
+
+country: Afghanistan,   code: AF,   population: 1,991
+
+language: Kazakh (Cyrillic),   code: kk_Cyrl
+country: Kazakhstan,   code: KZ,   population: 11,351,616
+
+country: Turkey,   code: TR,   population: 565
+
+language: Kerinci,   code: kvr
+country: Indonesia,   code: ID,   population: 351,624
+
+language: Khamti,   code: kht
+country: India,   code: IN,   population: 8,546
+
+country: Myanmar (Burma),   code: MM,   population: 4,248
+
+language: Khandesi,   code: khn
+country: India,   code: IN,   population: 1,831,200
+
+language: Khasi,   code: kha
+country: India,   code: IN,   population: 976,640
+
+language: Khmer,   code: km
+country: Cambodia,   code: KH,   population: 13,532,895
+
+language: Khmu,   code: kjg
+country: Laos,   code: LA,   population: 388,320
+
+language: Khowar,   code: khw
+country: Pakistan,   code: PK,   population: 289,858
+
+language: Kikuyu,   code: ki
+country: Kenya,   code: KE,   population: 7,486,409
+
+language: Kimbundu,   code: kmb
+country: Angola,   code: AO,   population: 4,641,325
+
+language: Kinyarwanda,   code: rw
+country: Rwanda,   code: RW,   population: 9,249,702
+
+country: Uganda,   code: UG,   population: 729,935
+
+country: Congo - Kinshasa,   code: CD,   population: 286,928
+
+language: Kita Maninkakan,   code: mwk
+country: Mali,   code: ML,   population: 798,445
+
+language: Kochila Tharu,   code: thq
+country: Nepal,   code: NP,   population: 304,303
+
+language: Kom,   code: bkm
+country: Cameroon,   code: CM,   population: 292,948
+
+language: Komering,   code: kge
+country: Indonesia,   code: ID,   population: 803,712
+
+language: Komi,   code: kv
+country: Russia,   code: RU,   population: 256,500
+
+language: Komi-Permyak,   code: koi
+country: Russia,   code: RU,   population: 115,425
+
+language: Kongo,   code: kg
+country: Congo - Kinshasa,   code: CD,   population: 1,132,610
+
+language: Konkani,   code: kok
+country: India,   code: IN,   population: 4,516,960
+
+language: Korean,   code: ko
+country: South Korea,   code: KR,   population: 48,955,200
+
+country: North Korea,   code: KP,   population: 21,753,952
+
+country: China,   code: CN,   population: 2,024,385
+
+country: United States,   code: US,   population: 949,317
+
+country: Japan,   code: JP,   population: 661,716
+
+country: Brazil,   code: BR,   population: 42,212
+
+language: Koro,   code: kfo
+country: Côte d’Ivoire,   code: CI,   population: 51,522
+
+language: Koro Wachi,   code: bqv
+country: Côte d’Ivoire,   code: CI,   population: 38,081
+
+language: Kosraean,   code: kos
+country: Micronesia,   code: FM,   population: 7,958
+
+language: Koyra Chiini,   code: khq
+country: Mali,   code: ML,   population: 271,471
+
+language: Koyraboro Senni,   code: ses
+country: Mali,   code: ML,   population: 542,943
+
+language: Kpelle,   code: kpe
+country: Liberia,   code: LR,   population: 558,558
+
+country: Guinea,   code: GN,   population: 424,688
+
+language: Krio,   code: kri
+country: Sierra Leone,   code: SL,   population: 5,332,056
+
+language: Kuanyama,   code: kj
+country: Namibia,   code: NA,   population: 763,998
+
+language: Kumaoni,   code: kfy
+country: India,   code: IN,   population: 2,685,760
+
+language: Kumyk,   code: kum
+country: Russia,   code: RU,   population: 285,000
+
+language: Kurdish (Arabic),   code: ku_Arab
+country: Lebanon,   code: LB,   population: 66,105
+
+language: Kurdish (Latin),   code: ku_Latn
+country: Turkey,   code: TR,   population: 4,438,198
+
+country: Syria,   code: SY,   population: 1,796,584
+
+country: Germany,   code: DE,   population: 535,572
+
+country: Armenia,   code: AM,   population: 101,121
+
+country: Georgia,   code: GE,   population: 43,985
+
+country: Azerbaijan,   code: AZ,   population: 23,016
+
+country: Turkmenistan,   code: TM,   population: 20,963
+
+language: Kurukh,   code: kru
+country: India,   code: IN,   population: 2,319,520
+
+language: Kuy,   code: kdt
+country: Thailand,   code: TH,   population: 323,987
+
+country: Laos,   code: LA,   population: 64,274
+
+country: Cambodia,   code: KH,   population: 16,726
+
+language: Kwasio,   code: nmg
+country: Cameroon,   code: CM,   population: 9,014
+
+language: Kyrgyz (Arabic),   code: ky_Arab
+country: China,   code: CN,   population: 458,861
+
+language: Kyrgyz (Cyrillic),   code: ky_Cyrl
+country: Kyrgyzstan,   code: KG,   population: 2,663,059
+
+language: Kyrgyz (Latin),   code: ky_Latn
+country: Turkey,   code: TR,   population: 1,130
+
+language: Lahnda,   code: lah
+country: Pakistan,   code: PK,   population: 77,295,600
+
+country: India,   code: IN,   population: 30,520
+
+language: Lak,   code: lbe
+country: Russia,   code: RU,   population: 111,150
+
+language: Laki,   code: lki
+country: Iran,   code: IR,   population: 606,890
+
+language: Lakota,   code: lkt
+country: United States,   code: US,   population: 8,227
+
+language: Lambadi,   code: lmn
+country: India,   code: IN,   population: 3,296,160
+
+language: Lampung Api,   code: ljp
+country: Indonesia,   code: ID,   population: 1,733,004
+
+language: Langi,   code: lag
+country: Tanzania,   code: TZ,   population: 419,879
+
+language: Lango [Uganda],   code: laj
+country: Uganda,   code: UG,   population: 1,320,834
+
+language: Lao,   code: lo
+country: Laos,   code: LA,   population: 4,619,667
+
+language: Latin,   code: la
+country: Vatican City,   code: VA,   population: 822
+
+language: Latvian,   code: lv
+country: Latvia,   code: LV,   population: 1,328,848
+
+language: Lepcha,   code: lep
+country: India,   code: IN,   population: 42,728
+
+country: Bhutan,   code: BT,   population: 28,287
+
+country: Nepal,   code: NP,   population: 2,830
+
+language: Lezghian,   code: lez
+country: Russia,   code: RU,   population: 256,500
+
+language: Limbu (Devanagari),   code: lif_Deva
+country: Nepal,   code: NP,   population: 334,733
+
+country: India,   code: IN,   population: 31,741
+
+language: Limburgish,   code: li
+country: Netherlands,   code: NL,   population: 924,275
+
+language: Lingala,   code: ln
+country: Congo - Kinshasa,   code: CD,   population: 2,340,726
+
+country: Angola,   code: AO,   population: 124,388
+
+country: Congo - Brazzaville,   code: CG,   population: 109,778
+
+country: Central African Republic,   code: CF,   population: 12,400
+
+language: Lisu,   code: lis
+country: China,   code: CN,   population: 607,316
+
+language: Lithuanian,   code: lt
+country: Lithuania,   code: LT,   population: 3,023,640
+
+country: Poland,   code: PL,   population: 8,061
+
+language: Lombard,   code: lmo
+country: Switzerland,   code: CH,   population: 327,837
+
+language: Lomwe,   code: ngl
+country: Mozambique,   code: MZ,   population: 1,638,576
+
+language: Low German,   code: nds
+country: Germany,   code: DE,   population: 9,737,676
+
+language: Lower Sorbian,   code: dsb
+country: Germany,   code: DE,   population: 6,979
+
+language: Lozi,   code: loz
+country: Zambia,   code: ZM,   population: 853,332
+
+language: Lü,   code: khb
+country: China,   code: CN,   population: 256,422
+
+language: Luba-Katanga,   code: lu
+country: Congo - Kinshasa,   code: CD,   population: 1,736,668
+
+language: Luba-Lulua,   code: lua
+country: Congo - Kinshasa,   code: CD,   population: 7,248,701
+
+language: Lule Sami,   code: smj
+country: Sweden,   code: SE,   population: 1,544
+
+language: Luo,   code: luo
+country: Kenya,   code: KE,   population: 4,315,695
+
+language: Luxembourgish,   code: lb
+country: Luxembourg,   code: LU,   population: 344,958
+
+language: Luyia,   code: luy
+country: Kenya,   code: KE,   population: 4,844,147
+
+language: Maasina Fulfulde,   code: ffm
+country: Mali,   code: ML,   population: 1,229,605
+
+language: Macedonian,   code: mk
+country: Macedonia,   code: MK,   population: 1,398,404
+
+country: Greece,   code: GR,   population: 172,368
+
+country: Albania,   code: AL,   population: 14,154
+
+language: Machame,   code: jmc
+country: Tanzania,   code: TZ,   population: 361,964
+
+language: Madurese,   code: mad
+country: Indonesia,   code: ID,   population: 15,823,080
+
+language: Mafa,   code: maf
+country: Cameroon,   code: CM,   population: 166,755
+
+language: Magahi,   code: mag
+country: India,   code: IN,   population: 14,649,600
+
+language: Maguindanaon,   code: mdh
+country: Philippines,   code: PH,   population: 1,268,652
+
+language: Maithili,   code: mai
+country: India,   code: IN,   population: 14,649,600
+
+country: Nepal,   code: NP,   population: 3,347,333
+
+language: Makasar,   code: mak
+country: Indonesia,   code: ID,   population: 1,833,468
+
+language: Makhuwa,   code: vmw
+country: Mozambique,   code: MZ,   population: 3,132,571
+
+language: Makhuwa-Meetto,   code: mgh
+country: Mozambique,   code: MZ,   population: 1,084,352
+
+language: Makonde,   code: kde
+country: Tanzania,   code: TZ,   population: 1,158,286
+
+language: Malagasy,   code: mg
+country: Madagascar,   code: MG,   population: 20,339,190
+
+language: Malay (Arabic),   code: ms_Arab
+country: Indonesia,   code: ID,   population: 11,553,360
+
+country: Brunei,   code: BN,   population: 20,786
+
+country: Cocos (Keeling) Islands,   code: CC,   population: 495
+
+language: Malay (Latin),   code: ms_Latn
+country: Malaysia,   code: MY,   population: 22,221,300
+
+country: Singapore,   code: SG,   population: 764,442
+
+country: Brunei,   code: BN,   population: 386,617
+
+language: Malayalam,   code: ml
+country: India,   code: IN,   population: 39,065,600
+
+country: United Arab Emirates,   code: AE,   population: 383,178
+
+country: Malaysia,   code: MY,   population: 44,443
+
+country: Bahrain,   code: BH,   population: 42,284
+
+country: United Kingdom,   code: GB,   population: 22,188
+
+country: Singapore,   code: SG,   population: 9,829
+
+country: Israel,   code: IL,   population: 7,707
+
+country: Qatar,   code: QA,   population: 6,536
+
+language: Maltese,   code: mt
+country: Malta,   code: MT,   population: 411,277
+
+language: Mandar,   code: mdr
+country: Indonesia,   code: ID,   population: 231,067
+
+language: Mandingo (Latin),   code: man_Latn
+country: Gambia,   code: GM,   population: 546,084
+
+language: Mandingo (N’Ko),   code: man_Nkoo
+country: Guinea,   code: GN,   population: 2,570,480
+
+language: Manipuri,   code: mni
+country: India,   code: IN,   population: 1,342,880
+
+country: Bangladesh,   code: BD,   population: 18,002
+
+language: Manx,   code: gv
+country: Isle of Man,   code: IM,   population: 1,723
+
+language: Manyika,   code: mxc
+country: Zimbabwe,   code: ZW,   population: 856,888
+
+language: Maori,   code: mi
+country: New Zealand,   code: NZ,   population: 109,128
+
+language: Marathi,   code: mr
+country: India,   code: IN,   population: 85,456,000
+
+language: Mari,   code: chm
+country: Russia,   code: RU,   population: 527,250
+
+language: Marshallese,   code: mh
+country: Marshall Islands,   code: MH,   population: 50,915
+
+language: Marwari,   code: mwr
+country: India,   code: IN,   population: 14,649,600
+
+language: Masaaba,   code: myx
+country: Uganda,   code: UG,   population: 1,008,005
+
+language: Masai,   code: mas
+country: Tanzania,   code: TZ,   population: 723,928
+
+country: Kenya,   code: KE,   population: 704,603
+
+language: Mbunga,   code: mgy
+country: Tanzania,   code: TZ,   population: 675,667
+
+language: Medumba,   code: byv
+country: Cameroon,   code: CM,   population: 247,880
+
+language: Mende,   code: men
+country: Sierra Leone,   code: SL,   population: 1,515,426
+
+country: Liberia,   code: LR,   population: 19,151
+
+language: Meru,   code: mer
+country: Kenya,   code: KE,   population: 1,761,508
+
+language: Meta',   code: mgo
+country: Cameroon,   code: CM,   population: 105,912
+
+language: Mewari,   code: mtr
+country: India,   code: IN,   population: 1,196,384
+
+language: Mewati,   code: wtm
+country: India,   code: IN,   population: 5,615,680
+
+language: Minangkabau,   code: min
+country: Indonesia,   code: ID,   population: 7,534,800
+
+language: Moksha,   code: mdf
+country: Russia,   code: RU,   population: 299,250
+
+language: Mon,   code: mnw
+country: Myanmar (Burma),   code: MM,   population: 827,510
+
+country: Thailand,   code: TH,   population: 114,745
+
+language: Mongo,   code: lol
+country: Congo - Kinshasa,   code: CD,   population: 460,595
+
+language: Mongolian (Cyrillic),   code: mn_Cyrl
+country: Mongolia,   code: MN,   population: 2,708,337
+
+country: Russia,   code: RU,   population: 2,138
+
+language: Mongolian (Mongolian),   code: mn_Mong
+country: China,   code: CN,   population: 3,508,934
+
+language: Montagnais,   code: moe
+country: Canada,   code: CA,   population: 11,408
+
+language: Moose Cree,   code: crm
+country: Canada,   code: CA,   population: 4,494
+
+language: Morisyen,   code: mfe
+country: Mauritius,   code: MU,   population: 1,190,016
+
+language: Mossi,   code: mos
+country: Burkina Faso,   code: BF,   population: 7,125,200
+
+language: Munda (Bengali),   code: unx_Beng
+country: India,   code: IN,   population: 585,984
+
+language: Mundang,   code: mua
+country: Cameroon,   code: CM,   population: 225,345
+
+language: Mundari (Bengali),   code: unr_Beng
+country: India,   code: IN,   population: 1,159,760
+
+language: Mundari (Devanagari),   code: unr_Deva
+country: Nepal,   code: NP,   population: 5,782
+
+language: Nama,   code: naq
+country: Namibia,   code: NA,   population: 200,822
+
+language: Naskapi,   code: nsk
+country: Canada,   code: CA,   population: 1,175
+
+language: Nauru,   code: na
+country: Nauru,   code: NR,   population: 6,887
+
+language: Navajo,   code: nv
+country: United States,   code: US,   population: 158,220
+
+language: Naxi,   code: nxq
+country: China,   code: CN,   population: 323,902
+
+language: Ndau,   code: ndc
+country: Mozambique,   code: MZ,   population: 2,385,573
+
+country: Zimbabwe,   code: ZW,   population: 804,157
+
+language: Ndonga,   code: ng
+country: Namibia,   code: NA,   population: 458,398
+
+language: Neapolitan,   code: nap
+country: Italy,   code: IT,   population: 7,377,876
+
+language: Negeri Sembilan Malay,   code: zmi
+country: Malaysia,   code: MY,   population: 355,541
+
+language: Nepali,   code: ne
+country: Nepal,   code: NP,   population: 13,389,332
+
+country: India,   code: IN,   population: 6,836,480
+
+country: Bhutan,   code: BT,   population: 123,300
+
+language: Newari,   code: new
+country: Nepal,   code: NP,   population: 1,004,200
+
+language: Ngaju,   code: nij
+country: Indonesia,   code: ID,   population: 929,292
+
+language: Ngazidja Comorian,   code: zdj
+country: Comoros,   code: KM,   population: 278,347
+
+language: Ngiemboon,   code: nnh
+country: Cameroon,   code: CM,   population: 315,483
+
+language: Ngomba,   code: jgo
+country: Cameroon,   code: CM,   population: 76,617
+
+language: Nigerian Fulfulde,   code: fuv
+country: Nigeria,   code: NG,   population: 11,692,036
+
+language: Nigerian Pidgin,   code: pcm
+country: Nigeria,   code: NG,   population: 36,646,680
+
+language: Nimadi,   code: noe
+country: India,   code: IN,   population: 1,587,040
+
+language: Niuean,   code: niu
+country: Niue,   code: NU,   population: 1,204
+
+language: North Ndebele,   code: nd
+country: Zimbabwe,   code: ZW,   population: 1,581,948
+
+language: North Slavey,   code: scs
+country: Canada,   code: CA,   population: 1,244
+
+language: Northeastern Thai,   code: tts
+country: Thailand,   code: TH,   population: 16,199,328
+
+language: Northern East Cree,   code: crl
+country: Canada,   code: CA,   population: 5,185
+
+language: Northern Hindko,   code: hno
+country: Pakistan,   code: PK,   population: 2,318,868
+
+language: Northern Khmer,   code: kxm
+country: Thailand,   code: TH,   population: 1,147,452
+
+language: Northern Luri,   code: lrc
+country: Iran,   code: IR,   population: 1,676,932
+
+language: Northern Sami,   code: se
+country: Norway,   code: NO,   population: 167,824
+
+country: Sweden,   code: SE,   population: 31,836
+
+country: Finland,   code: FI,   population: 2,001
+
+language: Northern Sotho,   code: nso
+country: South Africa,   code: ZA,   population: 4,568,503
+
+language: Northern Thai,   code: nod
+country: Thailand,   code: TH,   population: 6,479,731
+
+language: Norwegian Bokmål,   code: nb
+country: Norway,   code: NO,   population: 5,085,580
+
+country: Svalbard and Jan Mayen,   code: SJ,   population: 1,498
+
+language: Norwegian Nynorsk,   code: nn
+country: Norway,   code: NO,   population: 1,271,395
+
+language: Nuer,   code: nus
+country: Sudan,   code: SD,   population: 627,262
+
+language: Nyamwezi,   code: nym
+country: Tanzania,   code: TZ,   population: 1,592,643
+
+language: Nyanja,   code: ny
+country: Malawi,   code: MW,   population: 10,569,825
+
+country: Zambia,   code: ZM,   population: 2,133,330
+
+country: Mozambique,   code: MZ,   population: 626,514
+
+country: Zimbabwe,   code: ZW,   population: 250,475
+
+language: Nyankole,   code: nyn
+country: Uganda,   code: UG,   population: 2,189,804
+
+language: Occitan,   code: oc
+country: France,   code: FR,   population: 1,978,548
+
+language: Oriya,   code: or
+country: India,   code: IN,   population: 39,065,600
+
+language: Oromo,   code: om
+country: Ethiopia,   code: ET,   population: 30,040,640
+
+country: Kenya,   code: KE,   population: 206,977
+
+country: Somalia,   code: SO,   population: 43,057
+
+language: Ossetic,   code: os
+country: Russia,   code: RU,   population: 456,000
+
+country: Georgia,   code: GE,   population: 108,728
+
+language: Palauan,   code: pau
+country: Palau,   code: PW,   population: 15,620
+
+language: Pampanga,   code: pam
+country: Philippines,   code: PH,   population: 2,431,583
+
+language: Pangasinan,   code: pag
+country: Philippines,   code: PH,   population: 1,480,094
+
+language: Papiamento,   code: pap
+country: Curaçao,   code: CW,   population: 118,937
+
+country: Aruba,   code: AW,   population: 66,583
+
+country: Caribbean Netherlands,   code: BQ,   population: 16,200
+
+language: Parkari Koli,   code: kvx
+country: Pakistan,   code: PK,   population: 309,182
+
+language: Parsi-Dari,   code: prd
+country: Iran,   code: IR,   population: 399,270
+
+country: Afghanistan,   code: AF,   population: 373,297
+
+language: Pashto,   code: ps
+country: Pakistan,   code: PK,   population: 28,985,850
+
+country: Afghanistan,   code: AF,   population: 13,376,483
+
+country: United Arab Emirates,   code: AE,   population: 158,745
+
+country: Iran,   code: IR,   population: 127,766
+
+language: Pattani Malay,   code: mfa
+country: Thailand,   code: TH,   population: 3,374,860
+
+language: Persian,   code: fa
+country: Iran,   code: IR,   population: 59,890,425
+
+country: Afghanistan,   code: AF,   population: 15,554,050
+
+country: Pakistan,   code: PK,   population: 1,275,377
+
+country: Iraq,   code: IQ,   population: 277,169
+
+country: Qatar,   code: QA,   population: 224,668
+
+country: United Arab Emirates,   code: AE,   population: 104,005
+
+country: Tajikistan,   code: TJ,   population: 61,698
+
+country: Oman,   code: OM,   population: 29,649
+
+language: Plains Cree,   code: crk
+country: Canada,   code: CA,   population: 38,025
+
+language: Pohnpeian,   code: pon
+country: Micronesia,   code: FM,   population: 24,404
+
+language: Pökoot,   code: pko
+country: Kenya,   code: KE,   population: 308,264
+
+language: Polish,   code: pl
+country: Poland,   code: PL,   population: 36,848,448
+
+country: Ukraine,   code: UA,   population: 1,069,757
+
+country: Germany,   code: DE,   population: 235,327
+
+country: Israel,   code: IL,   population: 115,606
+
+country: Czech Republic,   code: CZ,   population: 51,988
+
+country: Slovakia,   code: SK,   population: 51,042
+
+country: Romania,   code: RO,   population: 2,833
+
+language: Portuguese,   code: pt
+country: Brazil,   code: BR,   population: 182,919,100
+
+country: Angola,   code: AO,   population: 12,438,751
+
+country: Portugal,   code: PT,   population: 10,367,328
+
+country: Mozambique,   code: MZ,   population: 6,506,109
+
+country: Guinea-Bissau,   code: GW,   population: 1,660,870
+
+country: France,   code: FR,   population: 857,371
+
+country: Timor-Leste,   code: TL,   population: 691,710
+
+country: Cape Verde,   code: CV,   population: 403,595
+
+country: São Tomé and Príncipe,   code: ST,   population: 158,794
+
+country: Macau SAR China,   code: MO,   population: 29,150
+
+country: Antigua and Barbuda,   code: AG,   population: 1,623
+
+language: Punjabi (Arabic),   code: pa_Arab
+country: Pakistan,   code: PK,   population: 135,267,300
+
+language: Punjabi (Gurmukhi),   code: pa_Guru
+country: India,   code: IN,   population: 34,182,400
+
+country: United Kingdom,   code: GB,   population: 500,825
+
+country: Kenya,   code: KE,   population: 10,129
+
+country: Singapore,   code: SG,   population: 9,283
+
+language: Punu,   code: puu
+country: Gabon,   code: GA,   population: 147,626
+
+language: Quechua,   code: qu
+country: Peru,   code: PE,   population: 4,477,395
+
+country: Bolivia,   code: BO,   population: 3,347,552
+
+language: Rajasthani,   code: raj
+country: India,   code: IN,   population: 1,220,800
+
+language: Rajbanshi,   code: rjs
+country: Nepal,   code: NP,   population: 133,893
+
+language: Rana Tharu,   code: thr
+country: Nepal,   code: NP,   population: 365,164
+
+language: Rangpuri,   code: rkt
+country: Bangladesh,   code: BD,   population: 10,637,575
+
+country: India,   code: IN,   population: 5,371,520
+
+language: Rejang,   code: rej
+country: Indonesia,   code: ID,   population: 1,155,336
+
+language: Réunion Creole French,   code: rcf
+country: Réunion,   code: RE,   population: 559,185
+
+language: Riang [India],   code: ria
+country: India,   code: IN,   population: 158,704
+
+language: Rinconada Bikol,   code: bto
+country: Philippines,   code: PH,   population: 296,019
+
+language: Romanian,   code: ro
+country: Romania,   code: RO,   population: 19,611,450
+
+country: Moldova,   code: MD,   population: 2,280,556
+
+country: Israel,   code: IL,   population: 285,160
+
+country: Ukraine,   code: UA,   population: 231,781
+
+country: Serbia,   code: RS,   population: 152,103
+
+country: Hungary,   code: HU,   population: 98,401
+
+language: Romansh,   code: rm
+country: Switzerland,   code: CH,   population: 39,980
+
+language: Rombo,   code: rof
+country: Tanzania,   code: TZ,   population: 361,964
+
+language: Ronga,   code: rng
+country: Mozambique,   code: MZ,   population: 819,288
+
+language: Rundi,   code: rn
+country: Burundi,   code: BI,   population: 6,338,241
+
+language: Russian,   code: ru
+country: Russia,   code: RU,   population: 133,950,000
+
+country: Ukraine,   code: UA,   population: 20,503,672
+
+country: Kazakhstan,   code: KZ,   population: 16,850,055
+
+country: Uzbekistan,   code: UZ,   population: 4,012,624
+
+country: Kyrgyzstan,   code: KG,   population: 1,553,451
+
+country: Belarus,   code: BY,   population: 1,155,107
+
+country: Israel,   code: IL,   population: 847,774
+
+country: Latvia,   code: LV,   population: 827,807
+
+country: United States,   code: US,   population: 759,454
+
+country: Turkmenistan,   code: TM,   population: 613,565
+
+country: Georgia,   code: GE,   population: 444,794
+
+country: Estonia,   code: EE,   population: 379,914
+
+country: Germany,   code: DE,   population: 357,048
+
+country: Lithuania,   code: LT,   population: 281,269
+
+country: Moldova,   code: MD,   population: 108,598
+
+country: Finland,   code: FI,   population: 42,655
+
+country: China,   code: CN,   population: 13,496
+
+country: Mongolia,   code: MN,   population: 4,077
+
+country: Svalbard and Jan Mayen,   code: SJ,   population: 1,191
+
+language: Rusyn,   code: rue
+country: Ukraine,   code: UA,   population: 534,878
+
+language: Rwa,   code: rwk
+country: Tanzania,   code: TZ,   population: 106,176
+
+language: Sadri,   code: sck
+country: India,   code: IN,   population: 2,197,440
+
+language: Safaliba,   code: saf
+country: Ghana,   code: GH,   population: 4,032
+
+language: Saho,   code: ssy
+country: Eritrea,   code: ER,   population: 224,412
+
+language: Sakha,   code: sah
+country: Russia,   code: RU,   population: 456,000
+
+language: Samburu,   code: saq
+country: Kenya,   code: KE,   population: 202,573
+
+language: Samoan,   code: sm
+country: Samoa,   code: WS,   population: 195,476
+
+country: American Samoa,   code: AS,   population: 54,172
+
+language: Sangir,   code: sxn
+country: Indonesia,   code: ID,   population: 231,067
+
+language: Sango,   code: sg
+country: Central African Republic,   code: CF,   population: 2,531,590
+
+language: Sangu,   code: sbp
+country: Tanzania,   code: TZ,   population: 96,524
+
+language: Sanskrit,   code: sa
+country: India,   code: IN,   population: 14,650
+
+language: Santali,   code: sat
+country: India,   code: IN,   population: 6,714,400
+
+language: Sasak,   code: sas
+country: Indonesia,   code: ID,   population: 2,411,136
+
+language: Saurashtra,   code: saz
+country: India,   code: IN,   population: 354,032
+
+language: Scots,   code: sco
+country: United Kingdom,   code: GB,   population: 1,711,681
+
+language: Scottish Gaelic,   code: gd
+country: United Kingdom,   code: GB,   population: 62,762
+
+language: Sena,   code: seh
+country: Mozambique,   code: MZ,   population: 1,108,448
+
+language: Seraiki,   code: skr
+country: Pakistan,   code: PK,   population: 17,584,749
+
+language: Serbian (Cyrillic),   code: sr_Cyrl
+country: Serbia,   code: RS,   population: 7,170,580
+
+country: Bosnia and Herzegovina,   code: BA,   population: 387,572
+
+country: Kosovo,   code: XK,   population: 92,386
+
+country: Montenegro,   code: ME,   population: 32,674
+
+language: Serbian (Latin),   code: sr_Latn
+country: Serbia,   code: RS,   population: 7,170,580
+
+country: Montenegro,   code: ME,   population: 653,474
+
+country: Bosnia and Herzegovina,   code: BA,   population: 387,572
+
+country: Kosovo,   code: XK,   population: 92,386
+
+country: Romania,   code: RO,   population: 26,149
+
+country: Turkey,   code: TR,   population: 22,594
+
+country: Russia,   code: RU,   population: 4,988
+
+language: Serer,   code: srr
+country: Senegal,   code: SN,   population: 1,463,044
+
+language: Seselwa Creole French,   code: crs
+country: Seychelles,   code: SC,   population: 89,029
+
+language: Shambala,   code: ksb
+country: Tanzania,   code: TZ,   population: 820,452
+
+language: Shan,   code: shn
+country: Myanmar (Burma),   code: MM,   population: 3,530,707
+
+country: Thailand,   code: TH,   population: 64,797
+
+language: Shekhawati,   code: swv
+country: India,   code: IN,   population: 3,418,240
+
+language: Sherpa,   code: xsr
+country: Nepal,   code: NP,   population: 155,195
+
+language: Shona,   code: sn
+country: Zimbabwe,   code: ZW,   population: 10,678,149
+
+language: Sichuan Yi,   code: ii
+country: China,   code: CN,   population: 8,097,540
+
+language: Sicilian,   code: scn
+country: Italy,   code: IT,   population: 5,164,513
+
+language: Sidamo,   code: sid
+country: Ethiopia,   code: ET,   population: 3,285,695
+
+language: Simplified Chinese,   code: zh_Hans
+country: China,   code: CN,   population: 1,214,631,000
+
+country: Singapore,   code: SG,   population: 4,204,431
+
+country: Hong Kong SAR China,   code: HK,   population: 354,116
+
+country: Mongolia,   code: MN,   population: 40,771
+
+country: Macau SAR China,   code: MO,   population: 29,150
+
+language: Sindhi (Arabic),   code: sd_Arab
+country: Pakistan,   code: PK,   population: 23,188,680
+
+country: India,   code: IN,   population: 3,174,080
+
+language: Sindhi (Devanagari),   code: sd_Deva
+country: India,   code: IN,   population: 317,408
+
+language: Sinhala,   code: si
+country: Sri Lanka,   code: LK,   population: 14,739,408
+
+language: Sinte Romani,   code: rmo
+country: Switzerland,   code: CH,   population: 22,389
+
+language: Sirmauri,   code: srx
+country: India,   code: IN,   population: 427,280
+
+language: Skolt Sami,   code: sms
+country: Finland,   code: FI,   population: 579
+
+language: Slave,   code: den
+country: Canada,   code: CA,   population: 2,316
+
+language: Slovak,   code: sk
+country: Slovakia,   code: SK,   population: 4,939,506
+
+country: Serbia,   code: RS,   population: 61,566
+
+country: Hungary,   code: HU,   population: 10,933
+
+language: Slovenian,   code: sl
+country: Slovenia,   code: SI,   population: 1,733,640
+
+country: Italy,   code: IT,   population: 104,520
+
+country: Austria,   code: AT,   population: 30,420
+
+country: Hungary,   code: HU,   population: 4,970
+
+language: Soga,   code: xog
+country: Uganda,   code: UG,   population: 1,842,216
+
+language: Somali,   code: so
+country: Somalia,   code: SO,   population: 7,996,248
+
+country: Ethiopia,   code: ET,   population: 5,632,620
+
+country: Kenya,   code: KE,   population: 572,490
+
+country: Djibouti,   code: DJ,   population: 324,801
+
+language: Soninke,   code: snk
+country: Mali,   code: ML,   population: 942,165
+
+language: Sorani Kurdish,   code: ckb
+country: Iraq,   code: IQ,   population: 6,371,700
+
+country: Iran,   code: IR,   population: 3,114,302
+
+language: South Ndebele,   code: nr
+country: South Africa,   code: ZA,   population: 777,618
+
+language: Southern Altai,   code: alt
+country: Russia,   code: RU,   population: 19,950
+
+language: Southern East Cree,   code: crj
+country: Canada,   code: CA,   population: 7,259
+
+language: Southern Hindko,   code: hnd
+country: Pakistan,   code: PK,   population: 792,280
+
+language: Southern Kurdish,   code: sdh
+country: Iran,   code: IR,   population: 1,916,494
+
+language: Southern Luri,   code: luz
+country: Iran,   code: IR,   population: 958,247
+
+language: Southern Sami,   code: sma
+country: Sweden,   code: SE,   population: 299
+
+language: Southern Sotho,   code: st
+country: South Africa,   code: ZA,   population: 3,839,487
+
+country: Lesotho,   code: LS,   population: 1,897,456
+
+language: Southern Thai,   code: sou
+country: Thailand,   code: TH,   population: 5,399,776
+
+language: Southwestern Tamang,   code: tsf
+country: Nepal,   code: NP,   population: 130,850
+
+language: Spanish,   code: es
+country: Mexico,   code: MX,   population: 98,618,940
+
+country: Spain,   code: ES,   population: 46,896,795
+
+country: Argentina,   code: AR,   population: 42,611,000
+
+country: Colombia,   code: CO,   population: 42,543,594
+
+country: Philippines,   code: PH,   population: 32,773,510
+
+country: United States,   code: US,   population: 30,378,144
+
+country: Venezuela,   code: VE,   population: 23,336,462
+
+country: Peru,   code: PE,   population: 21,789,989
+
+country: Chile,   code: CL,   population: 16,872,562
+
+country: Ecuador,   code: EC,   population: 14,821,824
+
+country: Guatemala,   code: GT,   population: 13,367,355
+
+country: Cuba,   code: CU,   population: 11,061,900
+
+country: Dominican Republic,   code: DO,   population: 7,971,288
+
+country: Honduras,   code: HN,   population: 6,589,807
+
+country: Bolivia,   code: BO,   population: 6,381,271
+
+country: El Salvador,   code: SV,   population: 5,436,645
+
+country: Nicaragua,   code: NI,   population: 4,515,053
+
+country: Costa Rica,   code: CR,   population: 4,461,143
+
+country: Puerto Rico,   code: PR,   population: 3,171,716
+
+country: Uruguay,   code: UY,   population: 2,925,525
+
+country: Panama,   code: PA,   population: 2,455,993
+
+country: Canary Islands,   code: IC,   population: 2,056,618
+
+country: Equatorial Guinea,   code: GQ,   population: 612,481
+
+country: Paraguay,   code: PY,   population: 211,944
+
+country: Ceuta and Melilla,   code: EA,   population: 147,000
+
+country: Germany,   code: DE,   population: 129,836
+
+country: Belize,   code: BZ,   population: 93,603
+
+country: Andorra,   code: AD,   population: 36,676
+
+country: Morocco,   code: MA,   population: 21,222
+
+country: Curaçao,   code: CW,   population: 5,727
+
+country: Sint Maarten,   code: SX,   population: 4,763
+
+country: Trinidad and Tobago,   code: TT,   population: 4,043
+
+language: Sranan Tongo,   code: srn
+country: Suriname,   code: SR,   population: 385,455
+
+language: Standard Moroccan Tamazight,   code: zgh
+country: Morocco,   code: MA,   population: 7,182,802
+
+language: Sukuma,   code: suk
+country: Tanzania,   code: TZ,   population: 4,198,785
+
+language: Sundanese,   code: su
+country: Indonesia,   code: ID,   population: 30,139,200
+
+language: Susu,   code: sus
+country: Guinea,   code: GN,   population: 1,229,360
+
+language: Swahili,   code: sw
+country: Tanzania,   code: TZ,   population: 43,435,710
+
+country: Congo - Kinshasa,   code: CD,   population: 37,753,650
+
+country: Kenya,   code: KE,   population: 29,064,882
+
+country: Uganda,   code: UG,   population: 26,069,100
+
+country: Somalia,   code: SO,   population: 205,032
+
+country: Mozambique,   code: MZ,   population: 9,157
+
+country: Burundi,   code: BI,   population: 6,338
+
+country: Mayotte,   code: YT,   population: 2,716
+
+country: South Africa,   code: ZA,   population: 1,021
+
+language: Swampy Cree,   code: csw
+country: Canada,   code: CA,   population: 4,840
+
+language: Swati,   code: ss
+country: South Africa,   code: ZA,   population: 1,312,230
+
+country: Swaziland,   code: SZ,   population: 813,949
+
+country: Lesotho,   code: LS,   population: 46,468
+
+language: Swedish,   code: sv
+country: Sweden,   code: SE,   population: 9,165,020
+
+country: Finland,   code: FI,   population: 300,168
+
+country: Åland Islands,   code: AX,   population: 25,938
+
+language: Swiss German,   code: gsw
+country: Switzerland,   code: CH,   population: 959,524
+
+country: France,   code: FR,   population: 600,160
+
+country: Liechtenstein,   code: LI,   population: 31,458
+
+language: Sylheti,   code: syl
+country: Bangladesh,   code: BD,   population: 8,182,750
+
+country: United Kingdom,   code: GB,   population: 323,318
+
+language: Syriac,   code: syr
+country: Iraq,   code: IQ,   population: 159,292
+
+country: Syria,   code: SY,   population: 18,864
+
+language: Tachelhit (Latin),   code: shi_Latn
+country: Morocco,   code: MA,   population: 2,840,472
+
+language: Tachelhit (Tifinagh),   code: shi_Tfng
+country: Morocco,   code: MA,   population: 2,840,472
+
+language: Tae',   code: rob
+country: Indonesia,   code: ID,   population: 276,276
+
+language: Tagbanwa,   code: tbw
+country: Philippines,   code: PH,   population: 10,043
+
+language: Tahitian,   code: ty
+country: French Polynesia,   code: PF,   population: 85,961
+
+language: Tai Nüa,   code: tdd
+country: China,   code: CN,   population: 256,422
+
+language: Taita,   code: dav
+country: Kenya,   code: KE,   population: 361,109
+
+language: Tajik (Arabic),   code: tg_Arab
+country: Pakistan,   code: PK,   population: 637,689
+
+language: Tajik (Cyrillic),   code: tg_Cyrl
+country: Tajikistan,   code: TJ,   population: 7,910,040
+
+language: Tamashek,   code: tmh
+country: Niger,   code: NE,   population: 1,013,958
+
+country: Mali,   code: ML,   population: 335,347
+
+language: Tamil,   code: ta
+country: India,   code: IN,   population: 72,027,200
+
+country: Sri Lanka,   code: LK,   population: 3,251,340
+
+country: Malaysia,   code: MY,   population: 1,244,393
+
+country: Réunion,   code: RE,   population: 118,138
+
+country: Singapore,   code: SG,   population: 114,666
+
+country: Mauritius,   code: MU,   population: 33,056
+
+language: Tarifit,   code: rif
+country: Morocco,   code: MA,   population: 1,599,806
+
+country: Netherlands,   code: NL,   population: 201,660
+
+language: Taroko,   code: trv
+country: Taiwan,   code: TW,   population: 4,660
+
+language: Tasawaq,   code: twq
+country: Niger,   code: NE,   population: 7,943
+
+language: Tatar,   code: tt
+country: Russia,   code: RU,   population: 1,995,000
+
+language: Tausug,   code: tsg
+country: Philippines,   code: PH,   population: 1,162,931
+
+language: Tavringer Romani,   code: rmu
+country: Sweden,   code: SE,   population: 9,454
+
+language: Telugu,   code: te
+country: India,   code: IN,   population: 87,897,600
+
+language: Teso,   code: teo
+country: Uganda,   code: UG,   population: 1,355,593
+
+country: Kenya,   code: KE,   population: 325,879
+
+language: Tetum,   code: tet
+country: Timor-Leste,   code: TL,   population: 691,710
+
+language: Thai,   code: th
+country: Thailand,   code: TH,   population: 53,997,760
+
+language: Thulung,   code: tdh
+country: Nepal,   code: NP,   population: 36,516
+
+language: Tibetan,   code: bo
+country: China,   code: CN,   population: 2,699,180
+
+country: India,   code: IN,   population: 134,288
+
+country: Nepal,   code: NP,   population: 73,033
+
+language: Tigre,   code: tig
+country: Eritrea,   code: ER,   population: 1,122,062
+
+language: Tigrinya,   code: ti
+country: Ethiopia,   code: ET,   population: 5,632,620
+
+country: Eritrea,   code: ER,   population: 3,740,208
+
+country: Israel,   code: IL,   population: 10,019
+
+language: Timne,   code: tem
+country: Sierra Leone,   code: SL,   population: 1,459,299
+
+language: Tiv,   code: tiv
+country: Nigeria,   code: NG,   population: 2,792,128
+
+language: Tok Pisin,   code: tpi
+country: Papua New Guinea,   code: PG,   population: 4,566,649
+
+language: Tokelau,   code: tkl
+country: Tokelau,   code: TK,   population: 1,339
+
+language: Tolaki,   code: lbw
+country: Indonesia,   code: ID,   population: 326,508
+
+language: Tomo Kan Dogon,   code: dtm
+country: Mali,   code: ML,   population: 175,658
+
+language: Tongan,   code: to
+country: Tonga,   code: TO,   population: 101,006
+
+language: Tooro,   code: ttj
+country: Uganda,   code: UG,   population: 660,417
+
+language: Tornedalen Finnish,   code: fit
+country: Sweden,   code: SE,   population: 53,061
+
+language: Traditional Chinese,   code: zh_Hant
+country: Taiwan,   code: TW,   population: 22,134,715
+
+country: Hong Kong SAR China,   code: HK,   population: 6,728,204
+
+country: Malaysia,   code: MY,   population: 5,036,828
+
+country: Indonesia,   code: ID,   population: 2,310,672
+
+country: United States,   code: US,   population: 2,183,429
+
+country: Thailand,   code: TH,   population: 1,214,950
+
+country: Vietnam,   code: VN,   population: 924,779
+
+country: Philippines,   code: PH,   population: 771,763
+
+country: Macau SAR China,   code: MO,   population: 571,343
+
+country: Australia,   code: AU,   population: 467,512
+
+country: United Kingdom,   code: GB,   population: 342,336
+
+country: Brunei,   code: BN,   population: 45,729
+
+country: French Polynesia,   code: PF,   population: 21,629
+
+country: Suriname,   code: SR,   population: 6,802
+
+country: Panama,   code: PA,   population: 6,051
+
+country: French Guiana,   code: GF,   population: 4,988
+
+language: Tshangla,   code: tsj
+country: Bhutan,   code: BT,   population: 108,794
+
+language: Tsonga,   code: ts
+country: South Africa,   code: ZA,   population: 2,138,448
+
+country: Mozambique,   code: MZ,   population: 1,903,639
+
+country: Swaziland,   code: SZ,   population: 23,857
+
+language: Tswana,   code: tn
+country: South Africa,   code: ZA,   population: 3,985,290
+
+country: Botswana,   code: BW,   population: 1,319,255
+
+country: Zimbabwe,   code: ZW,   population: 29,002
+
+country: Namibia,   code: NA,   population: 6,112
+
+language: Tulu,   code: tcy
+country: India,   code: IN,   population: 2,197,440
+
+language: Tumbuka,   code: tum
+country: Malawi,   code: MW,   population: 1,409,310
+
+language: Turkish,   code: tr
+country: Turkey,   code: TR,   population: 75,045,885
+
+country: Germany,   code: DE,   population: 2,028,682
+
+country: Bulgaria,   code: BG,   population: 767,980
+
+country: Cyprus,   code: CY,   population: 272,964
+
+country: Uzbekistan,   code: UZ,   population: 217,828
+
+country: Macedonia,   code: MK,   population: 202,455
+
+country: Netherlands,   code: NL,   population: 201,660
+
+country: Ukraine,   code: UA,   population: 187,207
+
+country: Greece,   code: GR,   population: 129,276
+
+country: Romania,   code: RO,   population: 28,328
+
+language: Turkmen (Latin),   code: tk_Latn
+country: Turkmenistan,   code: TM,   population: 3,579,128
+
+country: Iran,   code: IR,   population: 2,235,909
+
+country: Afghanistan,   code: AF,   population: 528,838
+
+language: Tuvalu,   code: tvl
+country: Tuvalu,   code: TV,   population: 9,842
+
+language: Tuvinian,   code: tyv
+country: Russia,   code: RU,   population: 185,250
+
+language: Tyap,   code: kcg
+country: Nigeria,   code: NG,   population: 162,292
+
+language: Uab Meto,   code: aoz
+country: Indonesia,   code: ID,   population: 678,132
+
+language: Udmurt,   code: udm
+country: Russia,   code: RU,   population: 541,500
+
+language: Ukrainian,   code: uk
+country: Ukraine,   code: UA,   population: 28,972,580
+
+country: Moldova,   code: MD,   population: 506,790
+
+country: Poland,   code: PL,   population: 149,697
+
+country: Slovakia,   code: SK,   population: 104,278
+
+country: Serbia,   code: RS,   population: 0
+
+language: Ulithian,   code: uli
+country: Micronesia,   code: FM,   population: 2,971
+
+language: Umbundu,   code: umb
+country: Angola,   code: AO,   population: 5,383,937
+
+country: South Georgia & South Sandwich Islands,   code: GS,   population: 20
+
+country: Bouvet Island,   code: BV,   population: 1
+
+language: Urdu,   code: ur
+country: Pakistan,   code: PK,   population: 183,577,050
+
+country: India,   code: IN,   population: 61,040,000
+
+country: Mauritius,   code: MU,   population: 68,756
+
+language: Uyghur (Arabic),   code: ug_Arab
+country: China,   code: CN,   population: 7,422,745
+
+country: Afghanistan,   code: AF,   population: 2,986
+
+language: Uyghur (Cyrillic),   code: ug_Cyrl
+country: Kazakhstan,   code: KZ,   population: 354,738
+
+country: Mongolia,   code: MN,   population: 990
+
+language: Uzbek (Arabic),   code: uz_Arab
+country: Afghanistan,   code: AF,   population: 1,462,081
+
+language: Uzbek (Cyrillic),   code: uz_Cyrl
+country: Uzbekistan,   code: UZ,   population: 4,299,240
+
+country: China,   code: CN,   population: 5,398
+
+language: Uzbek (Latin),   code: uz_Latn
+country: Uzbekistan,   code: UZ,   population: 24,362,360
+
+country: Turkmenistan,   code: TM,   population: 460,174
+
+country: Turkey,   code: TR,   population: 2,017
+
+language: Vai (Latin),   code: vai_Latn
+country: Liberia,   code: LR,   population: 0
+
+language: Vai (Vai),   code: vai_Vaii
+country: Liberia,   code: LR,   population: 103,732
+
+language: Venda,   code: ve
+country: South Africa,   code: ZA,   population: 1,117,825
+
+country: Zimbabwe,   code: ZW,   population: 84,371
+
+language: Vietnamese,   code: vi
+country: Vietnam,   code: VN,   population: 79,530,994
+
+country: United States,   code: US,   population: 1,075,893
+
+country: China,   code: CN,   population: 6,748
+
+language: Virgin Islands Creole English,   code: vic
+country: Sint Maarten,   code: SX,   population: 3,096
+
+language: Vunjo,   code: vun
+country: Tanzania,   code: TZ,   population: 361,964
+
+language: Waddar,   code: wbq
+country: India,   code: IN,   population: 2,197,440
+
+language: Wadiyara Koli,   code: kxp
+country: Pakistan,   code: PK,   population: 231,887
+
+language: Wagdi,   code: wbr
+country: India,   code: IN,   population: 1,831,200
+
+language: Wallisian,   code: wls
+country: Wallis and Futuna,   code: WF,   population: 9,459
+
+language: Walloon,   code: wa
+country: Belgium,   code: BE,   population: 605,769
+
+language: Walser,   code: wae
+country: Switzerland,   code: CH,   population: 10,395
+
+country: Liechtenstein,   code: LI,   population: 1,295
+
+language: Waray,   code: war
+country: Philippines,   code: PH,   population: 3,065,909
+
+language: Welsh,   code: cy
+country: United Kingdom,   code: GB,   population: 488,146
+
+country: Argentina,   code: AR,   population: 27,697
+
+language: Western Cham,   code: cja
+country: Cambodia,   code: KH,   population: 243,288
+
+language: Western Frisian,   code: fy
+country: Netherlands,   code: NL,   population: 722,615
+
+language: Western Gurung,   code: gvr
+country: Nepal,   code: NP,   population: 88,248
+
+language: Western Huasteca Nahuatl,   code: nhw
+country: Mexico,   code: MX,   population: 451,508
+
+language: Western Lawa,   code: lcp
+country: China,   code: CN,   population: 78,276
+
+country: Thailand,   code: TH,   population: 6,750
+
+language: Western Magar,   code: mrd
+country: Nepal,   code: NP,   population: 252,571
+
+language: Western Mari,   code: mrj
+country: Russia,   code: RU,   population: 65,550
+
+language: Western Tamang,   code: tdg
+country: Nepal,   code: NP,   population: 395,594
+
+language: Wolaytta,   code: wal
+country: Ethiopia,   code: ET,   population: 1,689,786
+
+language: Wolof,   code: wo
+country: Senegal,   code: SN,   population: 4,522,136
+
+country: Mauritania,   code: MR,   population: 9,969
+
+language: Xaasongaxango,   code: kao
+country: Mali,   code: ML,   population: 159,689
+
+language: Xavánte,   code: xav
+country: Brazil,   code: BR,   population: 10,050
+
+language: Xhosa,   code: xh
+country: South Africa,   code: ZA,   population: 8,748,198
+
+country: Lesotho,   code: LS,   population: 19,362
+
+language: Yangben,   code: yav
+country: Cameroon,   code: CM,   population: 2,253
+
+language: Yao,   code: yao
+country: Mozambique,   code: MZ,   population: 578,321
+
+language: Yapese,   code: yap
+country: Micronesia,   code: FM,   population: 6,578
+
+language: Yemba,   code: ybb
+country: Cameroon,   code: CM,   population: 360,552
+
+language: Yiddish,   code: yi
+country: Ukraine,   code: UA,   population: 579,452
+
+country: Israel,   code: IL,   population: 231,211
+
+country: United States,   code: US,   population: 155,055
+
+country: United Kingdom,   code: GB,   population: 31,064
+
+country: Canada,   code: CA,   population: 15,556
+
+country: Sweden,   code: SE,   population: 2,991
+
+language: Yoruba,   code: yo
+country: Nigeria,   code: NG,   population: 22,686,040
+
+country: Benin,   code: BJ,   population: 661,778
+
+language: Yucateco,   code: yua
+country: Mexico,   code: MX,   population: 796,081
+
+language: Zarma,   code: dje
+country: Niger,   code: NE,   population: 2,872,881
+
+language: Zaza,   code: zza
+country: Turkey,   code: TR,   population: 1,129,723
+
+language: Zeeuws,   code: zea
+country: Netherlands,   code: NL,   population: 235,270
+
+language: Zhuang,   code: za
+country: China,   code: CN,   population: 4,183,729
+
+language: Zulu,   code: zu
+country: South Africa,   code: ZA,   population: 11,664,264
+
+country: Lesotho,   code: LS,   population: 271,065
+
+country: Swaziland,   code: SZ,   population: 95,428
+
+country: Malawi,   code: MW,   population: 55,366
+
+country: Mozambique,   code: MZ,   population: 1,807
+
+country: add new,   code: ,   population: 

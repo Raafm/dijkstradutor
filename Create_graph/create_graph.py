@@ -13,7 +13,7 @@ for edge in edge_list:
 
 print("inicio: ")
 
-Graph_file = open(r'dijkstra_hiding_message\Create graph\Graph.txt','w')
+Graph_file = open(r'dijkstra_hiding_message\Create_graph\Graph.txt','w')
 
 count = 0
 for node in Graph:
