@@ -2,7 +2,7 @@ from Create_graph.adjacency import adj
 from Create_graph.Nodes.data_relations.data_relations import initials_name, num_initials, initials_num
 from heap import MaxHeap
 
-N = 868  # number of vertices. They are numbere 1 through N+1
+N = 868  # number of vertices. They are numbered 1 through N+1
 
 # handling cmd input
 while True:
