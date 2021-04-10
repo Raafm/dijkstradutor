@@ -3,10 +3,16 @@ Program for creating lists and dictionaries that relate numbers, initials
 and names of countries and languages.
 """
 
-# change this according to your machine
-base = r"C:\Users\User\Desktop\Programming\Code Projects\Cadeira_Algoritmos\src\dijkstradutor"
+from pathlib import Path
 
-# creating a dictionary that maps initials to names
+# base is the path to the dijkstradutor directory. This is necessary because
+# the files needed (siglas_nomes.txt, unicodelang.language.txt,
+# unicodelang_country.txt) are not in the current directory or in a
+# subdirectory, so relative paths won't work.
+base = str(Path().absolute().parent.parent.parent)
+
+# creating a dictionary that maps initials to names. This is done by using
+# siglas_nomes.txt, which provides the initials of each name of country.
 initals_name = {}
 
 with open(base+r"\Create_graph\Nodes\siglas_nomes.txt", 'r') as file1:
@@ -16,6 +22,7 @@ with open(base+r"\Create_graph\Nodes\siglas_nomes.txt", 'r') as file1:
 		line = line.split()
 		name = ''
 		i = 1
+		# see the siglas_nomes.txt file to check the format of each line
 		while True:
 			name += line[i] + ' '
 			if name[-2] == ",":
@@ -33,7 +40,7 @@ with open(base+r"\Create_graph\Nodes\siglas_nomes.txt", 'r') as file1:
 # database
 initals_name["tk"] = initals_name["tkl"]
 # adding some cases not catched by the above code or not existent in the used
-# database
+# database (siglas_nomes.txt)
 initals_name["TT"] = "Trinidad and Tobago"
 initals_name["kk"] = "Kazakh"
 initals_name["arq"] = "Algerian Arabic"
@@ -47,13 +54,19 @@ initals_name["ttt"] = "Muslim Tat"
 initals_name["tkr"] = "Tsakhur"
 initals_name["vls"] = "Vlaams"
 initals_name["aro"] = "Araona"
-# there are too many missing initials, i'll simply stop here
+# there are too many missing initials, i'll simply stop here and handle
+# it in main.py with try-except
 
-# creating a list such that its i-th index has the initials of the country
-# associated with vertex i. Its a "num-to-initials" list.
+# creating a list such that its i-th index has the initials of the
+# country/language associated with vertex i. It's a "num-to-initials"
+# list. This is done by using both unicode.language.txt, for getting 
+# the initials of languages, and unicodelang_country.txt, for getting
+# the initials of countries. They are from the Database folder.
 num_initials = [None]
 
-# creating a dictionary that maps initials back to the associated number
+# creating a dictionary that maps initials back to the associated number.
+# It's the opposite/inverse of num_initials. It uses the same data as
+# num_initials.
 initials_num = {}
 
 

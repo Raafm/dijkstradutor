@@ -3,8 +3,12 @@ Program for generating the adjacency list of the database as a synthatically
 correct text file. Do not run it more than once.
 """
 
-# change this according to your machine
-base = r"C:\Users\User\Desktop\Programming\Code Projects\Cadeira_Algoritmos\src\dijkstradutor"
+from pathlib import Path
+
+# base is the path to the dijkstradutor directory. This is necessary because
+# the file needed (unicodelang.txt) is not in the current directory
+# or in a subdirectory, so relative paths won't work.
+base = str(Path().absolute().parent)
 
 in_file = open(base+r"\Database\unicodelang.txt", 'r')
 
@@ -31,7 +35,7 @@ for line in in_file:
 
 in_file.close()
 
-out_file = open(base+r"\Create_graph\adjacency.py", 'w')
+out_file = open("adjacency.py", 'w')
 out_file.write("adj = [\n")
 for tup in adj:
 	out_file.write(str(tup) + ",\n")

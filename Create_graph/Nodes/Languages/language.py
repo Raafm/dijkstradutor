@@ -1,15 +1,18 @@
 """
 Program for generating the correspences between integers and languages.
 """
+from pathlib import Path
 
-# change this according to your machine
-base = r"C:\Users\User\Desktop\Programming\Code Projects\Cadeira_Algoritmos\src\dijkstradutor"
+# base is the path to the dijkstradutor directory. This is necessary because
+# the file needed (unicodelang.language.txt) is not in the current directory
+# or in a subdirectory, so relative paths won't work.
+base = str(Path().absolute().parent.parent.parent)
 
 # olha as linhas na database
-file = open(base + r'\Database\unicodelang.language.txt','r')
+file = open(base + r"\Database\unicodelang.language.txt",'r')
 
 # abre arquivo novo para por os nodes ao lado de seus nomes
-new_file = open(base + r'\Create_graph\Nodes\Languages\languages.txt','w')
+new_file = open(base + r"\Create_graph\Nodes\Languages\languages.txt",'w')
 
 count = 1
 
