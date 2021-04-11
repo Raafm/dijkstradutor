@@ -1,0 +1,222 @@
+The countries are Brazil (BR), Germany (DE), Russia (RU), India (IN), United States (US), 
+
+The languages incident with any of these countries are:
+
+NAME (INITIALS)
+Kabardian (kbd)
+Dargwa (dar)
+Buriat (bua)
+Moksha (mdf)
+Kumyk (kum)
+Lezghian (lez)
+Komi (kv)
+Karachay-Balkar (krc)
+Tuvinian (tyv)
+Adyghe (ady)
+Karelian (krl)
+Lak (lbe)
+Greek (el)
+French (fr)
+English (en)
+Spanish (es)
+Portuguese (pt)
+Armenian (hy)
+Ku (ku)
+Azeri (az)
+Dutch (nl)
+Chinese (zh)
+Italian (it)
+German (de)
+Croatian (hr)
+Malayalam (ml)
+Bengali (bn)
+Rangpuri (rkt)
+Garo (grt)
+Manipuri (mni)
+Russian (ru)
+Nepali (ne)
+Japanese (ja)
+Korean (ko)
+Turkish (tr)
+Vietnamese (vi)
+Polish (pl)
+Danish (da)
+Hindi (hi)
+Ossetic (os)
+Low German (nds)
+name_not_found (vmf)
+Colognian (ksh)
+Telugu (te)
+Marathi (mr)
+Tamil (ta)
+Urdu (ur)
+Gujarati (gu)
+Kannada (kn)
+Oriya (or)
+name_not_found (pa)
+Bhojpuri (bho)
+Awadhi (awa)
+Assamese (as)
+Marwari (mwr)
+Magahi (mag)
+Haryanvi (bgc)
+Chhattisgarhi (hne)
+Deccan (dcc)
+Kanauji (bjj)
+Santali (sat)
+Mewati (wtm)
+name_not_found (ks)
+Konkani (kok)
+name_not_found (gom)
+Shekhawati (swv)
+Lambadi (lmn)
+Garhwali (gbm)
+name_not_found (sd)
+name_not_found (gon)
+Kumaoni (kfy)
+Kurukh (kru)
+Waddar (wbq)
+Kangri (xnr)
+Wagdi (wbr)
+Bodo (brx)
+Nimadi (noe)
+Bhili (bhb)
+Rajasthani (raj)
+Ho (hoc)
+Mewari (mtr)
+name_not_found (unr)
+Bhilali (bhi)
+Hadothi (hoj)
+Khasi (kha)
+Kachchi (kfr)
+Filipino (fil)
+Tatar (tt)
+Chuvash (cv)
+Bashkir (ba)
+Chechen (ce)
+Avaric (av)
+Udmurt (udm)
+Mari (chm)
+Sakha (sah)
+Erzya (myv)
+
+
+The languages incident with each country are:
+
+Brazil (BR):
+	Japanese (ja), 0.002
+	Italian (it), 0.003
+	Portuguese (pt), 0.91
+	German (de), 0.008
+	English (en), 0.08
+
+Germany (DE):
+	Croatian (hr), 0.008
+	Turkish (tr), 0.025
+	Danish (da), 0.02
+	Colognian (ksh), 0.003
+	Russian (ru), 0.06
+	Ku (ku), 0.007
+	Low German (nds), 0.12
+	Dutch (nl), 0.09
+	Polish (pl), 0.003
+	Greek (el), 0.004
+	English (en), 0.64
+	name_not_found (vmf), 0.06
+	German (de), 0.91
+	French (fr), 0.18
+	Spanish (es), 0.06
+	Italian (it), 0.07
+
+Russia (RU):
+	Komi (kv), 0.002
+	Tatar (tt), 0.014
+	Armenian (hy), 0.008
+	Kumyk (kum), 0.002
+	Bashkir (ba), 0.013
+	Adyghe (ady), 0.001
+	Avaric (av), 0.004
+	Mari (chm), 0.004
+	Azeri (az), 0.001
+	Dargwa (dar), 0.003
+	Lak (lbe), 0.001
+	Erzya (myv), 0.003
+	Russian (ru), 0.94
+	Ossetic (os), 0.003
+	Kabardian (kbd), 0.003
+	Lezghian (lez), 0.002
+	Chuvash (cv), 0.013
+	Buriat (bua), 0.002
+	Tuvinian (tyv), 0.001
+	Chechen (ce), 0.007
+	Moksha (mdf), 0.002
+	Udmurt (udm), 0.004
+	Sakha (sah), 0.003
+	Karachay-Balkar (krc), 0.002
+	Karelian (krl), 0.001
+
+India (IN):
+	Hadothi (hoj), 0.001
+	Bhojpuri (bho), 0.023
+	Santali (sat), 0.006
+	Mewati (wtm), 0.005
+	Waddar (wbq), 0.002
+	name_not_found (sd), 0.003
+	Ho (hoc), 0.001
+	Marwari (mwr), 0.012
+	Telugu (te), 0.072
+	Lambadi (lmn), 0.003
+	Bhilali (bhi), 0.001
+	name_not_found (gom), 0.003
+	Tamil (ta), 0.059
+	Magahi (mag), 0.012
+	Bengali (bn), 0.081
+	Oriya (or), 0.032
+	name_not_found (ks), 0.004
+	Deccan (dcc), 0.01
+	Gujarati (gu), 0.045
+	Bhili (bhb), 0.001
+	Khasi (kha), 0.001
+	Bodo (brx), 0.001
+	name_not_found (gon), 0.002
+	Mewari (mtr), 0.001
+	Manipuri (mni), 0.001
+	Kachchi (kfr), 0.001
+	Kangri (xnr), 0.002
+	Kumaoni (kfy), 0.002
+	Garhwali (gbm), 0.003
+	Marathi (mr), 0.07
+	Malayalam (ml), 0.032
+	Hindi (hi), 0.41
+	English (en), 0.19
+	Assamese (as), 0.013
+	Kurukh (kru), 0.002
+	Haryanvi (bgc), 0.012
+	Urdu (ur), 0.05
+	Rangpuri (rkt), 0.004
+	name_not_found (pa), 0.028
+	Wagdi (wbr), 0.002
+	Shekhawati (swv), 0.003
+	Konkani (kok), 0.004
+	Kannada (kn), 0.037
+	Awadhi (awa), 0.019
+	Rajasthani (raj), 0.001
+	name_not_found (unr), 0.001
+	Nimadi (noe), 0.001
+	Nepali (ne), 0.006
+	Chhattisgarhi (hne), 0.011
+	Garo (grt), 0.001
+	Kanauji (bjj), 0.006
+
+United States (US):
+	Filipino (fil), 0.004
+	Italian (it), 0.003
+	French (fr), 0.006
+	English (en), 0.96
+	Spanish (es), 0.096
+	German (de), 0.005
+	Vietnamese (vi), 0.003
+	Russian (ru), 0.002
+	Korean (ko), 0.003
+	Chinese (zh), 0.007
+

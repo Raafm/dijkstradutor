@@ -16,7 +16,8 @@ def parent(i):
     return (i+1)//2 - 1
 
 
-def maxHeapify(array, i, n, comp=lambda a, b: a < b):
+# "global" as opposed to Heap.heapify()
+def global_heapify(array, i, n, comp=lambda a, b: a < b):
     """Check MaxHeap's documentation to understand how comp is used.
     i: the index of the beggining of the 'heapification'
     n: the length of the heap contained by the array
@@ -31,11 +32,15 @@ def maxHeapify(array, i, n, comp=lambda a, b: a < b):
             greatest = r
     if greatest != i:
         array[greatest], array[i] = array[i], array[greatest]
-        maxHeapify(array, greatest, n, comp)
+        global_heapify(array, greatest, n, comp)
 
 
-class MaxHeap:
-    # if you want a min heap, just choose a proper comparator function
+class Heap:
+    """
+    The heap can work either as a max or as a min heap, depending only
+    on the construction of the comparator function (comp). More information
+    is given below.
+    """
     def __init__(self, heap_array=[], comp=lambda a, b: a < b):
         """
         heap_array: the array where the elements of the heap will be stored,
@@ -47,9 +52,9 @@ class MaxHeap:
         arguments and returns a bool. The expression comp(a, b), where a and b
         are elements in the container, shall return True if a must be below b
         in the binary tree. It defaults to the less-than operator (a < b), so
-        a default MaxHeap will indeed be a max heap (of numbers or strings,
+        a the default Heap object will be a max heap (of numbers or strings,
         which support the '<' operator). On the other hand, passing lambda a,
-        b: a > b to comp will actually make MaxHeap a min heap.
+        b: a > b to comp will make the instance a min heap.
         """
         self.comp = comp
         self.array = heap_array
@@ -74,7 +79,7 @@ class MaxHeap:
 
 
     def heapify(self, i):
-        maxHeapify(self.array, i, len(self.array), self.comp)
+        global_heapify(self.array, i, len(self.array), self.comp)
 
 
     def top(self):
