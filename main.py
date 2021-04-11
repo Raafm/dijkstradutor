@@ -2,8 +2,9 @@
 # adj is the adjacency list of the graph that represents the database
 # (it can be found on dijkstradutor/Database)
 from Create_graph.adjacency import adj
-from Create_graph.Nodes.data_relations.data_relations import initials_name, num_initials, initials_num
+from Create_graph.Nodes.data_relations.data_relations import initials_name, num_initials, initials_num, num_coordinates
 from heap import Heap
+import folium
 
 N = 868  # number of vertices (languages + countries). They are numbere 1 through N+1
 
@@ -126,29 +127,62 @@ except KeyError:
 print(f"The least distance from {source} to {destination} is {dist[destiny_num]}, which corresponds to this path:")
 print(path_string[:-4])
 
-for element in path_list:
 
-    point1 = ['IT',	41.87194,	12.56738,	'Italy']
-    point2 = ['VA',	41.902916,	12.453389,	'Vatican City']
 
-    def median_point(coordinate1,coordinate2):
-        media =list()
-        media.append(  (coordinate1[0] + coordinate2[0])/2  )
-        media.append( (coordinate1[1] + coordinate2[1])/2 )
-        return media
+# folium part down here
 
-    m = folium.Map(location = [0,0], zomm_start = 0.1)
-    folium.Marker(location = [point2[1], point2[2]],popup = 'Latin',zomm_start  = 1).add_to(m)
+def median_pais(coordinate1,coordinate2):
+    media =list()
+    media.append(  (coordinate1[0] + coordinate2[0])/2  )
+    media.append( (coordinate1[1] + coordinate2[1])/2 )
+    return media
 
-    folium.Marker(location = [point1[1], point1[2]],popup = 'English', zomm_start = 1).add_to(m)
 
-    loc = [(point1[1], point1[2]),
-        (point2[1], point2[2])]
+m = folium.Map(location = [0,0], zomm_start = 0.1)
 
-    coordinate1 = [ point1[1] , point1[2] ]
-    coordinate2 = [ point2[1] , point2[2] ]
+   
+    
+pais_envia =  [   num_initials[path_list[-1]],    num_coordinates[path_list[-1]][0],    num_coordinates[path_list[-1]][1]  ]  
+idioma = path_list[-2]
+pais_recebe = None
 
-    folium.Marker(median_point(coordinate1, coordinate2),weight =3, popup = 'idioma').add_to(m)
 
-    folium.PolyLine(loc, weight=3, color='blue').add_to(m)
-    m.save('coiso.html')
+is_source = True
+is_idioma = True
+for element in reversed(path_list):
+    
+    if is_source:
+        is_source = False
+        continue
+    
+    if is_idioma:
+        idioma = num_initials[element]
+        
+    else:    
+        pais_recebe = [   num_initials[element],    num_coordinates[element][0],    num_coordinates[element][1] ]  
+
+        # pais_envia = ['IT',	41.87194,	12.56738,	'Italy']
+        # pais_recebe = ['VA',	41.902916,	12.453389,	'Vatican City']
+
+        loc = [(pais_envia[1], pais_envia[2]),
+            (pais_recebe[1], pais_recebe[2])]
+
+        coordinate1 = [ pais_envia[1] , pais_envia[2] ]
+        coordinate2 = [ pais_recebe[1] , pais_recebe[2] ]
+        
+        
+        
+        text_popup = 'de:  ' +  pais_envia[0] + ', para: '+ pais_recebe[0] + 'idioma: ' + idioma
+        
+        folium.Marker(median_pais(coordinate1, coordinate2),weight =3, popup = text_popup).add_to(m)
+        
+        folium.PolyLine(loc, weight=3, color='blue').add_to(m)
+        m.save('coiso.html')
+        
+        pais_envia = pais_recebe
+        
+    is_idioma   =  not is_idioma
+    
+    
+    
+    
