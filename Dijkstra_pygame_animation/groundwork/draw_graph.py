@@ -17,7 +17,7 @@ screen_color = Teal
 pygame.font.init()
 font = pygame.font.Font('freesansbold.ttf',number_size)
 
-def display_graph(screen,graph,nodes,edge_dict):
+def display_graph(screen,graph,nodes,edge_dict,num_siglas):
 
     def show_weight(peso,position):
         text = font.render(str(peso),True,peso_color)
@@ -47,7 +47,7 @@ def display_graph(screen,graph,nodes,edge_dict):
 
         # draw circul of current node:         color == [0] ,   position   ==    [1] ,         radius  =  [2]
         pygame.draw.circle( screen,  nodes[node_counter][0] , nodes[node_counter][1] , nodes[node_counter][2] )
-        text = font.render(str(node_counter),True,node_number_color)           # print node number            
+        text = font.render(num_siglas[node_counter],True,node_number_color)           # print node number            
         screen.blit(text,text.get_rect(center=nodes[node_counter][1]))  # print node number
         node_counter += 1                                               # print node number
         
@@ -58,11 +58,11 @@ def display_graph(screen,graph,nodes,edge_dict):
 if __name__ == "__main__":
 
     from graph import test_graph as graph
-    from graph import nodes, edge_dict
+    from graph import nodes, edge_dict,num_siglas
 
     pygame.init()
     screen = pygame.display.set_mode((800,600))
-    display_graph(screen,graph,nodes,edge_dict)
+    display_graph(screen,graph,nodes,edge_dict,num_siglas)
 
     while True:
         for event in pygame.event.get():
