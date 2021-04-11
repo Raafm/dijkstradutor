@@ -9,7 +9,7 @@ from groundwork.draw_graph import display_graph
 from groundwork.graph import test_graph as graph
 from groundwork.graph import nodes, edge_dict
 from groundwork.heap import Heap
-from groundwork.colors import * #White, Red, Yellow, Cyan
+from groundwork.colors import *
 # fiz um arquivo com as cores em rgb,
 # podemos pegar de la as cores que formos usar.
 # Mesmo se vc achar que nao vai usar, nao apague as outras cores,
@@ -20,9 +20,11 @@ color_unvisited = White         # se modificar esse tme que modificar no arquivo
 color_current_node = Gray
 color_visited   = Black	    
 color_current_edge = Cyan
+node_number_color = Red
+number_size = 12
 
 INFINITY = 1000000
-time_delay = 2               # tempo referencia para o codigo parar apos atualizar a tela
+time_delay = 0.5               # tempo referencia para o codigo parar apos atualizar a tela
 
 source = int(input("Source: "))                                #    TRATAR ERROS DE INPUT
 destination = int(input("Destination: "))
@@ -31,7 +33,7 @@ pygame.init()
 
 screen = pygame.display.set_mode((800,600))
 
-nodes[source][0] = Red  # color of source
+nodes[source][0] = Blue  # initial color of source
 
 display_graph(screen,graph,nodes,edge_dict)                              # display inicial da tela
 
@@ -74,7 +76,12 @@ while not pq.empty():
     time.sleep(time_delay)
 
     if curr_node == destination:
+        nodes[curr_node][0] = color_visited
+        nodes[curr_node][2] -= 10
+        display_graph(screen,graph,nodes,edge_dict)
+        time.sleep(time_delay)
         break
+
 
     former_neighbour_colors = []
     for neighbour_index, (neighbour_node, weight, edge_color) in enumerate(graph[curr_node]):
@@ -102,6 +109,28 @@ while not pq.empty():
     nodes[curr_node][2] -= 10  # volta o node para o tamanho normal
     nodes[curr_node][0] = color_visited
 # dijkstra terminated
+
+# painting the shortest path to the source backwards
+font = pygame.font.Font('freesansbold.ttf',number_size)
+previous = destination
+current = parent[destination]
+while current is not None:
+    pygame.draw.line(screen, Green, nodes[previous][1], nodes[current][1], 3)
+
+    # drawing the nodes above the new lines
+    pygame.draw.circle(screen, nodes[previous][0], nodes[previous][1], nodes[previous][2])
+    text = font.render(str(previous),True,node_number_color)           # print node number            
+    screen.blit(text,text.get_rect(center=nodes[previous][1]))  # print node number
+
+    pygame.draw.circle(screen, nodes[current][0], nodes[current][1], nodes[current][2])
+    text = font.render(str(current),True,node_number_color)           # print node number            
+    screen.blit(text,text.get_rect(center=nodes[current][1]))  # print node number    
+
+    pygame.display.flip()
+    time.sleep(time_delay)
+
+    previous = current
+    current = parent[current]
 
 while True:
     for event in pygame.event.get():

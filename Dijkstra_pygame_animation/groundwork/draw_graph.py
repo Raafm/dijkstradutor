@@ -47,12 +47,11 @@ def display_graph(screen,graph,nodes,edge_dict):
 
         # draw circul of current node:         color == [0] ,   position   ==    [1] ,         radius  =  [2]
         pygame.draw.circle( screen,  nodes[node_counter][0] , nodes[node_counter][1] , nodes[node_counter][2] )
-        
         text = font.render(str(node_counter),True,node_number_color)           # print node number            
         screen.blit(text,text.get_rect(center=nodes[node_counter][1]))  # print node number
         node_counter += 1                                               # print node number
         
-    pygame.display.update()
+    pygame.display.flip()
 
 
 # for testing purposes
