@@ -125,3 +125,30 @@ except KeyError:
 
 print(f"The least distance from {source} to {destination} is {dist[destiny_num]}, which corresponds to this path:")
 print(path_string[:-4])
+
+for element in path_list:
+
+    point1 = ['IT',	41.87194,	12.56738,	'Italy']
+    point2 = ['VA',	41.902916,	12.453389,	'Vatican City']
+
+    def median_point(coordinate1,coordinate2):
+        media =list()
+        media.append(  (coordinate1[0] + coordinate2[0])/2  )
+        media.append( (coordinate1[1] + coordinate2[1])/2 )
+        return media
+
+    m = folium.Map(location = [0,0], zomm_start = 0.1)
+    folium.Marker(location = [point2[1], point2[2]],popup = 'Latin',zomm_start  = 1).add_to(m)
+
+    folium.Marker(location = [point1[1], point1[2]],popup = 'English', zomm_start = 1).add_to(m)
+
+    loc = [(point1[1], point1[2]),
+        (point2[1], point2[2])]
+
+    coordinate1 = [ point1[1] , point1[2] ]
+    coordinate2 = [ point2[1] , point2[2] ]
+
+    folium.Marker(median_point(coordinate1, coordinate2),weight =3, popup = 'idioma').add_to(m)
+
+    folium.PolyLine(loc, weight=3, color='blue').add_to(m)
+    m.save('coiso.html')
