@@ -150,8 +150,8 @@ idioma = path_list[-2]
 pais_recebe = None
 
 
-is_source = True
-is_idioma = True
+is_source = True                #because we need to jump the first node in the for loop (wich is the source)
+is_idioma = True                #indicates if current node in reversed(path_list) is an idiom or a country. As it is a bicolorable kind of graph, after a idiom we have a country
 for element in reversed(path_list):
     
     if is_source:
@@ -163,10 +163,7 @@ for element in reversed(path_list):
         
     else:    
         pais_recebe = [   num_initials[element],    num_coordinates[element-614][0],    num_coordinates[element-614][1] ]  
-
-        # pais_envia = ['IT',	41.87194,	12.56738,	'Italy']
-        # pais_recebe = ['VA',	41.902916,	12.453389,	'Vatican City']
-
+        
         loc = [(pais_envia[1], pais_envia[2]),
             (pais_recebe[1], pais_recebe[2])]
 
@@ -177,14 +174,14 @@ for element in reversed(path_list):
         
         text_popup = 'de:  ' +  pais_envia[0] + ', para: '+ pais_recebe[0] + 'idioma: ' + idioma
         
-        folium.Marker(median_pais(coordinate1, coordinate2),weight =3, popup = text_popup).add_to(m)
+        folium.Marker(median_pais(coordinate1, coordinate2),weight =3, popup = text_popup).add_to(m)                    # escrever em cima da linha que une os países
         
-        folium.PolyLine(loc, weight=3, color='blue').add_to(m)
+        folium.PolyLine(loc, weight=3, color='blue').add_to(m)                                                          # drawline    
         
         pais_envia = pais_recebe
         
     is_idioma   =  not is_idioma
     
-m.save('coiso.html')
+m.save('coiso.html')        #mapa
     
     
