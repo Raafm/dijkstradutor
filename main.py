@@ -1,9 +1,9 @@
 # Local application imports only
 # adj is the adjacency list of the graph that represents the database
 # (it can be found on dijkstradutor/Database)
-from Create_graph.adjacency import adj
-from Create_graph.Nodes.data_relations.data_relations import initials_name, num_initials, initials_num, num_coordinates
-from heap import Heap
+from data_treatment.adjacency import adj
+from data_treatment.names_initials.data_relations.data_relations import initials_name, num_initials, initials_num, num_coordinates
+from Dijkstra_pygame_animation.groundwork.heap import Heap
 import folium
 
 N = 868  # number of vertices (languages + countries). They are numbere 1 through N+1
@@ -141,8 +141,11 @@ def median_pais(coordinate1,coordinate2):
 m = folium.Map(location = [0,0], zomm_start = 0.1)
 
    
-    
-pais_envia =  [   num_initials[path_list[-1]],    num_coordinates[path_list[-1]][0],    num_coordinates[path_list[-1]][1]  ]  
+
+pais_envia = []
+pais_envia.append(num_initials[path_list[-1]])
+pais_envia.append(num_coordinates[path_list[-1]-614][0])
+pais_envia.append(num_coordinates[path_list[-1]-614][1])  
 idioma = path_list[-2]
 pais_recebe = None
 
@@ -159,7 +162,7 @@ for element in reversed(path_list):
         idioma = num_initials[element]
         
     else:    
-        pais_recebe = [   num_initials[element],    num_coordinates[element][0],    num_coordinates[element][1] ]  
+        pais_recebe = [   num_initials[element],    num_coordinates[element-614][0],    num_coordinates[element-614][1] ]  
 
         # pais_envia = ['IT',	41.87194,	12.56738,	'Italy']
         # pais_recebe = ['VA',	41.902916,	12.453389,	'Vatican City']
@@ -177,12 +180,11 @@ for element in reversed(path_list):
         folium.Marker(median_pais(coordinate1, coordinate2),weight =3, popup = text_popup).add_to(m)
         
         folium.PolyLine(loc, weight=3, color='blue').add_to(m)
-        m.save('coiso.html')
         
         pais_envia = pais_recebe
         
     is_idioma   =  not is_idioma
     
-    
+m.save('coiso.html')
     
     

@@ -1,4 +1,4 @@
-The countries are Brazil (BR), Germany (DE), Russia (RU), India (IN), United States (US), 
+The countries are Brazil (BR), Germany (DE), Russia (RU), India (IN), United States (US), China (CN), 
 
 The languages incident with any of these countries are:
 
@@ -16,6 +16,8 @@ Adyghe (ady)
 Karelian (krl)
 Lak (lbe)
 Greek (el)
+Kazakh (kk)
+Uyghur (ug)
 French (fr)
 English (en)
 Spanish (es)
@@ -38,6 +40,15 @@ Nepali (ne)
 Japanese (ja)
 Korean (ko)
 Turkish (tr)
+name_not_found (wuu)
+name_not_found (hsn)
+name_not_found (hak)
+name_not_found (nan)
+name_not_found (gan)
+Sichuan Yi (ii)
+Zhuang (za)
+name_not_found (mn)
+Tibetan (bo)
 Vietnamese (vi)
 Polish (pl)
 Danish (da)
@@ -219,4 +230,19 @@ United States (US):
 	Russian (ru), 0.002
 	Korean (ko), 0.003
 	Chinese (zh), 0.007
+
+China (CN):
+	name_not_found (wuu), 0.06
+	name_not_found (mn), 0.003
+	name_not_found (gan), 0.017
+	Korean (ko), 0.002
+	Kazakh (kk), 0.001
+	name_not_found (hak), 0.023
+	Tibetan (bo), 0.002
+	name_not_found (hsn), 0.029
+	Zhuang (za), 0.003
+	Uyghur (ug), 0.006
+	Sichuan Yi (ii), 0.006
+	Chinese (zh), 0.9
+	name_not_found (nan), 0.019
 
