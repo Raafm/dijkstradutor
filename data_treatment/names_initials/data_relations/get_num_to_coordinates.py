@@ -1,3 +1,5 @@
+
+
 #meta: vetor de numero de node para coordenadas
 
 
@@ -5,8 +7,8 @@
 
 #   hash de sigla para numero de node
 #   vetor de numero de node para sigla.
-#   tabela que dado sigla acho a coordenada
-
+#   tabela que dado sigla acho a coordenada:   https://developers.google.com/public-data/docs/canonical/countries_csv
+#    esta tabela é a localizacoes.txt
 #MODO:  numero de node-> sigla->coordenada
 
 
