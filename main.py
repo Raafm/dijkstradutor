@@ -3,7 +3,7 @@
 # (it can be found on dijkstradutor/Database)
 from Create_graph.adjacency import adj
 from Create_graph.Nodes.data_relations.data_relations import initials_name, num_initials, initials_num
-from heap import MaxHeap
+from heap import Heap
 
 N = 868  # number of vertices (languages + countries). They are numbere 1 through N+1
 
@@ -30,11 +30,11 @@ if command == 0:  # integer inputs
         except ValueError:
             print("This is not a number! Please try again.")
     print()  # new line
-    # handling destiny integer input
+    # handling destination integer input
     while True:
         try:
-            destiny = int(input("Destination country (in range [615, 868]): "))  # an integer from 615 to 868
-            if destiny < 615 or destiny > 868:
+            destination = int(input("Destination country (in range [615, 868]): "))  # an integer from 615 to 868
+            if destination < 615 or destination > 868:
                 print("Number out of range! Try again.")
                 continue
             break
@@ -49,18 +49,18 @@ else:  # string inputs
         except KeyError:
             print("These initials are not in the database! Please try again. (Hint: use capital letters and/or try finding a shorter country code")
     print()  # new line
-    # handling destiny string input
+    # handling destination string input
     while True:
         try:
-            destiny = initials_num[input("Destination country: ")]
+            destination = initials_num[input("Destination country: ")]
             break
         except KeyError:
             print("These initials are not in the database! Please try again. (Hint: use capital letters and/or try finding a shorter country code")
 print()  # new line
 
 # this defines a min priority queue (pq) of pairs for use in the Dijkstra.
-# The pairs used will be of the form (vertex, distance_from_source).
-pq = MaxHeap(comp=lambda tuple1, tuple2: tuple1[0] > tuple1[1])
+# The pairs used will be of the form (distance_from_source, vertex).
+pq = Heap(comp=lambda tuple1, tuple2: tuple1[0] > tuple1[1])
 pq.insert( (0, source) )
 
 # distances from source. There are 1255 edges in the database and each
@@ -76,7 +76,7 @@ while not pq.empty():
     dist_src, vertex = pq.pop()  # distance to source, vertex
     if dist_src > dist[vertex]:
         continue
-    if vertex == destiny:
+    if vertex == destination:
         break
     # if vertex >= 615, then 'vertex'it is a country, and its neighbours are languages.
     # Otherwise, it is a lang, and its neighbours are countries.
@@ -87,9 +87,9 @@ while not pq.empty():
             pq.insert( (dist[neighbour], neighbour) )
 # dijkstra terminated
 
-# saving the path from source to destiny in a single array for outputting
+# saving the path from source to destination in a single array for outputting
 path_list = []
-current = destiny
+current = destination
 while current is not None:
     path_list.append(current)
     current = path[current]
@@ -116,12 +116,12 @@ try:
 except KeyError:
     pass
 
-destiny_num = destiny
-destiny = num_initials[destiny]  # getting the initials which correspond to destiny
+destiny_num = destination
+destination = num_initials[destination]  # getting the initials which correspond to destination
 try:
-    destiny = initials_name[destiny]
+    destination = initials_name[destination]
 except KeyError:
     pass
 
-print(f"The least distance from {source} to {destiny} is {dist[destiny_num]}, which corresponds to this path:")
+print(f"The least distance from {source} to {destination} is {dist[destiny_num]}, which corresponds to this path:")
 print(path_string[:-4])
