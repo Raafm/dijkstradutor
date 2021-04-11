@@ -10,7 +10,7 @@ from groundwork.graph import test_graph as graph
 from groundwork.graph import nodes, edge_dict
 from groundwork.heap import Heap
 from groundwork.colors import *
-# fiz um arquivo com as cores em rgb,
+# fiz um arquivo com as cores em rgb, 
 # podemos pegar de la as cores que formos usar.
 # Mesmo se vc achar que nao vai usar, nao apague as outras cores,
 # pois talvez vc mude de ideia sobre as melhores cores para o node.
@@ -24,7 +24,7 @@ node_number_color = Red
 number_size = 12
 
 INFINITY = 1000000
-time_delay = 0.5               # tempo referencia para o codigo parar apos atualizar a tela
+time_delay = 2               # tempo referencia para o codigo parar apos atualizar a tela
 
 source = int(input("Source: "))                                #    TRATAR ERROS DE INPUT
 destination = int(input("Destination: "))

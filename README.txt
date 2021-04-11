@@ -1,7 +1,12 @@
-Caso você seja desenvolvedor comigo, 
-pedi-lo-ei que atente ao fazer o dijkstra e nao coloque ele para ir em lugares com arestas de pesos negativos.
-Para entender porque isso não faze sentido, leia o file: ideia_unicode.txt
-Deixo porém a ideia de usar possivelmlente interpretar o weight ==0 como sendo chance zero de entrar no país, está a seu critério.
+data_treatment: tratamento dos dados nos dois links no final deste README e
+armazenamento dos dados que relacionam siglas a nomes
+
+Database: armazenamento dos dados do Unicodelang, os dados principais de
+relação entre países e línguas
+
+Dijkstra_pygame_animation: o main.py deste diretório contém um programa que
+ilustra, em escala reduzida, o funcionamento do Dijkstra aplicado sobre a
+base de dados coletada através de uma animação. 
 
 NOTA: 
 ALTERAMOS O NOME DOS ARQUIVOS ORIGINAIS DO DATABASE, PORÉM OS MESMOS ESTÃO FACILMENTE RECONHECÍVEIS
