@@ -1,4 +1,4 @@
-from .colors import White, Cyan, Silver
+from .colors import White, Cyan, Gray
 
 initial_node_color = White
 initial_edge_color = Cyan
@@ -64,84 +64,84 @@ for node_u, node_v, weight, edge_color in edge_list:
 # esse eh o grafo printado na linha 58
 test_graph = [
     [
-     [1, 100, Silver],
-     [2, 200, Silver]
+     [1, 100, Gray],
+     [2, 200, Gray]
     ],
 
     [
-     [0, 100, Silver],
-     [2, 100, Silver],
-     [3, 300, Silver]
+     [0, 100, Gray],
+     [2, 100, Gray],
+     [3, 300, Gray]
     ],
 
     [
-     [0, 200, Silver],
-     [1, 100, Silver],
-     [3, 300, Silver],
-     [4, 400, Silver]
+     [0, 200, Gray],
+     [1, 100, Gray],
+     [3, 300, Gray],
+     [4, 400, Gray]
     ],
 
     [
-     [1, 300, Silver],
-     [2, 300, Silver],
-     [5, 200, Silver],
-     [7, 600, Silver]
+     [1, 300, Gray],
+     [2, 300, Gray],
+     [5, 200, Gray],
+     [7, 600, Gray]
     ],
 
     [
-     [2, 400, Silver],
-     [5, 200, Silver],
-     [6, 400, Silver],
-     [8, 200, Silver]
+     [2, 400, Gray],
+     [5, 200, Gray],
+     [6, 400, Gray],
+     [8, 200, Gray]
     ],
 
     [
-     [3, 200, Silver],
-     [4, 200,Silver],
-     [6, 400, Silver],
-     [7, 300, Silver],
-     [10, 400, Silver]
+     [3, 200, Gray],
+     [4, 200,Gray],
+     [6, 400, Gray],
+     [7, 300, Gray],
+     [10, 400, Gray]
     ],
 
     [
-     [4, 400, Silver],
-     [5, 400, Silver],
-     [10, 200, Silver]
+     [4, 400, Gray],
+     [5, 400, Gray],
+     [10, 200, Gray]
     ],
 
     [
-     [3, 600, Silver],
-     [5, 300, Silver],
-     [11, 300, Silver]
+     [3, 600, Gray],
+     [5, 300, Gray],
+     [11, 300, Gray]
     ],
 
     [
-     [4, 200, Silver],
-     [10, 200, Silver]
+     [4, 200, Gray],
+     [10, 200, Gray]
     ],
 
     [
-     [11, 400, Silver]
+     [11, 400, Gray]
     ],
 
     [
-     [5, 400, Silver],
-     [6, 200, Silver],
-     [8, 200, Silver],
-     [11, 300, Silver],
-     [12, 500, Silver]
+     [5, 400, Gray],
+     [6, 200, Gray],
+     [8, 200, Gray],
+     [11, 300, Gray],
+     [12, 500, Gray]
     ],
 
     [
-     [7, 300, Silver],
-     [9, 400, Silver],
-     [10, 300, Silver],
-     [12, 200, Silver]
+     [7, 300, Gray],
+     [9, 400, Gray],
+     [10, 300, Gray],
+     [12, 200, Gray]
     ],
 
     [
-     [10, 500, Silver],
-     [11, 200, Silver]
+     [10, 500, Gray],
+     [11, 200, Gray]
     ]
 ]
 

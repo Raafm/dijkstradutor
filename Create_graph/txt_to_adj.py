@@ -24,13 +24,13 @@ for line in in_file:
 	country = int(line[0]) + 614
 	lang = int(line[1])
 	prob = float(line[2])
-	# edges with no database-weight are ignored (they simply mean that country
-	# doesn't speak lang)
+	# edges with database-weight equal to 0 are ignored (they simply mean
+	# that country doesn't speak lang)
 	if prob > 0:
 		# an edge with database-weight greater than 0 from a country to a lang
 		# costs nothing from the point of view of the problem this program 
 		# intends to solve, so they are assigned weight 0
-		adj[country].append((lang, 0))
+		adj[country].append((lang, prob))
 		adj[lang].append((country, prob))
 
 in_file.close()

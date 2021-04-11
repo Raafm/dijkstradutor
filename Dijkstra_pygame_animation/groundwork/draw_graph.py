@@ -35,7 +35,7 @@ def display_graph(screen,graph,nodes,edge_dict):
             for edge in edge_dict: # draw edges
                 n1, n2 = edge
                 color, weight = edge_dict[edge]
-                pygame.draw.line(screen, color, nodes[n1][1], nodes[n2][1])
+                pygame.draw.line(screen, color, nodes[n1][1], nodes[n2][1], 3)
 
             #show       weight(cost) of edge, place at the meadian_point between our current nodes
             show_weight(weight, median_point( nodes[node_counter][1], nodes[neighbour_node][1] ))

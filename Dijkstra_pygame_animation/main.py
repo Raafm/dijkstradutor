@@ -17,7 +17,7 @@ from groundwork.colors import * #White, Red, Yellow, Cyan
 # As cores atualmente em uso aqui são as importadas acima
 
 color_unvisited = White         # se modificar esse tme que modificar no arquivo graph tambem, ou fazer funcao para  modificar aqui
-color_current_node = Silver
+color_current_node = Gray
 color_visited   = Black	    
 color_current_edge = Cyan
 
@@ -68,7 +68,7 @@ while not pq.empty():
     nodes[curr_node][2] += 10                      # aumenta tamanho do node
 
     if curr_node != source:
-        nodes[curr_node][0] = color_current_node  # indica a visita ao node
+        nodes[curr_node][0] = color_current_node   # indica a visita ao node
 
     display_graph(screen,graph,nodes,edge_dict)             # atualiza a tela
     time.sleep(time_delay)
@@ -81,19 +81,24 @@ while not pq.empty():
         # modifica cor do neighbour
         # this changes the rgb color of the edge from curr_node to neighbour_node
         edge_dict[tuple(sorted((curr_node, neighbour_node)))] = (color_current_edge, weight)
+        # this saves the current color of the neighbour
         former_neighbour_colors.append(nodes[neighbour_node][0])
+        # this changes its color to yellow, meaning the neighbour is been analyzed by the algorithm
         nodes[neighbour_node][0] = Yellow
         display_graph(screen,graph,nodes,edge_dict)
         time.sleep(time_delay)
 
+        # this relaxes the edge and puts it in the priority queue if necessary
         if cost[neighbour_node] > cost[curr_node] + weight:
-            cost[neighbour_node] = weight + cost[curr_node]   # relax edge
-            parent[neighbour_node] = curr_node                # remember his parent in the shortest path tree
+            cost[neighbour_node] = weight + cost[curr_node] 
+            parent[neighbour_node] = curr_node                # remember its parent in the shortest path tree
             pq.insert( (cost[neighbour_node], neighbour_node) )
 
+    # this gives the neighbours their original color back
     for neighbour_index, (neighbour_node, _, _) in enumerate(graph[curr_node]):
         nodes[neighbour_node][0] = former_neighbour_colors[neighbour_index]
-        
+    
+
     nodes[curr_node][2] -= 10  # volta o node para o tamanho normal
     nodes[curr_node][0] = color_visited
 # dijkstra terminated
