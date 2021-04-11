@@ -1,12 +1,15 @@
 data_treatment: tratamento dos dados nos dois links no final deste README e
-armazenamento dos dados que relacionam siglas a nomes
+armazenamento dos dados que relacionam siglas a nomes.
 
 Database: armazenamento dos dados do Unicodelang, os dados principais de
-relação entre países e línguas
+relação entre países e línguas.
 
 Dijkstra_pygame_animation: o main.py deste diretório contém um programa que
 ilustra, em escala reduzida, o funcionamento do Dijkstra aplicado sobre a
 base de dados coletada através de uma animação.
+
+main.py: programa principal, que apresenta o menor caminho entre dois países
+passados como input.
 
 NOTA: 
 ALTERAMOS O NOME DOS ARQUIVOS ORIGINAIS DO DATABASE, PORÉM OS MESMOS ESTÃO FACILMENTE RECONHECÍVEIS
