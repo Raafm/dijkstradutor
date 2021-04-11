@@ -6,7 +6,7 @@ relação entre países e línguas
 
 Dijkstra_pygame_animation: o main.py deste diretório contém um programa que
 ilustra, em escala reduzida, o funcionamento do Dijkstra aplicado sobre a
-base de dados coletada através de uma animação. 
+base de dados coletada através de uma animação.
 
 NOTA: 
 ALTERAMOS O NOME DOS ARQUIVOS ORIGINAIS DO DATABASE, PORÉM OS MESMOS ESTÃO FACILMENTE RECONHECÍVEIS
