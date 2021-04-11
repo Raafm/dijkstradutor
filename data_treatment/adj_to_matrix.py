@@ -1,7 +1,7 @@
 """
 Program for generating the adjacency matrix of the database from the created
 adjacency list (adjacency.py). This is done for showing that popular graph
-sites, such as, https://graphonline.ru/en/create_graph_by_matrix , are not
+sites, such as, https://graphonline.ru/en/data_treatment_by_matrix , are not
 capable of handling our input and solving the problem we solve.
 """
 
@@ -31,7 +31,7 @@ for vertex in range(1, N+1):
 # the file needed (unicodelang_country.txt) is not in the current directory
 # or in a subdirectory, so relative paths won't work.
 base = str(Path().absolute().parent)
-file = open(base+r"\Create_graph\matrix.txt", 'w')
+file = open(base+r"\data_treatment\matrix.txt", 'w')
 
 for vertex in range(1, N+1):
 	for neighbour in range(1, N+1):

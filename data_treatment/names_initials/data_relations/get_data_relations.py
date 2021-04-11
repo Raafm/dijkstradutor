@@ -15,7 +15,7 @@ base = str(Path().absolute().parent.parent.parent)
 # siglas_nomes.txt, which provides the initials of each name of country.
 initals_name = {}
 
-with open(base+r"\Create_graph\Nodes\siglas_nomes.txt", 'r') as file1:
+with open(base+r"\data_treatment\Nodes\siglas_nomes.txt", 'r') as file1:
 	for line in file1:
 		if line == '\n':
 			continue
