@@ -9,14 +9,14 @@ height = 700
 width  = 950
 
 def tela(latitude, longitude):
-    x = ((width / 2)/180)*(longitude + 180) 
+    x = ((width / 2)/180)*(longitude + 180)
     y = ((height / 2 )/90)*( 90 - latitude )+ 250
     return (x,y)
 
 def write(texto = "",position = (0,0),size = 10,cor = (100,0,0)):
     font = pygame.font.Font('freesansbold.ttf',size)
     text = font.render(texto,True,cor)
-    screen.blit(text,position)
+    screen.blit(text,text.get_rect(center=position))
 
 def draw_edges(screen,edge_list,num_sigla,nodes):
 
@@ -43,5 +43,3 @@ while running:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             running = False
-
-
