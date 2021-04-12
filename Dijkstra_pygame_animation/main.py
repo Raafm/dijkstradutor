@@ -5,9 +5,10 @@ import time
 import pygame
 
 # local (from this project)
+from groundwork.graph_countries_data import mini_graph as graph, nodes, edge_list, num_sigla, edge_dict
 from groundwork.draw_graph import display_graph
-from groundwork.graph import test_graph as graph
-from groundwork.graph import nodes, edge_dict
+# from groundwork.graph import test_graph as graph
+# from groundwork.graph import nodes, edge_dict
 from groundwork.heap import Heap
 from groundwork.colors import *
 # fiz um arquivo com as cores em rgb, 
@@ -21,21 +22,21 @@ color_current_node = Gray
 color_visited   = Black	    
 color_current_edge = Cyan
 node_number_color = Red
-number_size = 12
+number_size = 15
 
 INFINITY = 1000000
-time_delay = 2               # tempo referencia para o codigo parar apos atualizar a tela
+time_delay = 1               # tempo referencia para o codigo parar apos atualizar a tela
 
 source = int(input("Source: "))                                #    TRATAR ERROS DE INPUT
 destination = int(input("Destination: "))
 
 pygame.init()
 
-screen = pygame.display.set_mode((800,600))
+screen = pygame.display.set_mode((900,700))
 
 nodes[source][0] = Blue  # initial color of source
 
-display_graph(screen,graph,nodes,edge_dict)                              # display inicial da tela
+display_graph(screen,graph,nodes,edge_dict, num_sigla)                    # display inicial da tela
 
 time.sleep(time_delay)
 
@@ -48,7 +49,7 @@ parent = [None]*(len(nodes)+1)
 
 # this defines a min priority queue (pq) of pairs for use in the Dijkstra.
 # The pairs used will be of the form (distance_from_source, vertex).
-pq = Heap(comp=lambda tuple1, tuple2: tuple1[0] > tuple1[1])
+pq = Heap(comp=lambda tuple1, tuple2: tuple1[0] > tuple2[0])
 pq.insert( (0, source) )
 
 # this is the dijkstra loop as well as the animation loop
@@ -63,8 +64,9 @@ while not pq.empty():
                 pygame.quit()
                 exit()
 
-    curr_node_cost, curr_node = pq.pop()          # "curr" stands for "current"
+    curr_node_cost, curr_node = pq.pop()           # "curr" stands for "current"
     if curr_node_cost > cost[curr_node]:
+        print("hi")
         continue
 
     nodes[curr_node][2] += 10                      # aumenta tamanho do node
@@ -72,13 +74,13 @@ while not pq.empty():
     if curr_node != source:
         nodes[curr_node][0] = color_current_node   # indica a visita ao node
 
-    display_graph(screen,graph,nodes,edge_dict)             # atualiza a tela
+    display_graph(screen,graph,nodes,edge_dict,num_sigla)             # atualiza a tela
     time.sleep(time_delay)
 
     if curr_node == destination:
         nodes[curr_node][0] = color_visited
         nodes[curr_node][2] -= 10
-        display_graph(screen,graph,nodes,edge_dict)
+        display_graph(screen,graph,nodes,edge_dict,num_sigla)
         time.sleep(time_delay)
         break
 
@@ -92,7 +94,8 @@ while not pq.empty():
         former_neighbour_colors.append(nodes[neighbour_node][0])
         # this changes its color to yellow, meaning the neighbour is been analyzed by the algorithm
         nodes[neighbour_node][0] = Yellow
-        display_graph(screen,graph,nodes,edge_dict)
+        display_graph(screen,graph,nodes,edge_dict,num_sigla)
+        pygame.display.flip()
         time.sleep(time_delay)
 
         # this relaxes the edge and puts it in the priority queue if necessary
@@ -105,7 +108,6 @@ while not pq.empty():
     for neighbour_index, (neighbour_node, _, _) in enumerate(graph[curr_node]):
         nodes[neighbour_node][0] = former_neighbour_colors[neighbour_index]
     
-
     nodes[curr_node][2] -= 10  # volta o node para o tamanho normal
     nodes[curr_node][0] = color_visited
 # dijkstra terminated
@@ -119,12 +121,12 @@ while current is not None:
 
     # drawing the nodes above the new lines
     pygame.draw.circle(screen, nodes[previous][0], nodes[previous][1], nodes[previous][2])
-    text = font.render(str(previous),True,node_number_color)           # print node number            
+    text = font.render(num_sigla[previous],True,node_number_color)           # print node number            
     screen.blit(text,text.get_rect(center=nodes[previous][1]))  # print node number
 
     pygame.draw.circle(screen, nodes[current][0], nodes[current][1], nodes[current][2])
-    text = font.render(str(current),True,node_number_color)           # print node number            
-    screen.blit(text,text.get_rect(center=nodes[current][1]))  # print node number    
+    text = font.render(num_sigla[current],True,node_number_color)           # print node number            
+    screen.blit(text,text.get_rect(center=nodes[current][1]))         # print node number    
 
     pygame.display.flip()
     time.sleep(time_delay)

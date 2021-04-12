@@ -61,7 +61,7 @@ print()  # new line
 
 # this defines a min priority queue (pq) of pairs for use in the Dijkstra.
 # The pairs used will be of the form (distance_from_source, vertex).
-pq = Heap(comp=lambda tuple1, tuple2: tuple1[0] > tuple1[1])
+pq = Heap(comp=lambda tuple1, tuple2: tuple1[0] > tuple2[0])
 pq.insert( (0, source) )
 
 # distances from source. There are 1255 edges in the database and each
@@ -180,6 +180,4 @@ for element in reversed(path_list):
         
     is_idioma = not is_idioma
     
-m.save('coiso.html')  # mapa
-    
-    
+m.save('mapa_caminho.html')  # mapa
