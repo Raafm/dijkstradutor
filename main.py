@@ -111,6 +111,7 @@ for vertex in reversed(path_list):
     is_country = not is_country
 
 # print handling
+source_int = source
 source = num_initials[source]  # transforming number into the associated initials
 try:
     source = initials_name[source]
@@ -127,31 +128,28 @@ except KeyError:
 print(f"The least distance from {source} to {destination} is {dist[destiny_num]}, which corresponds to this path:")
 print(path_string[:-4])
 
-
-
 # folium part down here
-
 def median_pais(coordinate1,coordinate2):
     media =list()
     media.append(  (coordinate1[0] + coordinate2[0])/2  )
     media.append( (coordinate1[1] + coordinate2[1])/2 )
     return media
 
-
-m = folium.Map(location = [0,0], zomm_start = 0.1)
-
-   
+m = folium.Map(location=[0,0], zoom_start=2)
 
 pais_envia = []
 pais_envia.append(num_initials[path_list[-1]])
 pais_envia.append(num_coordinates[path_list[-1]-615][0])
-pais_envia.append(num_coordinates[path_list[-1]-615][1])  
+pais_envia.append(num_coordinates[path_list[-1]-615][1])
+folium.Marker([pais_envia[1], pais_envia[2] ],weight=3, popup=initials_name[num_initials[source_int]]).add_to(m)
 idioma = path_list[-2]
 pais_recebe = None
 
-
-is_source = True                #because we need to jump the first node in the for loop (wich is the source)
-is_idioma = True                #indicates if current node in reversed(path_list) is an idiom or a country. As it is a bicolorable kind of graph, after a idiom we have a country
+#because we need to jump the first node in the for loop (wich is the source)
+is_source = True
+# indicates if current node in reversed(path_list) is an idiom or a country.
+# As it is a bipartite graph, after a idiom we have a country
+is_idioma = True
 for element in reversed(path_list):
     
     if is_source:
@@ -162,7 +160,7 @@ for element in reversed(path_list):
         idioma = num_initials[element]
         
     else:    
-        pais_recebe = [   num_initials[element],    num_coordinates[element-615][0],    num_coordinates[element-615][1] ]  
+        pais_recebe = [num_initials[element], num_coordinates[element-615][0], num_coordinates[element-615][1]]  
         
         loc = [(pais_envia[1], pais_envia[2]),
             (pais_recebe[1], pais_recebe[2])]
@@ -170,18 +168,18 @@ for element in reversed(path_list):
         coordinate1 = [ pais_envia[1] , pais_envia[2] ]
         coordinate2 = [ pais_recebe[1] , pais_recebe[2] ]
         
+        text_popup = 'from: ' +  initials_name[pais_envia[0]] + '\nto: ' + initials_name[pais_recebe[0]] + '\nlang: ' + initials_name[idioma]
         
+        # escrever em cima da linha que une os países
+        folium.Marker(median_pais(coordinate1, coordinate2),weight=3, popup=text_popup, icon=folium.Icon(icon="envelope", color="red")).add_to(m)
         
-        text_popup = 'de:  ' +  pais_envia[0] + ', para: '+ pais_recebe[0] + 'idioma: ' + idioma
-        
-        folium.Marker(median_pais(coordinate1, coordinate2),weight =3, popup = text_popup).add_to(m)                    # escrever em cima da linha que une os países
-        
-        folium.PolyLine(loc, weight=3, color='blue').add_to(m)                                                          # drawline    
+        # drawline
+        folium.PolyLine(loc, weight=3, color='blue').add_to(m)
         
         pais_envia = pais_recebe
         
-    is_idioma   =  not is_idioma
+    is_idioma = not is_idioma
     
-m.save('coiso.html')        #mapa
+m.save('coiso.html')  # mapa
     
     
