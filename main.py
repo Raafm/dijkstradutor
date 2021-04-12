@@ -144,8 +144,8 @@ m = folium.Map(location = [0,0], zomm_start = 0.1)
 
 pais_envia = []
 pais_envia.append(num_initials[path_list[-1]])
-pais_envia.append(num_coordinates[path_list[-1]-614][0])
-pais_envia.append(num_coordinates[path_list[-1]-614][1])  
+pais_envia.append(num_coordinates[path_list[-1]-615][0])
+pais_envia.append(num_coordinates[path_list[-1]-615][1])  
 idioma = path_list[-2]
 pais_recebe = None
 
@@ -162,7 +162,7 @@ for element in reversed(path_list):
         idioma = num_initials[element]
         
     else:    
-        pais_recebe = [   num_initials[element],    num_coordinates[element-614][0],    num_coordinates[element-614][1] ]  
+        pais_recebe = [   num_initials[element],    num_coordinates[element-615][0],    num_coordinates[element-615][1] ]  
         
         loc = [(pais_envia[1], pais_envia[2]),
             (pais_recebe[1], pais_recebe[2])]
