@@ -181,3 +181,4 @@ for element in reversed(path_list):
     is_idioma = not is_idioma
     
 m.save('mapa_caminho.html')  # mapa
+print("\nAn html file has been generated for the visualization of the path\non the world map. Try oppening it with your browser!")
