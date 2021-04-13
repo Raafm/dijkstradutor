@@ -6,7 +6,7 @@
 ### -    Um país só pode traduzir para um idioma que os habitantes saibam escrever e ler, 
 ### -    Do mesmo modo, só pode receber a mensagem em idioma que alguns entendam.
 
-## Veja a animção com pygame para entender melhor o código.
+## Veja a animção com pygame para entender melhor a lógica do dijkstra (algoritmo usado) aplicado a esse problema.
 
 ## Explicando os termos:
 
