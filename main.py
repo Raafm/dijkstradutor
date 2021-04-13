@@ -35,6 +35,9 @@ if command == 0:  # integer inputs
     while True:
         try:
             destination = int(input("Destination country (in range [615, 868]): "))  # an integer from 615 to 868
+            if destination == source:
+                print("Please choose a country other than the source country.")
+                continue
             if destination < 615 or destination > 868:
                 print("Number out of range! Try again.")
                 continue
@@ -51,7 +54,7 @@ else:  # string inputs
                 continue
             break
         except KeyError:
-            print("These initials are not in the database! Please try again. (Hint: use capital letters and/or try finding a shorter country code)")
+            print("These initials are not in the database! Please try again. (Hint: use capital letters and/or google the name of the country + 'country code')")
     print()  # new line
     # handling destination string input
     while True:
@@ -60,9 +63,12 @@ else:  # string inputs
             if destination < 615:
                 print("This is not a country code! Try again.")
                 continue
+            if destination == source:
+                print("Please choose a country other than the source country.")
+                continue
             break
         except KeyError:
-            print("These initials are not in the database! Please try again. (Hint: use capital letters and/or try finding a shorter country code)")
+            print("These initials are not in the database! Please try again. (Hint: use capital letters and/or google the name of the country + 'country code')")
 print()  # new line
 
 # this defines a min priority queue (pq) of pairs for use in the Dijkstra.
@@ -134,24 +140,23 @@ except KeyError:
 print(f"The least distance from {source} to {destination} is {dist[destiny_num]}, which corresponds to this path:")
 print(path_string[:-4])
 
-
-
 # folium part down here
+
 # now we have already found the answer for our question, the code from now on is for displaying the path of the message on a map.
 
-def median_pais(coordinate1,coordinate2):                       #return the middle point between both countries (will be used with the popup of the lines)
+def median_pais(coordinate1,coordinate2):  #return the middle point between both countries (will be used with the popup of the lines)
     media =list()
     media.append(  (coordinate1[0] + coordinate2[0])/2  )
     media.append( (coordinate1[1] + coordinate2[1])/2 )
     return media
 
-m = folium.Map(location=[0,0], zoom_start=2)       # create folium map (world map)
+m = folium.Map(location=[0,0], zoom_start=2)  # create folium map (world map)
 
-pais_envia = []             
+pais_envia = []
 pais_envia.append(num_initials[path_list[-1]])
 pais_envia.append(num_coordinates[path_list[-1]-615][0])
 pais_envia.append(num_coordinates[path_list[-1]-615][1])
-folium.Marker([pais_envia[1], pais_envia[2] ],weight=3, popup=initials_name[num_initials[source_int]]).add_to(m)        # write source on the map
+folium.Marker([pais_envia[1], pais_envia[2] ],weight=3, popup=initials_name[num_initials[source_int]]).add_to(m)  # write source on the map
 idioma = path_list[-2]
 pais_recebe = None
 
