@@ -52,7 +52,7 @@ passados como input.
 NOTA: 
 ALTERAMOS O NOME DOS ARQUIVOS ORIGINAIS DO DATABASE, PORÉM OS MESMOS ESTÃO FACILMENTE RECONHECÍVEIS
 
-Pegamos as informacoes dos sites:
+Pegamos as informações dos sites:
     https://www.unicode.org/cldr/cldr-aux/charts/25/supplemental/language_territory_information.html
     http://konect.cc/networks/unicodelang/
     https://developers.google.com/public-data/docs/canonical/countries_csv
