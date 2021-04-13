@@ -15,7 +15,7 @@
 ###     a mensagem foi passada do Brasil para os EUA em italiano; depois foi passada dos EUA para França em grego.
 ###     Temos então que a mensagem foi traduzida nos EUA do italiano para o grego.
 
-##Menos chances de ser entendida: caminho pelo qual a soma das frações da população de cada país que leem no idioma em que mensagem foi recebida e no qual será enviada é mínima.
+## Menos chances de ser entendida: caminho pelo qual a soma das frações da população de cada país que leem no idioma em que mensagem foi recebida e no qual será enviada é mínima.
 
 ### Uma das bases de dados usadas informa a fração de pessoas em um país que fala determinado idioma. 
 ### Exemplo: Brasil português 0.91 , significa que 91% dos brasileiros leem em português.
@@ -29,10 +29,10 @@
 ### a base de dados considera desprezível, por isso não haveria também quem pudesse ler e traduzir a mensagem.
 
 
-##Mudança de tradução: mudança de idioma de um país para outro.
-###Exemplo: Brasil ->italiano ->EUA -> francês -> Inglaterra,  a mensagem foi traduzida nos EUA do italiano para o francês.
+## Mudança de tradução: mudança de idioma de um país para outro.
+### Exemplo: Brasil ->italiano ->EUA -> francês -> Inglaterra,  a mensagem foi traduzida nos EUA do italiano para o francês.
 
-##Algumas informações gerais sobre os arquivos:
+## Algumas informações gerais sobre os arquivos:
 
 data_treatment: tratamento dos dados nos dois links no final deste README e
 armazenamento dos dados que relacionam siglas a nomes.
