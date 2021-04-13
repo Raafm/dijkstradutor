@@ -134,20 +134,24 @@ except KeyError:
 print(f"The least distance from {source} to {destination} is {dist[destiny_num]}, which corresponds to this path:")
 print(path_string[:-4])
 
+
+
 # folium part down here
-def median_pais(coordinate1,coordinate2):
+# now we have already found the answer for our question, the code from now on is for displaying the path of the message on a map.
+
+def median_pais(coordinate1,coordinate2):                       #return the middle point between both countries (will be used with the popup of the lines)
     media =list()
     media.append(  (coordinate1[0] + coordinate2[0])/2  )
     media.append( (coordinate1[1] + coordinate2[1])/2 )
     return media
 
-m = folium.Map(location=[0,0], zoom_start=2)
+m = folium.Map(location=[0,0], zoom_start=2)       # create folium map (world map)
 
-pais_envia = []
+pais_envia = []             
 pais_envia.append(num_initials[path_list[-1]])
 pais_envia.append(num_coordinates[path_list[-1]-615][0])
 pais_envia.append(num_coordinates[path_list[-1]-615][1])
-folium.Marker([pais_envia[1], pais_envia[2] ],weight=3, popup=initials_name[num_initials[source_int]]).add_to(m)
+folium.Marker([pais_envia[1], pais_envia[2] ],weight=3, popup=initials_name[num_initials[source_int]]).add_to(m)        # write source on the map
 idioma = path_list[-2]
 pais_recebe = None
 
@@ -194,15 +198,15 @@ for element in reversed(path_list):
 
         text_popup = 'from: ' +  nome_pais_envia + '\nto: ' + nome_pais_recebe + '\nlang: ' + nome_idioma
         
-        # escrever em cima da linha que une os países
+        # writes over the line that unites both countries
         folium.Marker(median_pais(coordinate1, coordinate2),weight=3, popup=text_popup, icon=folium.Icon(icon="envelope", color="red")).add_to(m)
         
-        # drawline
+        # draw the line
         folium.PolyLine(loc, weight=3, color='blue').add_to(m)
         
         pais_envia = pais_recebe
         
     is_idioma = not is_idioma
     
-m.save('mapa_caminho.html')  # mapa
+m.save('mapa_caminho.html')  # create html file with the map.
 print("\nAn html file has been generated for the visualization of the path\non the world map. Try oppening it with your browser!")
