@@ -3,33 +3,35 @@
 ## Dado um país de origem e um de destino, a aplicação retorna o caminho que deve fazer no mundo e para quais idiomas ela deve ser traduzida em cada país.
 
 ## As restrições são: 
-###     Um país só pode traduzir para um idioma que os habitantes saibam escrever e ler, 
-###     Do mesmo modo, só pode receber a mensagem em idioma que alguns entendam.
+### > -    Um país só pode traduzir para um idioma que os habitantes saibam escrever e ler, 
+### > -    Do mesmo modo, só pode receber a mensagem em idioma que alguns entendam.
+
+## Veja a animção com pygame para entender melhor o código.
 
 ## Explicando os termos:
 
-## MENSAGEM: um arquivo de texto, com algum texto, e em algum idioma.
+## 1. MENSAGEM: um arquivo de texto, com algum texto, e em algum idioma.
 
-## CAMINHO: sequencias de países que a mensagem percorre sendo enviada e em qual idioma ela foi enviada para cada país. 
+## 2. CAMINHO: sequencias de países que a mensagem percorre sendo enviada e em qual idioma ela foi enviada para cada país. 
 ###     Exemplo: Brasil -> italiano ->  EUA -> grego -> França.  Nesse caso a origem é o Brasil, o destino é a França, 
 ###     a mensagem foi passada do Brasil para os EUA em italiano; depois foi passada dos EUA para França em grego.
 ###     Temos então que a mensagem foi traduzida nos EUA do italiano para o grego.
 
-## MENOS CHANCES DE SER ENTENDIDA: caminho pelo qual a soma das frações da população de cada país que leem no idioma em que mensagem foi recebida e no qual será enviada é mínima.
+## 3. MENOS CHANCES DE SER ENTENDIDA: caminho pelo qual a soma das frações da população de cada país que leem no idioma em que mensagem foi recebida e no qual será enviada é mínima.
 
 ### Uma das bases de dados usadas informa a fração de pessoas em um país que fala determinado idioma. 
 ### Exemplo: Brasil português 0.91 , significa que 91% dos brasileiros leem em português.
 ### (na verdade, a descrição completa não é somente ler, mas: "the population that is able to read and write each language, and is comfortable enough to use it with computers.".
 ### Falo ler, para ser mais breve).
 
-### Exemplode caminho ineficiente: Brazil -> português ->portugal -> inglês -> EUA.  
+### > - Exemplo de caminho ineficiente: Brazil -> português ->portugal -> inglês -> EUA.  
 ### A ineficiência se dá porque muitos no Brasil e em Portugal podem ler em português, e muitos em Portugal e nos EUA podem ler em inglês.
-### Um caminho eficiente:  Brazil -> italiano -> EUA, pois existem pessoas no Brasil e no EUA que falam italiano, mas não são muitas (comparativamente).
-### Um caminho impossível: Brazil -> Húngaro -> EUA, pois apesar de poder haver na realidade pessoas tanto nos EUA como no Brasil que falam Húngaro, 
+### > - Um caminho eficiente:  Brazil -> italiano -> EUA, pois existem pessoas no Brasil e no EUA que falam italiano, mas não são muitas (comparativamente).
+### > - Um caminho impossível: Brazil -> Húngaro -> EUA, pois apesar de poder haver na realidade pessoas tanto nos EUA como no Brasil que falam Húngaro, 
 ### a base de dados considera desprezível, por isso não haveria também quem pudesse ler e traduzir a mensagem.
 
 
-## MUDANÇA DE TRADUÇÃO: mudança de idioma de um país para outro.
+## 4. MUDANÇA DE TRADUÇÃO: mudança de idioma de um país para outro.
 ### Exemplo: Brasil ->italiano ->EUA -> francês -> Inglaterra,  a mensagem foi traduzida nos EUA do italiano para o francês.
 
 ## Algumas informações gerais sobre os arquivos:
