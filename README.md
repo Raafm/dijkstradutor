@@ -3,8 +3,8 @@
 ## Dado um país de origem e um de destino, a aplicação retorna o caminho que deve fazer no mundo e para quais idiomas ela deve ser traduzida em cada país.
 
 ## As restrições são: 
-### > -    Um país só pode traduzir para um idioma que os habitantes saibam escrever e ler, 
-### > -    Do mesmo modo, só pode receber a mensagem em idioma que alguns entendam.
+### -    Um país só pode traduzir para um idioma que os habitantes saibam escrever e ler, 
+### -    Do mesmo modo, só pode receber a mensagem em idioma que alguns entendam.
 
 ## Veja a animção com pygame para entender melhor o código.
 
@@ -24,10 +24,10 @@
 ### (na verdade, a descrição completa não é somente ler, mas: "the population that is able to read and write each language, and is comfortable enough to use it with computers.".
 ### Falo ler, para ser mais breve).
 
-### > - Exemplo de caminho ineficiente: Brazil -> português ->portugal -> inglês -> EUA.  
+### - Exemplo de caminho ineficiente: Brazil -> português ->portugal -> inglês -> EUA.  
 ### A ineficiência se dá porque muitos no Brasil e em Portugal podem ler em português, e muitos em Portugal e nos EUA podem ler em inglês.
-### > - Um caminho eficiente:  Brazil -> italiano -> EUA, pois existem pessoas no Brasil e no EUA que falam italiano, mas não são muitas (comparativamente).
-### > - Um caminho impossível: Brazil -> Húngaro -> EUA, pois apesar de poder haver na realidade pessoas tanto nos EUA como no Brasil que falam Húngaro, 
+### - Um caminho eficiente:  Brazil -> italiano -> EUA, pois existem pessoas no Brasil e no EUA que falam italiano, mas não são muitas (comparativamente).
+### - Um caminho impossível: Brazil -> Húngaro -> EUA, pois apesar de poder haver na realidade pessoas tanto nos EUA como no Brasil que falam Húngaro, 
 ### a base de dados considera desprezível, por isso não haveria também quem pudesse ler e traduzir a mensagem.
 
 
