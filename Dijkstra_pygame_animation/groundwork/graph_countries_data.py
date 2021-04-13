@@ -1,4 +1,4 @@
-# erease the dot if you run draw_graph.py
+# erase the dot if you run draw_graph.py
 from .colors import White
 
 initial_color =(255,255,255)

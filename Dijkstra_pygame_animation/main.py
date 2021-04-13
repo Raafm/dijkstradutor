@@ -17,18 +17,43 @@ from groundwork.colors import *
 # pois talvez vc mude de ideia sobre as melhores cores para o node.
 # As cores atualmente em uso aqui são as importadas acima
 
+
+def check_quit():
+    """Terminates execution if the user asks to"""
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            pygame.quit()
+            exit()
+        elif event.type == pygame.KEYDOWN:
+            if event.key == pygame.K_ESCAPE or event.key == pygame.K_q:
+                pygame.quit()
+                exit()
+
+
 color_unvisited = White         # se modificar esse tme que modificar no arquivo graph tambem, ou fazer funcao para  modificar aqui
-color_current_node = Gray
-color_visited   = Black	    
-color_current_edge = Cyan
+color_current_node = Green
+color_visited   = Blue	    
+color_path_edge = Cyan
 node_number_color = Red
 number_size = 15
 
 INFINITY = 1000000
 time_delay = 1               # tempo referencia para o codigo parar apos atualizar a tela
 
-source = int(input("Source: "))                                #    TRATAR ERROS DE INPUT
-destination = int(input("Destination: "))
+print()
+print("Available countries: ")
+print("Brasil (BR):          6")
+print("Germany (DE):         7")
+print("India (IN):           8")
+print("Russia (RU):          9")
+print("United States (US):   10")
+print("Australia (AU):       11")
+print("China (CN):           12")
+print("\nHint: if you want a long run, try 6 and 12! It will find the shortest")
+print("path to all vertices from Brazil in this simplified graph!")
+print()
+source = int(input("Source (6 - 12): "))                                #    TRATAR ERROS DE INPUT
+destination = int(input("Destination (6 - 12): "))
 
 pygame.init()
 
@@ -55,27 +80,22 @@ pq.insert( (0, source) )
 # this is the dijkstra loop as well as the animation loop
 while not pq.empty():
 
-    for event in pygame.event.get():
-        if event.type == pygame.QUIT:
-            pygame.quit()
-            exit()
-        elif event.type == pygame.KEYDOWN:
-            if event.key == pygame.K_ESCAPE or event.key == pygame.K_q:
-                pygame.quit()
-                exit()
+    check_quit()
 
     curr_node_cost, curr_node = pq.pop()           # "curr" stands for "current"
     if curr_node_cost > cost[curr_node]:
-        print("hi")
         continue
 
-    nodes[curr_node][2] += 10                      # aumenta tamanho do node
-
     if curr_node != source:
-        nodes[curr_node][0] = color_current_node   # indica a visita ao node
+        # this changes the rgb color of the edge from curr_node to its parent
+        # node in the shortest path tree
+        edge_dict[tuple(sorted((curr_node, parent[curr_node])))] = (color_path_edge, weight)
+
+    nodes[curr_node][2] += 10                  # aumenta tamanho do node
+    nodes[curr_node][0] = color_current_node   # indica a visita ao node
 
     display_graph(screen,graph,nodes,edge_dict,num_sigla)             # atualiza a tela
-    time.sleep(time_delay)
+    time.sleep(time_delay+1.5)
 
     if curr_node == destination:
         nodes[curr_node][0] = color_visited
@@ -84,12 +104,9 @@ while not pq.empty():
         time.sleep(time_delay)
         break
 
-
     former_neighbour_colors = []
     for neighbour_index, (neighbour_node, weight, edge_color) in enumerate(graph[curr_node]):
-        # modifica cor do neighbour
-        # this changes the rgb color of the edge from curr_node to neighbour_node
-        edge_dict[tuple(sorted((curr_node, neighbour_node)))] = (color_current_edge, weight)
+        check_quit()
         # this saves the current color of the neighbour
         former_neighbour_colors.append(nodes[neighbour_node][0])
         # this changes its color to yellow, meaning the neighbour is been analyzed by the algorithm
@@ -106,6 +123,7 @@ while not pq.empty():
 
     # this gives the neighbours their original color back
     for neighbour_index, (neighbour_node, _, _) in enumerate(graph[curr_node]):
+        check_quit()
         nodes[neighbour_node][0] = former_neighbour_colors[neighbour_index]
     
     nodes[curr_node][2] -= 10  # volta o node para o tamanho normal
@@ -117,6 +135,7 @@ font = pygame.font.Font('freesansbold.ttf',number_size)
 previous = destination
 current = parent[destination]
 while current is not None:
+    check_quit()
     pygame.draw.line(screen, Green, nodes[previous][1], nodes[current][1], 3)
 
     # drawing the nodes above the new lines
@@ -135,11 +154,4 @@ while current is not None:
     current = parent[current]
 
 while True:
-    for event in pygame.event.get():
-        if event.type == pygame.QUIT:
-            pygame.quit()
-            exit()
-        elif event.type == pygame.KEYDOWN:
-            if event.key == pygame.K_ESCAPE or event.key == pygame.K_q:
-                pygame.quit()
-                exit()
+    check_quit()
