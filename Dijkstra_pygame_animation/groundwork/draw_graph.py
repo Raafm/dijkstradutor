@@ -7,12 +7,12 @@ else:
 
 circle_color = White
 line_color = Cyan
-peso_color = Red
+peso_color = Black
 node_number_color = Red
 text_color = Green
 number_size = 15
 radius = 7
-screen_color = Teal
+screen_color = Dark_gray
 
 pygame.font.init()
 font = pygame.font.Font('freesansbold.ttf',number_size)
@@ -53,6 +53,11 @@ def display_graph(screen,graph,nodes,edge_dict,num_sigla):
 
 # for testing purposes
 if __name__ == "__main__":
+
+    # WARNING: before running this file, go to graph_countries_data.py and
+    # erase the dot from the import statement. When you are done with
+    # draw_graph.py (the current file), put the dot back, else main.py won't
+    # work.
 
     from graph_countries_data import mini_graph as graph, nodes, edge_list, num_sigla, edge_dict
 
