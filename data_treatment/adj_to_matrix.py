@@ -1,8 +1,8 @@
 """
 Program for generating the adjacency matrix of the database from the created
 adjacency list (adjacency.py). This is done for showing that popular graph
-sites, such as, https://graphonline.ru/en/data_treatment_by_matrix , are not
-capable of handling our input and solving the problem we solve.
+sites, such as, https://graphonline.ru/en/ , are not capable of handling our
+input and solving the problem we solve.
 """
 
 from pathlib import Path

@@ -35,6 +35,9 @@ if command == 0:  # integer inputs
     while True:
         try:
             destination = int(input("Destination country (in range [615, 868]): "))  # an integer from 615 to 868
+            if destination == source:
+                print("Please choose a country other than the source country.")
+                continue
             if destination < 615 or destination > 868:
                 print("Number out of range! Try again.")
                 continue
@@ -46,23 +49,20 @@ else:  # string inputs
     while True:
         try:
             source = initials_num[input("Source country: ")]
-            if source < 615:
-                print("This is not a country code! Try again.")
-                continue
             break
         except KeyError:
-            print("These initials are not in the database! Please try again. (Hint: use capital letters and/or try finding a shorter country code)")
+            print("These initials are not in the database! Please try again. (Hint: use capital letters and/or google the name of the country + 'country code')")
     print()  # new line
     # handling destination string input
     while True:
         try:
             destination = initials_num[input("Destination country: ")]
-            if destination < 615:
-                print("This is not a country code! Try again.")
+            if destination == source:
+                print("Please choose a country other than the source country.")
                 continue
             break
         except KeyError:
-            print("These initials are not in the database! Please try again. (Hint: use capital letters and/or try finding a shorter country code)")
+            print("These initials are not in the database! Please try again. (Hint: use capital letters and/or google the name of the country + 'country code')")
 print()  # new line
 
 # this defines a min priority queue (pq) of pairs for use in the Dijkstra.
@@ -134,24 +134,20 @@ except KeyError:
 print(f"The least distance from {source} to {destination} is {dist[destiny_num]}, which corresponds to this path:")
 print(path_string[:-4])
 
-
-
 # folium part down here
-# now we have already found the answer for our question, the code from now on is for displaying the path of the message on a map.
-
-def median_pais(coordinate1,coordinate2):                       #return the middle point between both countries (will be used with the popup of the lines)
+def median_pais(coordinate1,coordinate2):
     media =list()
     media.append(  (coordinate1[0] + coordinate2[0])/2  )
     media.append( (coordinate1[1] + coordinate2[1])/2 )
     return media
 
-m = folium.Map(location=[0,0], zoom_start=2)       # create folium map (world map)
+m = folium.Map(location=[0,0], zoom_start=2)
 
-pais_envia = []             
+pais_envia = []
 pais_envia.append(num_initials[path_list[-1]])
 pais_envia.append(num_coordinates[path_list[-1]-615][0])
 pais_envia.append(num_coordinates[path_list[-1]-615][1])
-folium.Marker([pais_envia[1], pais_envia[2] ],weight=3, popup=initials_name[num_initials[source_int]]).add_to(m)        # write source on the map
+folium.Marker([pais_envia[1], pais_envia[2] ],weight=3, popup=initials_name[num_initials[source_int]]).add_to(m)
 idioma = path_list[-2]
 pais_recebe = None
 
@@ -178,35 +174,16 @@ for element in reversed(path_list):
         coordinate1 = [ pais_envia[1] , pais_envia[2] ]
         coordinate2 = [ pais_recebe[1] , pais_recebe[2] ]
         
-        nome_pais_envia = pais_envia[0]
-        try:
-            nome_pais_envia = initials_name[nome_pais_envia]
-        except KeyError:
-            pass
-
-        nome_pais_recebe = pais_recebe[0]
-        try:
-            nome_pais_recebe = initials_name[nome_pais_recebe]
-        except KeyError:
-            pass
-
-        nome_idioma = idioma
-        try:
-            nome_idioma = initials_name[idioma]
-        except KeyError:
-            pass
-
-        text_popup = 'from: ' +  nome_pais_envia + '\nto: ' + nome_pais_recebe + '\nlang: ' + nome_idioma
+        text_popup = 'from: ' +  initials_name[pais_envia[0]] + '\nto: ' + initials_name[pais_recebe[0]] + '\nlang: ' + initials_name[idioma]
         
-        # writes over the line that unites both countries
+        # escrever em cima da linha que une os países
         folium.Marker(median_pais(coordinate1, coordinate2),weight=3, popup=text_popup, icon=folium.Icon(icon="envelope", color="red")).add_to(m)
         
-        # draw the line
+        # drawline
         folium.PolyLine(loc, weight=3, color='blue').add_to(m)
         
         pais_envia = pais_recebe
         
     is_idioma = not is_idioma
     
-m.save('mapa_caminho.html')  # create html file with the map.
-print("\nAn html file has been generated for the visualization of the path\non the world map. Try oppening it with your browser!")
+m.save('mapa_caminho.html')  # mapa
