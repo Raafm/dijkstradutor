@@ -141,19 +141,22 @@ print(f"The least distance from {source} to {destination} is {dist[destiny_num]}
 print(path_string[:-4])
 
 # folium part down here
-def median_pais(coordinate1,coordinate2):
+
+# now we have already found the answer for our question, the code from now on is for displaying the path of the message on a map.
+
+def median_pais(coordinate1,coordinate2):  #return the middle point between both countries (will be used with the popup of the lines)
     media =list()
     media.append(  (coordinate1[0] + coordinate2[0])/2  )
     media.append( (coordinate1[1] + coordinate2[1])/2 )
     return media
 
-m = folium.Map(location=[0,0], zoom_start=2)
+m = folium.Map(location=[0,0], zoom_start=2)  # create folium map (world map)
 
 pais_envia = []
 pais_envia.append(num_initials[path_list[-1]])
 pais_envia.append(num_coordinates[path_list[-1]-615][0])
 pais_envia.append(num_coordinates[path_list[-1]-615][1])
-folium.Marker([pais_envia[1], pais_envia[2] ],weight=3, popup=initials_name[num_initials[source_int]]).add_to(m)
+folium.Marker([pais_envia[1], pais_envia[2] ],weight=3, popup=initials_name[num_initials[source_int]]).add_to(m)  # write source on the map
 idioma = path_list[-2]
 pais_recebe = None
 
